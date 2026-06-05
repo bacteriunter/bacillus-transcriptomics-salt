@@ -1,0 +1,190 @@
+set	KO	definition	foreground_with_KO	foreground_total	background_with_KO	background_total	oddsratio	pvalue	padj
+conserved_down	K02032	peptide/nickel transport system ATP-binding protein	3	176	3	2017	inf	0.0006540764133484078	0.06181022106142454
+conserved_down	K02035	peptide/nickel transport system substrate-binding protein	3	176	3	2017	inf	0.0006540764133484078	0.06181022106142454
+conserved_down	K01286	D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	2	176	2	2017	inf	0.0075745055913623086	0.11295766804083102
+conserved_down	K03969	phage shock protein A	2	176	2	2017	inf	0.0075745055913623086	0.11295766804083102
+conserved_down	K10823	oligopeptide transport system ATP-binding protein	2	176	2	2017	inf	0.0075745055913623086	0.11295766804083102
+conserved_down	K15580	oligopeptide transport system substrate-binding protein	2	176	2	2017	inf	0.0075745055913623086	0.11295766804083102
+conserved_down	K19420	protein tyrosine kinase modulator	2	176	2	2017	inf	0.0075745055913623086	0.11295766804083102
+conserved_down	K02031	peptide/nickel transport system ATP-binding protein	2	176	3	2017	21.149425287356323	0.021415363947390107	0.11295766804083102
+conserved_down	K02034	peptide/nickel transport system permease protein	2	176	3	2017	21.149425287356323	0.021415363947390107	0.11295766804083102
+conserved_down	K15582	oligopeptide transport system permease protein	2	176	3	2017	21.149425287356323	0.021415363947390107	0.11295766804083102
+conserved_down	K03091	RNA polymerase sigma-E/F/G factor	2	176	4	2017	10.568965517241379	0.040382975199940614	0.11295766804083102
+conserved_down	K00060	threonine 3-dehydrogenase [EC:1.1.1.103]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00088	IMP dehydrogenase [EC:1.1.1.205]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00231	protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00259	alanine dehydrogenase [EC:1.4.1.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00355	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00432	glutathione peroxidase [EC:1.11.1.9]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00459	nitronate monooxygenase [EC:1.13.12.16]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00567	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00615	transketolase [EC:2.2.1.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00639	glycine C-acetyltransferase [EC:2.3.1.29]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00761	uracil phosphoribosyltransferase [EC:2.4.2.9]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00819	ornithine--oxo-acid transaminase [EC:2.6.1.13]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00853	L-ribulokinase [EC:2.7.1.16]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00903	protein-tyrosine kinase [EC:2.7.10.3]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01046	triacylglycerol lipase [EC:3.1.1.3]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01119	2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01198	xylan 1,4-beta-xylosidase [EC:3.2.1.37]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01209	alpha-L-arabinofuranosidase [EC:3.2.1.55]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01216	licheninase [EC:3.2.1.73]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01218	mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01224	arabinogalactan endo-1,4-beta-galactosidase [EC:3.2.1.89]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01255	leucyl aminopeptidase [EC:3.4.11.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01262	Xaa-Pro aminopeptidase [EC:3.4.11.9]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01269	aminopeptidase [EC:3.4.11.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01299	carboxypeptidase Taq [EC:3.4.17.19]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01303	acylaminoacyl-peptidase [EC:3.4.19.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01342	subtilisin [EC:3.4.21.62]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01599	uroporphyrinogen decarboxylase [EC:4.1.1.37]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01661	naphthoate synthase [EC:4.1.3.36]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01720	2-methylcitrate dehydratase [EC:4.2.1.79]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01755	argininosuccinate lyase [EC:4.3.2.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01879	glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01937	CTP synthase [EC:6.3.4.2]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K01940	argininosuccinate synthase [EC:6.3.4.5]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02027	multiple sugar transport system substrate-binding protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02112	F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02115	F-type H+-transporting ATPase subunit gamma	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02242	competence protein ComFC	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02356	elongation factor P	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02874	large subunit ribosomal protein L14	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02892	large subunit ribosomal protein L23	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K02904	large subunit ribosomal protein L29	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03077	L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03339	6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase [EC:4.1.2.29]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03417	methylisocitrate lyase [EC:4.1.3.30]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03517	quinolinate synthase [EC:2.5.1.72]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03570	rod shape-determining protein MreC	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03666	host factor-I protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03697	ATP-dependent Clp protease ATP-binding subunit ClpE	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03739	membrane protein involved in D-alanine export	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K03817	ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K04077	chaperonin GroEL [EC:5.6.1.7]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K04079	molecular chaperone HtpG	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K05799	GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06336	spore coat-associated protein N	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06359	response regulator aspartate phosphatase A (stage 0 sporulation protein L) [EC:3.1.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06370	morphogenetic protein associated with SpoVID	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06378	stage II sporulation protein AA (anti-sigma F factor antagonist)	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06379	stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06380	stage II sporulation protein B	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06386	stage II sporulation protein Q	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06397	stage III sporulation protein AH	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06412	stage V sporulation protein G	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06605	myo-inositol catabolism protein IolH	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K06872	uncharacterized protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K07104	catechol 2,3-dioxygenase [EC:1.13.11.2]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K07124	uncharacterized protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K07692	two-component system, NarL family, response regulator DegU	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K07734	transcriptional regulator	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K08153	MFS transporter, DHA1 family, multidrug resistance protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K08217	MFS transporter, DHA3 family, macrolide efflux protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K08693	2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K11184	catabolite repression HPr-like protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K11619	lia operon protein LiaI	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K11620	lia operon protein LiaH	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K11686	chromosome-anchoring protein RacA	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K11751	5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K13276	bacillopeptidase F [EC:3.4.21.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K13280	signal peptidase I [EC:3.4.21.89]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K13533	two-component system, sporulation sensor kinase E [EC:2.7.13.3]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K14645	serine protease [EC:3.4.21.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15655	surfactin/lichenysin synthetase B	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15664	plipastatin/fengycin lipopeptide synthetase A	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15665	plipastatin/fengycin lipopeptide synthetase B	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15666	plipastatin/fengycin lipopeptide synthetase C	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15667	plipastatin/fengycin lipopeptide synthetase D	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15668	plipastatin/fengycin lipopeptide synthetase E	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15921	arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15924	glucuronoarabinoxylan endo-1,4-beta-xylanase [EC:3.2.1.136]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K15977	putative oxidoreductase	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K16199	dipeptide transport system substrate-binding protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K16203	D-amino peptidase [EC:3.4.11.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K16921	acetoin utilization transport system ATP-binding protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K17234	arabinooligosaccharide transport system substrate-binding protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K17236	arabinooligosaccharide transport system permease protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K17734	serine protease AprX [EC:3.4.21.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K17836	beta-lactamase class A [EC:3.5.2.6]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K18104	ATP-binding cassette, subfamily B, bacterial AbcA/BmrA [EC:7.6.2.2]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K18889	ATP-binding cassette, subfamily B, multidrug efflux pump	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K18890	ATP-binding cassette, subfamily B, multidrug efflux pump	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19418	membrane protein EpsK	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19419	transmembrane protein EpsG	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19421	polysaccharide biosynthesis protein EpsC	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19422	glycosyltransferase EpsD [EC:2.4.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19423	glycosyltransferase EpsE [EC:2.4.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19424	glycosyltransferase EpsF [EC:2.4.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19425	glycosyltransferase EpsH [EC:2.4.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19426	pyruvyl transferase EpsI [EC:2.-.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19427	glycosyltransferase EpsJ [EC:2.4.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19428	sugar transferase EpsL [EC:2.-.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19429	acetyltransferase EpsM [EC:2.3.1.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19430	pyridoxal phosphate-dependent aminotransferase EpsN [EC:2.6.1.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19431	pyruvyl transferase EpsO [EC:2.-.-.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19433	TasA anchoring/assembly protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K19689	aminopeptidase [EC:3.4.11.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K20608	tetrahedral aminopeptidase [EC:3.4.11.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K21466	penicillin-binding protein H	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K21467	penicillin-binding protein 3	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K22580	teichoic acid D-alanine hydrolase [EC:3.1.1.103]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K23060	arginine/lysine/histidine transport system ATP-binding protein [EC:7.4.2.1]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K24300	UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.135]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K24948	antimicrobial peptide resistance transport system permease protein	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K24949	antimicrobial peptide resistance transport system ATP-binding protein [EC:7.6.2.-]	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K24950	membrane fusion protein, antimicrobial resistance system	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K24951	membrane protein, antimicrobial resistance system	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K26248	repressor Rok	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K28762	MFS transporter, niacin uptake porter	1	176	1	2017	inf	0.0872583044124938	0.11295766804083102
+conserved_down	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K00648	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K00652	8-amino-7-oxononanoate synthase [EC:2.3.1.47]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K00681	gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K01261	glutamyl aminopeptidase [EC:3.4.11.7]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K01297	muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K01624	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02026	multiple sugar transport system permease protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02028	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02029	polar amino acid transport system permease protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02030	polar amino acid transport system substrate-binding protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02784	phosphocarrier protein HPr	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02804	N-acetylglucosamine PTS system EIICBA or EIICB component [EC:2.7.1.193]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02954	small subunit ribosomal protein S14	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K03118	sec-independent protein translocase protein TatC	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K03367	D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K03547	DNA repair protein SbcD/Mre11	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K04564	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K04749	anti-sigma B factor antagonist	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K04757	serine/threonine-protein kinase RsbW [EC:2.7.11.1]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K06314	prespore-specific regulator	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K06345	spore cortex protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K07284	sortase A [EC:3.4.22.70]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K07979	GntR family transcriptional regulator	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K08602	oligoendopeptidase F [EC:3.4.24.-]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K10255	acyl-lipid omega-6 desaturase (Delta-12 desaturase) [EC:1.14.19.23 1.14.19.45]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K11102	proton glutamate symport protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K15581	oligopeptide transport system permease protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K15583	oligopeptide transport system ATP-binding protein	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K15973	MarR family transcriptional regulator, 2-MHQ and catechol-resistance regulon repressor	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K19802	L-Ala-D/L-Glu epimerase / N-acetyl-D-glutamate racemase [EC:5.1.1.20 5.1.1.25]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K20742	gamma-D-glutamyl-L-lysine dipeptidyl-peptidase [EC:3.4.14.13]	1	176	2	2017	10.514285714285714	0.16694210323362527	0.1762684777159507
+conserved_down	K02004	putative ABC transport system permease protein	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K02033	peptide/nickel transport system permease protein	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K05366	penicillin-binding protein 1A [EC:2.4.99.28 3.4.16.4]	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K06418	small acid-soluble spore protein A/B/C/D	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K07258	serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K28810	spo0E family aspartyl-phosphate phosphatase	1	176	3	2017	5.2542857142857144	0.2397054728767429	0.24488829391191572
+conserved_down	K02003	putative ABC transport system ATP-binding protein	1	176	4	2017	3.500952380952381	0.30614630543567695	0.31108414907173626
+conserved_down	K01992	ABC-2 type transport system permease protein	1	176	5	2017	2.624285714285714	0.3668111093320112	0.37073422280080276
+conserved_down	K03088	RNA polymerase sigma-70 factor, ECF subfamily	1	176	6	2017	2.0982857142857143	0.42219940195505584	0.4244451434548168
+conserved_down	K01990	ABC-2 type transport system ATP-binding protein	1	176	7	2017	1.7476190476190476	0.47276772878544376	0.47276772878544376

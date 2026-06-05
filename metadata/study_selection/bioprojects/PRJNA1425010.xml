@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="1425010">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA1425010" archive="NCBI" id="1425010"/>
+        <CenterID center="GEO" id="0">GSE319727</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>The alarmone pGpp inhibits translation through GTP depletion II</Name>
+        <Title>The alarmone pGpp inhibits translation through GTP depletion II</Title>
+        <Description>Bacteria produce the alarmone nucleotides ppGpp and pppGpp during stress to affect replication, transcription, and metabolism. ppGpp and pppGpp also attenuate translation by competitively binding translational GTPases to conserve resources during stress. Recently, pGpp was identified as a third alarmone, and important pathogens like Clostridioides difficile exclusively produce pGpp in response to stress. Despite its abundance as an alarmone, the precise role of pGpp in mediating stress responses is poorly understood. Here, we show that, while pGpp is a weaker inhibitor of protein synthesis than ppGpp and pppGpp in vitro, pGpp production in the model Gram-positive bacterium Bacillus subtilis leads to faster translation inhibition in vivo. pGpp production leads to fewer ribosomes engaged in translation and more hibernating ribosome dimers than (p)ppGpp production, suggesting that translation initiation is strongly inhibited. Additionally, pGpp production depletes cellular GTP more rapidly than (p)ppGpp production, which we show is sufficient for translation inhibition. Faster GTP depletion during pGpp production is also accompanied by more robust transcriptome remodeling. This work expands the model by which alarmones inhibit translation to include GTP depletion and demonstrates how production of different alarmone species exert varying effects on physiology. Overall design: RNA-seq comparing Bacillus subtilis (p)ppGpp0 mutant (KAE55) vs. (p)ppGpp0 nahA(E49Q, E53Q) mutant (KAE213). Total RNA was collected from log-phase cells for differential expression analysis (t = 0 minutes), and repeatedly sampled 2 and 5 minutes post-rifampicin treatment (150 µg/mL) to calculate mRNA stability. 2 biological replicates for each strain.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE319727</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Relevance>
+          <Environmental>Yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="224308">
+              <OrganismName>Bacillus subtilis subsp. subtilis str. 168</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2026-02-18" submission_id="SUB16011247" submitted="2026-02-17">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Cornell University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB16011247-gse319727"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

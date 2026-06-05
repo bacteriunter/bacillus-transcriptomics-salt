@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="1109437">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA1109437" archive="NCBI" id="1109437"/>
+        <LocalID>bp0</LocalID>
+        <LocalID>bp0</LocalID>
+      </ProjectID>
+      <ProjectDescr>
+        <Title>Transcriptome analysis of Bacillus paralicheniformis</Title>
+        <Description>Transcriptome analysis of Bacillus paralicheniformis</Description>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultispecies"/>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2024-05-08" submission_id="SUB14433407" submitted="2024-05-08">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Huzhou University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB14433407-bp0"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

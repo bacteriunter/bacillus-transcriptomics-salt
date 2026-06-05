@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="431298">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA431298" archive="NCBI" id="431298"/>
+        <CenterID center="GEO" id="0">GSE109523</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Transcriptome analysis of Bacillus subtilis NBRC 16449 grown on surface of boiled soybeans under the similar condition to production of Japanese traditional soybean-fermented food &quot;natto&quot;</Name>
+        <Title>Transcriptome analysis of Bacillus subtilis NBRC 16449 grown on surface of boiled soybeans under the similar condition to production of Japanese traditional soybean-fermented food &quot;natto&quot;</Title>
+        <Description>Purpose:The goals of this study are to clarify the B. subtilis NBRC 16449 response to soybeans. Methods: B. subtilis NBRC 16449 cells were aerobically cultured in liquid LB, LB solidified with agar, or on surface of boiled soybeans to logarithmic growth phase. Total RNAs were extracted from bacterial cells by Hot-Phenol method. Samples for RNA-seq were prepared according to Illmina protocol available from the manufacture. The sequence reads that passed quality filters were analyzed at the transcript isoform level with bowtie v0.11.2. Results: Using an optimized data analysis workflow, we mapped around 15 million sequence reads per sample to the whole genome of B. subtilis BEST195 and identified 4271 transcripts in B. subtilis NBRC 16449 with Bowtie aligner. Read count per genome was extracted from known gene annotations with HTSeq program. Compared the transcriptomes of B. subtilis NBRC 16449 grown on LB solidified with agar to that grown on surface of boiled soybeans, about 5% of genes showed the different expression levels. Overall design: RNA profiles of B. subtilis NBRC 16449 grown under different conditions: liquid LB, LB solidified with agar, or surface of boiled soybeans.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE109523</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2020-10-31T00:00:00Z" id="33122638" status="ePublished">
+          <Reference>33122638</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Environmental>Yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="1423">
+              <OrganismName>Bacillus subtilis</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2020-11-02" submission_id="SUB8455942" submitted="2018-01-23">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Laboratory of Basic and Applied Molecular Biotechnology, Division of Food Science and Biotechnology, Graduate School of Agriculture, Kyoto University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB8455942-gse109523"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

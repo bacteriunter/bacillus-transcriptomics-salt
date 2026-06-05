@@ -1,0 +1,22 @@
+ve_protein	pa_protein	ve_gene	ve_log2FC	pa_gene	pa_log2FC	response_class	ve_symbol	ve_product	pa_symbol	pa_product	candidate_category
+WP_003151783.1	WP_023856250.1	gene-ACSAL1_RS15485	1.928679056624332	gene-ACZ0AN_RS17620	1.771773659828173	conserved_up		SDR family NAD(P)-dependent oxidoreductase		SDR family NAD(P)-dependent oxidoreductase	oxidative_stress
+WP_007610880.1	WP_262352115.1	gene-ACSAL1_RS06695	5.174352956865405	gene-ACZ0AN_RS07355	1.7804568924426	conserved_up		organic hydroperoxide resistance protein		organic hydroperoxide resistance protein	oxidative_stress
+WP_209388340.1	WP_463315652.1	gene-ACSAL1_RS09565	-2.7945049267147444	gene-ACZ0AN_RS05175	1.1004179769627962	opposite		zinc-binding dehydrogenase		quinone oxidoreductase family protein	oxidative_stress
+WP_003155540.1	WP_101561777.1	gene-ACSAL1_RS04140	-14.426380794359346	gene-ACZ0AN_RS04465	3.3268056927873104	opposite	acoA	acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit alpha		thiamine pyrophosphate-dependent dehydrogenase E1 component subunit alpha	oxidative_stress
+WP_014418163.1	WP_020451887.1	gene-ACSAL1_RS10195	-1.9451495875440592	gene-ACZ0AN_RS11645	-1.1626147456375169	conserved_down		glutathione peroxidase		glutathione peroxidase	oxidative_stress
+WP_007408540.1	WP_026580626.1	gene-ACSAL1_RS04220	-2.407736345212819	gene-ACZ0AN_RS04555	-1.2387489045274809	conserved_down		NAD(P)H-dependent oxidoreductase		NAD(P)H-dependent oxidoreductase	oxidative_stress
+WP_209387584.1	WP_020452969.1	gene-ACSAL1_RS15685	-3.073315664568395	gene-ACZ0AN_RS17930	1.1343017837849023	opposite		oxidoreductase		oxidoreductase	oxidative_stress
+WP_095060687.1	WP_463315716.1	gene-ACSAL1_RS09840	-2.098432220825613	gene-ACZ0AN_RS11320	2.124236480134237	opposite		superoxide dismutase family protein		superoxide dismutase family protein	oxidative_stress
+WP_209388013.1	WP_023855891.1	gene-ACSAL1_RS04145	-13.324400098800346	gene-ACZ0AN_RS04470	3.461212273905089	opposite	acoB	acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit beta		alpha-ketoacid dehydrogenase subunit beta	oxidative_stress
+WP_007611962.1	WP_224067368.1	gene-ACSAL1_RS09800	-3.2554576290207105	gene-ACZ0AN_RS11280	-1.8771217070356776	conserved_down		superoxide dismutase		superoxide dismutase	oxidative_stress
+WP_007408534.1	WP_020450606.1	gene-ACSAL1_RS04200	-1.4556562051907516	gene-ACZ0AN_RS04525	-2.519229252651413	conserved_down	catD	DoxX family oxidoreductase CatD		DoxX family protein	oxidative_stress
+WP_007408709.1	WP_026580067.1	gene-ACSAL1_RS14910	-2.52966151659056	gene-ACZ0AN_RS17045	3.4529523969998883	opposite		NAD(P)/FAD-dependent oxidoreductase		NAD(P)/FAD-dependent oxidoreductase	oxidative_stress
+WP_007613496.1	WP_035337619.1	gene-ACSAL1_RS14915	2.9590070480118618	gene-ACZ0AN_RS17050	-1.4162598944509583	opposite	yumC	ferredoxin--NADP reductase 2	yumC	ferredoxin--NADP reductase 2	oxidative_stress
+WP_020956445.1	WP_023856337.1	gene-ACSAL1_RS16935	-2.4202719986665624	gene-ACZ0AN_RS18310	-2.082383067643624	conserved_down		NAD(P)H-dependent oxidoreductase		NAD(P)H-dependent oxidoreductase	oxidative_stress
+WP_209388324.1	WP_026578946.1	gene-ACSAL1_RS05275	-1.70381506028291	gene-ACZ0AN_RS03525	5.187326966671421	opposite		SDR family oxidoreductase		SDR family oxidoreductase	oxidative_stress
+WP_003153619.1	WP_020451883.1	gene-ACSAL1_RS10175	-1.722252099323851	gene-ACZ0AN_RS11625	2.5781279651762063	opposite		BrxA/BrxB family bacilliredoxin		BrxA/BrxB family bacilliredoxin	oxidative_stress
+WP_017418355.1	WP_023855495.1	gene-ACSAL1_RS13465	1.874264042566167	gene-ACZ0AN_RS15540	4.425972838893833	conserved_up		SDR family oxidoreductase		SDR family oxidoreductase	oxidative_stress
+WP_021495102.1	WP_023857901.1	gene-ACSAL1_RS02195	1.3980793149702586	gene-ACZ0AN_RS02595	12.077316490850572	conserved_up		SDR family oxidoreductase		SDR family oxidoreductase	oxidative_stress
+WP_209387714.1	WP_463315608.1	gene-ACSAL1_RS18075	2.2291589738329782	gene-ACZ0AN_RS01170	-3.265963004798707	opposite		DsbA family oxidoreductase		DsbA family oxidoreductase	oxidative_stress
+WP_017418085.1	WP_463315566.1	gene-ACSAL1_RS11160	-2.5713019657575265	gene-ACZ0AN_RS12800	-1.2802637223680269	conserved_down		SDR family NAD(P)-dependent oxidoreductase		SDR family NAD(P)-dependent oxidoreductase	oxidative_stress
+WP_014417163.1	WP_095292898.1	gene-ACSAL1_RS03795	-1.258578527454299	gene-ACZ0AN_RS04080	3.105758366015483	opposite		NADP-dependent oxidoreductase		NADP-dependent oxidoreductase	oxidative_stress

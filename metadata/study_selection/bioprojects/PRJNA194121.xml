@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="194121">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA194121" archive="NCBI" id="194121"/>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Bacillus subtilis strain:dsm10</Name>
+        <Title>Bacillus subtilis Transcriptome after growth for 3 hours under different experimental perturbations</Title>
+        <Description>To determine whether the expression of genes that modulate isoprene production are coordinately regulated, we isolated RNA from B. subtilis cultures that had been perturbed, and assessed the cellular transcription profile of two biological replicates for each perturbation using RNA-seq.</Description>
+        <Relevance>
+          <ModelOrganism>yes</ModelOrganism>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMonoisolate">
+            <Organism species="1423" taxID="1423">
+              <OrganismName>Bacillus subtilis</OrganismName>
+              <Strain>dsm10</Strain>
+              <Supergroup>eBacteria</Supergroup>
+              <BiologicalProperties>
+                <Morphology>
+                  <Gram>ePositive</Gram>
+                  <Shape>eBacilli</Shape>
+                  <Endospores>eYes</Endospores>
+                  <Motility>eYes</Motility>
+                </Morphology>
+              </BiologicalProperties>
+              <Organization>eUnicellular</Organization>
+              <Reproduction>eAsexual</Reproduction>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>transcriptome</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>transcriptome</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2013-03-25" submitted="2013-03-25" submission_id="SUB173975">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>PNNL</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB173975-1"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

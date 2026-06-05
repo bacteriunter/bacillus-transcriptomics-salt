@@ -1,0 +1,202 @@
+* WP_003150717.1      K00088  358.40  715.0  1.2e-216 IMP dehydrogenase [EC:1.1.1.205]
+* WP_003151098.1      K01937  102.30  871.0    1e-263 CTP synthase [EC:6.3.4.2]
+* WP_003151172.1      K02115  244.07  376.5  1.8e-114 F-type H+-transporting ATPase subunit gamma
+* WP_003151173.1      K02112  456.03  867.7  5.3e-263 F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+* WP_003152011.1      K00259  287.10  603.5  2.4e-183 alanine dehydrogenase [EC:1.4.1.1]
+* WP_003152221.1      K01661  382.77  480.7  4.3e-146 naphthoate synthase [EC:4.1.3.36]
+* WP_003152276.1      K16921  293.17  362.0  2.4e-110 acetoin utilization transport system ATP-binding protein
+* WP_003152428.1      K01940  219.43  614.5  2.7e-186 argininosuccinate synthase [EC:6.3.4.5]
+* WP_003152509.1      K03077  228.27  325.4     5e-99 L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]
+* WP_003153100.1      K13280   62.73  119.9   1.5e-36 signal peptidase I [EC:3.4.21.89]
+* WP_003153123.1      K02356  135.93  287.5   1.7e-87 elongation factor P
+* WP_003153227.1      K02029  220.13  264.7   1.8e-80 polar amino acid transport system permease protein
+* WP_003153229.1      K02028  388.67  456.1  2.2e-138 polar amino acid transport system ATP-binding protein [EC:7.4.2.1]
+* WP_003153229.1      K23060  404.53  414.1  2.7e-126 arginine/lysine/histidine transport system ATP-binding protein [EC:7.4.2.1]
+* WP_003153347.1      K06379  149.90  223.8   1.7e-68 stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]
+* WP_003153347.1      K04757   54.40   78.0   1.5e-23 serine/threonine-protein kinase RsbW [EC:2.7.11.1]
+* WP_003153348.1      K03091  175.20  227.5     4e-69 RNA polymerase sigma-E/F/G factor
+* WP_003154064.1      K03666   20.53  108.8   2.8e-33 host factor-I protein
+* WP_003154591.1      K26248  121.63  239.6   2.6e-73 repressor Rok
+* WP_003155039.1      K15583  532.30  637.3  4.3e-193 oligopeptide transport system ATP-binding protein
+* WP_003155039.1      K02031  407.73  502.1  3.1e-152 peptide/nickel transport system ATP-binding protein
+* WP_003155043.1      K15581  353.53  440.4  6.4e-134 oligopeptide transport system permease protein
+* WP_003155043.1      K02033  263.60  351.9  6.4e-107 peptide/nickel transport system permease protein
+* WP_003155217.1      K00648  232.03  396.0  2.9e-120 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+* WP_003155941.1      K04077  161.40  899.1  3.8e-272 chaperonin GroEL [EC:5.6.1.7]
+* WP_003156263.1      K03719  136.50  169.9   8.1e-52 Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+* WP_003156467.1      K02892   54.20   78.6   9.6e-24 large subunit ribosomal protein L23
+* WP_003156482.1      K02904   55.87  100.1     2e-30 large subunit ribosomal protein L29
+* WP_003156488.1      K02954   25.90   64.0   2.8e-19 small subunit ribosomal protein S14
+* WP_003219701.1      K07692  251.70  334.8  5.6e-102 two-component system, NarL family, response regulator DegU
+* WP_004264660.1      K06412   28.40  158.3   1.6e-48 stage V sporulation protein G
+* WP_004393130.1      K00819  488.13  692.8  5.5e-210 ornithine--oxo-acid transaminase [EC:2.6.1.13]
+* WP_007407248.1      K16203   85.17  319.9     2e-97 D-amino peptidase [EC:3.4.11.-]
+* WP_007407383.1      K19428  327.60  372.9  3.4e-114 sugar transferase EpsL [EC:2.-.-.-]
+* WP_007407393.1      K00903  265.97  322.0   7.1e-98 protein-tyrosine kinase [EC:2.7.10.3]
+* WP_007407552.1      K19420  199.23  301.5   6.4e-92 protein tyrosine kinase modulator
+* WP_007407833.1      K06605  202.20  446.6  3.7e-136 myo-inositol catabolism protein IolH
+* WP_007408166.1      K03570   57.97  211.2   3.1e-64 rod shape-determining protein MreC
+* WP_007408329.1      K06336   48.93  193.9   7.5e-59 spore coat-associated protein N
+* WP_007408346.1      K06397   57.50  194.0   3.8e-59 stage III sporulation protein AH
+* WP_007408534.1      K15977   61.93  109.9   2.8e-33 putative oxidoreductase
+* WP_007408540.1      K00355  113.30  166.4   1.4e-50 NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+* WP_007408704.1      K01255  416.50  537.5  7.4e-163 leucyl aminopeptidase [EC:3.4.11.1]
+* WP_007409113.1      K15582  356.77  438.3  1.6e-133 oligopeptide transport system permease protein
+* WP_007409113.1      K02034  258.37  361.3    1e-109 peptide/nickel transport system permease protein
+* WP_007409411.1      K06378  111.70  146.6   8.5e-45 stage II sporulation protein AA (anti-sigma F factor antagonist)
+* WP_007409411.1      K04749   65.97   98.6   6.8e-30 anti-sigma B factor antagonist
+* WP_007409644.1      K19689   72.97  465.2  4.8e-141 aminopeptidase [EC:3.4.11.-]
+* WP_007409714.1      K03091  175.20  339.9  3.3e-103 RNA polymerase sigma-E/F/G factor
+* WP_007410056.1      K11619   63.43  120.3   5.9e-37 lia operon protein LiaI
+* WP_007410057.1      K11620  214.60  233.3     3e-71 lia operon protein LiaH
+* WP_007410057.1      K03969   82.97  135.2   4.8e-41 phage shock protein A
+* WP_007410404.1      K02874   98.37  194.8   3.3e-59 large subunit ribosomal protein L14
+* WP_007609791.1      K03118   62.97  280.2   3.4e-85 sec-independent protein translocase protein TatC
+* WP_007610368.1      K06418   49.37  101.0   7.9e-31 small acid-soluble spore protein A/B/C/D
+* WP_007610590.1      K02032  423.23  543.0    2e-164 peptide/nickel transport system ATP-binding protein
+* WP_007610590.1      K10823  494.50  499.9  1.2e-151 oligopeptide transport system ATP-binding protein
+* WP_007610911.1      K15973  105.93  182.6     6e-56 MarR family transcriptional regulator, 2-MHQ and catechol-resistance regulon repressor
+* WP_007610941.1      K00567  171.17  181.8   2.6e-55 methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]
+* WP_007611962.1      K04564   35.63  295.9   4.6e-90 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* WP_007612991.1      K17236  336.57  416.2  8.1e-127 arabinooligosaccharide transport system permease protein
+* WP_007612991.1      K02026  276.57  298.9   5.5e-91 multiple sugar transport system permease protein
+* WP_007613029.1      K01868  161.83  862.1  7.3e-261 threonyl-tRNA synthetase [EC:6.1.1.3]
+* WP_007613085.1      K01755  173.90  737.6  2.2e-223 argininosuccinate lyase [EC:4.3.2.1]
+* WP_007613932.1      K19420  199.23  242.2   7.3e-74 protein tyrosine kinase modulator
+* WP_012117512.1      K01870  499.60 1127.9         0 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* WP_012118534.1      K11184  114.53  138.0   8.2e-43 catabolite repression HPr-like protein
+* WP_012118534.1      K02784   85.87  113.6   1.1e-34 phosphocarrier protein HPr
+* WP_012118695.1      K06314   99.93  302.2   2.9e-92 prespore-specific regulator
+* WP_012118762.1      K03739  276.73  525.3  1.5e-159 membrane protein involved in D-alanine export
+* WP_014417077.1      K06872   46.13   63.9     2e-19 uncharacterized protein
+* WP_014417223.1      K07104   84.37  370.3  1.3e-112 catechol 2,3-dioxygenase [EC:1.13.11.2]
+* WP_014417273.1      K01992   16.63   25.6   6.4e-08 ABC-2 type transport system permease protein
+* WP_014417341.1      K00231  136.83  465.6  3.5e-141 protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]
+* WP_014417349.1      K01342  382.40  478.2  3.9e-145 subtilisin [EC:3.4.21.62]
+* WP_014417349.1      K14645  310.63  347.9  1.6e-105 serine protease [EC:3.4.21.-]
+* WP_014417374.1      K28810   32.70   58.1   7.3e-18 spo0E family aspartyl-phosphate phosphatase
+* WP_014417415.1      K01867  141.70  433.6  1.6e-131 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* WP_014417624.1      K24951   79.77  263.8   1.4e-80 membrane protein, antimicrobial resistance system
+* WP_014417626.1      K24948  392.97  468.6  2.6e-142 antimicrobial peptide resistance transport system permease protein
+* WP_014417626.1      K02004   51.20  120.4   8.4e-37 putative ABC transport system permease protein
+* WP_014418018.1      K00615  241.50  748.4  1.2e-226 transketolase [EC:2.2.1.1]
+* WP_014418163.1      K00432   57.33  263.9     2e-80 glutathione peroxidase [EC:1.11.1.9]
+* WP_014418276.1      K03088   99.13  141.8   4.3e-43 RNA polymerase sigma-70 factor, ECF subfamily
+* WP_014418595.1      K17234  318.03  602.3  5.6e-183 arabinooligosaccharide transport system substrate-binding protein
+* WP_014418595.1      K02027  194.17  203.7   1.1e-61 multiple sugar transport system substrate-binding protein
+* WP_014418691.1      K07979  107.87  179.8     4e-55 GntR family transcriptional regulator
+* WP_014418737.1      K00459  252.27  393.6  2.3e-119 nitronate monooxygenase [EC:1.13.12.16]
+* WP_014418851.1      K08217  242.13  320.7   1.5e-97 MFS transporter, DHA3 family, macrolide efflux protein
+* WP_014418922.1      K05799  253.33  299.6   2.4e-91 GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex
+* WP_014418969.1      K18104  649.80  922.8  9.6e-280 ATP-binding cassette, subfamily B, bacterial AbcA/BmrA [EC:7.6.2.2]
+* WP_014419084.1      K06386  152.00  368.5  3.9e-112 stage II sporulation protein Q
+* WP_014419100.1      K00761  207.67  351.9  5.4e-107 uracil phosphoribosyltransferase [EC:2.4.2.9]
+* WP_014419101.1      K00600   84.60  700.6  2.5e-212 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* WP_014721606.1      K06345   83.40  157.7     5e-48 spore cortex protein
+* WP_015240174.1      K02030   85.40  188.0   3.4e-57 polar amino acid transport system substrate-binding protein
+* WP_015418422.1      K11686  108.67  193.4   3.7e-59 chromosome-anchoring protein RacA
+* WP_017417453.1      K10823  494.50  526.5  1.1e-159 oligopeptide transport system ATP-binding protein
+* WP_017417453.1      K02032  423.23  482.3  4.4e-146 peptide/nickel transport system ATP-binding protein
+* WP_017417565.1      K01224  225.90  433.5  2.1e-131 arabinogalactan endo-1,4-beta-galactosidase [EC:3.2.1.89]
+* WP_017417653.1      K03697  936.03 1087.5         0 ATP-dependent Clp protease ATP-binding subunit ClpE
+* WP_017418085.1      K07124  221.93  228.1   2.6e-69 uncharacterized protein
+* WP_017418319.1      K01209   88.23  449.4  4.1e-136 alpha-L-arabinofuranosidase [EC:3.2.1.55]
+* WP_017418586.1      K01216  286.20  418.4  3.4e-127 licheninase [EC:3.2.1.73]
+* WP_017419100.1      K02804  617.73  718.0  1.1e-217 N-acetylglucosamine PTS system EIICBA or EIICB component [EC:2.7.1.193]
+* WP_017419343.1      K01046   50.17   57.3   2.5e-17 triacylglycerol lipase [EC:3.1.1.3]
+* WP_021494259.1      K07258  224.10  394.2  1.4e-119 serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+* WP_021495204.1      K03969   82.97  195.9     2e-59 phage shock protein A
+* WP_021495233.1      K19421 1151.03 1272.9         0 polysaccharide biosynthesis protein EpsC
+* WP_021495233.1      K24300  731.57  739.2  6.8e-224 UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.135]
+* WP_022552606.1      K03817  127.47  214.3   3.1e-65 ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+* WP_022552985.1      K03417  373.73  402.8  9.4e-123 methylisocitrate lyase [EC:4.1.3.30]
+* WP_022553314.1      K17734  350.73  479.5  2.3e-145 serine protease AprX [EC:3.4.21.-]
+* WP_022553816.1      K19430  568.37  660.9  5.9e-201 pyridoxal phosphate-dependent aminotransferase EpsN [EC:2.6.1.-]
+* WP_025649399.1      K01990  265.97  272.6   1.1e-82 ABC-2 type transport system ATP-binding protein
+* WP_029325912.1      K00639  515.67  586.5  7.4e-178 glycine C-acetyltransferase [EC:2.3.1.29]
+* WP_029325912.1      K00652  453.00  499.4    2e-151 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+* WP_032871062.1      K07284   64.60  158.6   2.9e-48 sortase A [EC:3.4.22.70]
+* WP_061861897.1      K07734   96.53  226.2   7.5e-69 transcriptional regulator
+* WP_061862144.1      K24950  221.67  314.8   1.3e-95 membrane fusion protein, antimicrobial resistance system
+* WP_072177127.1      K02034  258.37  403.5  1.7e-122 peptide/nickel transport system permease protein
+* WP_072177127.1      K15582  356.77  363.6  8.8e-111 oligopeptide transport system permease protein
+* WP_072177268.1      K06113  228.87  368.3  1.5e-111 arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]
+* WP_087920760.1      K06359  546.47  613.8  1.4e-186 response regulator aspartate phosphatase A (stage 0 sporulation protein L) [EC:3.1.-.-]
+* WP_099722005.1      K10255  227.00  382.9  2.9e-116 acyl-lipid omega-6 desaturase (Delta-12 desaturase) [EC:1.14.19.23 1.14.19.45]
+* WP_103527241.1      K08602  135.27  826.9  2.5e-250 oligoendopeptidase F [EC:3.4.24.-]
+* WP_106080393.1      K18890  721.00  824.7  1.1e-249 ATP-binding cassette, subfamily B, multidrug efflux pump
+* WP_115941165.1      K14647  532.80  856.5  2.9e-259 minor extracellular serine protease Vpr [EC:3.4.21.-]
+* WP_162495990.1      K01720  238.57  707.0  2.9e-214 2-methylcitrate dehydratase [EC:4.2.1.79]
+* WP_174747328.1      K19419  217.90  460.1  5.1e-140 transmembrane protein EpsG
+* WP_204283013.1      K01269  352.13  568.2  7.1e-173 aminopeptidase [EC:3.4.11.-]
+* WP_209387319.1      K15665 3888.33 5097.4         0 plipastatin/fengycin lipopeptide synthetase B
+* WP_209387320.1      K15664 4849.20 5308.6         0 plipastatin/fengycin lipopeptide synthetase A
+* WP_209387380.1      K01299  203.57  654.0  2.4e-198 carboxypeptidase Taq [EC:3.4.17.19]
+* WP_209387383.1      K05366  615.40  683.1  6.6e-207 penicillin-binding protein 1A [EC:2.4.99.28 3.4.16.4]
+* WP_209387426.1      K01262  253.70  303.3   5.2e-92 Xaa-Pro aminopeptidase [EC:3.4.11.9]
+* WP_209387430.1      K19433  266.27  366.5  5.6e-112 TasA anchoring/assembly protein
+* WP_209387442.1      K01879  638.50  793.2    3e-240 glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+* WP_209387469.1      K06370   71.77  215.8   2.1e-65 morphogenetic protein associated with SpoVID
+* WP_209387470.1      K03517  101.73  392.4  3.5e-119 quinolinate synthase [EC:2.5.1.72]
+* WP_209387474.1      K06380  131.43  238.2   2.4e-72 stage II sporulation protein B
+* WP_209387488.1      K00096  151.47  393.0    3e-119 glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]
+* WP_209387490.1      K00853  415.57  842.4  4.1e-255 L-ribulokinase [EC:2.7.1.16]
+* WP_209387491.1      K01261  350.83  414.0  4.8e-126 glutamyl aminopeptidase [EC:3.4.11.7]
+* WP_209387491.1      K20608  362.50  401.3  3.5e-122 tetrahedral aminopeptidase [EC:3.4.11.-]
+* WP_209387557.1      K01303  141.83  229.2   1.3e-69 acylaminoacyl-peptidase [EC:3.4.19.1]
+* WP_209387563.1      K08153  413.07  515.8  8.2e-157 MFS transporter, DHA1 family, multidrug resistance protein
+* WP_209387606.1      K19431  334.97  511.3  1.2e-155 pyruvyl transferase EpsO [EC:2.-.-.-]
+* WP_209387607.1      K19429  223.57  296.5   1.2e-90 acetyltransferase EpsM [EC:2.3.1.-]
+* WP_209387608.1      K19418  578.90  888.0  2.3e-269 membrane protein EpsK
+* WP_209387609.1      K19427  277.07  480.8  4.3e-146 glycosyltransferase EpsJ [EC:2.4.-.-]
+* WP_209387610.1      K19426  301.93  609.9  1.6e-185 pyruvyl transferase EpsI [EC:2.-.-.-]
+* WP_209387611.1      K19425  434.00  575.7    5e-175 glycosyltransferase EpsH [EC:2.4.-.-]
+* WP_209387612.1      K19424  289.27  548.8  6.1e-167 glycosyltransferase EpsF [EC:2.4.-.-]
+* WP_209387613.1      K19423  237.13  417.5  2.3e-127 glycosyltransferase EpsE [EC:2.4.-.-]
+* WP_209387614.1      K19422  365.87  572.5  4.1e-174 glycosyltransferase EpsD [EC:2.4.-.-]
+* WP_209387665.1      K00681  540.63  586.3  1.3e-177 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+* WP_209387721.1      K03367  481.13  682.4  5.9e-207 D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]
+* WP_209387732.1      K01218   81.23  214.0   5.8e-65 mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+* WP_209387760.1      K03339  466.00  494.6  1.1e-150 6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase [EC:4.1.2.29]
+* WP_209387760.1      K01624   63.77  347.7  2.4e-105 fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+* WP_209387766.1      K04079   90.57  728.0  3.2e-220 molecular chaperone HtpG
+* WP_209387844.1      K11102  518.30  527.7  1.9e-160 proton glutamate symport protein
+* WP_209387856.1      K28762  419.57  542.6  1.1e-164 MFS transporter, niacin uptake porter
+* WP_209387869.1      K15655 4149.53 6596.4         0 surfactin/lichenysin synthetase B
+* WP_209387897.1      K21467  744.27  913.4  8.7e-277 penicillin-binding protein 3
+* WP_209387942.1      K01286  176.20  204.9   3.4e-62 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+* WP_209387999.1      K08693  887.50 1443.1         0 2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]
+* WP_209387999.1      K01119  350.67  856.0  3.2e-259 2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]
+* WP_209387999.1      K11751  484.13  555.3  3.3e-168 5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]
+* WP_209388057.1      K18889  665.60  800.7  1.4e-242 ATP-binding cassette, subfamily B, multidrug efflux pump
+* WP_209388066.1      K01599  180.67  461.6  6.1e-140 uroporphyrinogen decarboxylase [EC:4.1.1.37]
+* WP_209388077.1      K03547  132.27  318.5   1.2e-96 DNA repair protein SbcD/Mre11
+* WP_209388092.1      K00611  315.37  501.5  3.2e-152 ornithine carbamoyltransferase [EC:2.1.3.3]
+* WP_209388095.1      K02031  407.73  485.1  4.4e-147 peptide/nickel transport system ATP-binding protein
+* WP_209388096.1      K02035  255.77  389.7  3.1e-118 peptide/nickel transport system substrate-binding protein
+* WP_209388097.1      K15580  358.67  600.1  7.8e-182 oligopeptide transport system substrate-binding protein
+* WP_209388097.1      K02035  255.77  344.8  1.2e-104 peptide/nickel transport system substrate-binding protein
+* WP_209388151.1      K16199  724.97  902.7  9.1e-274 dipeptide transport system substrate-binding protein
+* WP_209388151.1      K15580  358.67  550.0  1.2e-166 oligopeptide transport system substrate-binding protein
+* WP_209388151.1      K02035  255.77  336.1  5.1e-102 peptide/nickel transport system substrate-binding protein
+* WP_209388152.1      K19802  297.10  420.4  1.1e-127 L-Ala-D/L-Glu epimerase / N-acetyl-D-glutamate racemase [EC:5.1.1.20 5.1.1.25]
+* WP_209388153.1      K20742  166.33  349.5  2.6e-106 gamma-D-glutamyl-L-lysine dipeptidyl-peptidase [EC:3.4.14.13]
+* WP_209388154.1      K02032  423.23  529.6  2.2e-160 peptide/nickel transport system ATP-binding protein
+* WP_209388161.1      K00549   44.17  965.9  3.3e-292 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+* WP_209388167.1      K13533  460.53  667.6  2.8e-202 two-component system, sporulation sensor kinase E [EC:2.7.13.3]
+* WP_209388180.1      K21466  952.63 1279.0         0 penicillin-binding protein H
+* WP_209388186.1      K24949  342.63  355.0  1.7e-108 antimicrobial peptide resistance transport system ATP-binding protein [EC:7.6.2.-]
+* WP_209388186.1      K02003  284.83  350.9  1.2e-106 putative ABC transport system ATP-binding protein
+* WP_209388209.1      K13276  935.27 2094.0         0 bacillopeptidase F [EC:3.4.21.-]
+* WP_209388249.1      K22580  215.00  304.8   9.6e-93 teichoic acid D-alanine hydrolase [EC:3.1.1.103]
+* WP_209388249.1      K01286  176.20  183.2   1.3e-55 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+* WP_209388250.1      K00060  345.17  507.2  5.5e-154 threonine 3-dehydrogenase [EC:1.1.1.103]
+* WP_209388263.1      K01198  270.47  500.4  1.7e-151 xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+* WP_209388296.1      K15924  254.03  704.4  2.3e-213 glucuronoarabinoxylan endo-1,4-beta-xylanase [EC:3.2.1.136]
+* WP_209388308.1      K15668 2055.03 2154.4         0 plipastatin/fengycin lipopeptide synthetase E
+* WP_209388309.1      K15667 4972.57 7432.3         0 plipastatin/fengycin lipopeptide synthetase D
+* WP_209388310.1      K15666 4463.50 4934.5         0 plipastatin/fengycin lipopeptide synthetase C
+* WP_209388328.1      K17836   87.90  268.3   1.5e-81 beta-lactamase class A [EC:3.5.2.6]
+* WP_209388338.1      K15921  300.80  771.0  1.9e-233 arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+* WP_209388365.1      K02242   62.57  238.1   1.4e-72 competence protein ComFC
+* WP_481748176.1      K01297  142.23  366.0  3.3e-111 muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]

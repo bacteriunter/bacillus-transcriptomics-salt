@@ -1,0 +1,25 @@
+gene_label	module	species	log2FC
+betB	Glycine betaine / choline	B. velezensis	9.031164912910793
+betB	Glycine betaine / choline	B. paralicheniformis	1.6817709586311131
+proC	Proline	B. velezensis	6.6109245653865
+proC	Proline	B. paralicheniformis	4.030802150286297
+proB	Proline	B. velezensis	5.651574961305816
+proB	Proline	B. paralicheniformis	4.669124185727576
+gbsB	Glycine betaine / choline	B. velezensis	8.191428088473684
+gbsB	Glycine betaine / choline	B. paralicheniformis	1.077519362569429
+putP	Proline	B. velezensis	5.365230475091405
+putP	Proline	B. paralicheniformis	3.515375190125015
+pgsB	Poly-gamma-glutamate	B. velezensis	4.862568613443718
+pgsB	Poly-gamma-glutamate	B. paralicheniformis	2.7795226158647184
+pgsC	Poly-gamma-glutamate	B. velezensis	4.035579409374109
+pgsC	Poly-gamma-glutamate	B. paralicheniformis	2.6565147089535497
+nhaC	Sodium homeostasis	B. velezensis	2.5663934508619137
+nhaC	Sodium homeostasis	B. paralicheniformis	3.607973905812304
+opuAA	Glycine betaine / choline	B. velezensis	2.7062858342601133
+opuAA	Glycine betaine / choline	B. paralicheniformis	2.3500364321204543
+opuAB	Glycine betaine / choline	B. velezensis	2.488416056033597
+opuAB	Glycine betaine / choline	B. paralicheniformis	2.383794255565834
+nhaC	Sodium homeostasis	B. velezensis	1.2529857526054409
+nhaC	Sodium homeostasis	B. paralicheniformis	2.081894459021268
+proB	Proline	B. velezensis	1.3726065950478916
+proB	Proline	B. paralicheniformis	-1.3375279001679892

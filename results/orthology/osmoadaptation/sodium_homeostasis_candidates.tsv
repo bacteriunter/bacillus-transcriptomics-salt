@@ -1,0 +1,13 @@
+ve_protein	pa_protein	ve_gene	ve_log2FC	pa_gene	pa_log2FC	response_class	ve_symbol	ve_product	pa_symbol	pa_product	candidate_category
+WP_209387545.1	WP_020452787.1	gene-ACSAL1_RS14690	2.3835243240054025	gene-ACZ0AN_RS16840	1.6137649185219811	conserved_up		Na+/H+ antiporter subunit E		Na+/H+ antiporter subunit E	sodium_homeostasis
+WP_209387929.1	WP_396278994.1	gene-ACSAL1_RS02830	2.1582129126574885	gene-ACZ0AN_RS02710	1.4075276134146473	conserved_up		Na+/H+ antiporter NhaC family protein		Na+/H+ antiporter NhaC family protein	sodium_homeostasis
+WP_209387544.1	WP_080131483.1	gene-ACSAL1_RS14670	1.126779857365058	gene-ACZ0AN_RS16820	2.1376321481368232	conserved_up		Na+/H+ antiporter subunit A		Na+/H+ antiporter subunit A	sodium_homeostasis
+WP_032863920.1	WP_224146418.1	gene-ACSAL1_RS14685	1.3007322633641176	gene-ACZ0AN_RS16835	1.9087232015654985	conserved_up		Na+/H+ antiporter subunit D		Na+/H+ antiporter subunit D	sodium_homeostasis
+WP_022553706.1	WP_020452785.1	gene-ACSAL1_RS14680	1.4637724241629897	gene-ACZ0AN_RS16830	2.082874836018976	conserved_up		Na(+)/H(+) antiporter subunit C		Na(+)/H(+) antiporter subunit C	sodium_homeostasis
+WP_003152056.1	WP_023856153.1	gene-ACSAL1_RS14700	2.040517932540208	gene-ACZ0AN_RS16850	1.5971631967375328	conserved_up	mnhG	monovalent cation/H(+) antiporter subunit G	mnhG	monovalent cation/H(+) antiporter subunit G	sodium_homeostasis
+WP_007613482.1	WP_025809768.1	gene-ACSAL1_RS14880	4.0451280043721525	gene-ACZ0AN_RS17015	2.463485757789753	conserved_up		Na+/H+ antiporter NhaC family protein		Na+/H+ antiporter family protein	sodium_homeostasis
+WP_209387437.1	WP_025811788.1	gene-ACSAL1_RS11815	2.5663934508619137	gene-ACZ0AN_RS05425	3.607973905812304	conserved_up	nhaC	Na+/H+ antiporter NhaC	nhaC	Na+/H+ antiporter NhaC	sodium_homeostasis
+WP_012118311.1	WP_003184842.1	gene-ACSAL1_RS14695	1.9934462975446865	gene-ACZ0AN_RS16845	1.806800171857626	conserved_up		Na(+)/H(+) antiporter subunit F1		Na(+)/H(+) antiporter subunit F1	sodium_homeostasis
+WP_021494261.1	WP_020453440.1	gene-ACSAL1_RS11045	1.2529857526054409	gene-ACZ0AN_RS20500	2.081894459021268	conserved_up	nhaC	Na+/H+ antiporter NhaC	nhaC	Na+/H+ antiporter NhaC	sodium_homeostasis
+WP_007613424.1	WP_003184834.1	gene-ACSAL1_RS14675	1.705470435359267	gene-ACZ0AN_RS16825	2.1793719584024784	conserved_up		Na(+)/H(+) antiporter subunit B		Na(+)/H(+) antiporter subunit B	sodium_homeostasis
+WP_029973137.1	WP_023856670.1	gene-ACSAL1_RS05895	2.250454818324115	gene-ACZ0AN_RS06585	1.6151865424036524	conserved_up		monovalent cation:proton antiporter family protein		monovalent cation:proton antiporter family protein	sodium_homeostasis

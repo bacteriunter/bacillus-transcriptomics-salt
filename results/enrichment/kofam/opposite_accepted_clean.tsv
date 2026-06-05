@@ -1,0 +1,187 @@
+WP_003151042.1	K01821	24.53	71.1	1.3e-21	4-oxalocrotonate tautomerase [EC:5.3.2.6]
+WP_003151176.1	K02114	97.53	147.3	7.2e-45	F-type H+-transporting ATPase subunit epsilon
+WP_003151223.1	K03320	153.47	457.9	5.8e-139	ammonium transporter, Amt family
+WP_003151456.1	K06023	123.50	454.2	1.1e-137	HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+WP_003151503.1	K01673	19.03	77.9	1e-23	carbonic anhydrase [EC:4.2.1.1]
+WP_003151611.1	K00134	403.30	533.7	5.8e-162	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]
+WP_003152013.1	K14956	27.43	49.6	7e-15	ESAT-6 family protein
+WP_003152530.1	K01889	89.60	377.4	2.2e-114	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+WP_003152598.1	K01653	47.90	221.5	2.7e-67	acetolactate synthase I/III small subunit [EC:2.2.1.6]
+WP_003152606.1	K01703	481.20	671.2	2.1e-203	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+WP_003152856.1	K00014	267.10	339.8	3.9e-103	shikimate dehydrogenase [EC:1.1.1.25]
+WP_003153079.1	K16509	82.67	155.0	3.2e-47	regulatory protein spx
+WP_003153246.1	K02913	21.83	49.7	5.5e-15	large subunit ribosomal protein L33
+WP_003153484.1	K03886	122.57	218.9	9.4e-67	quinol---cytochrome c reductase iron-sulfur subunit, bacillus type [EC:7.1.1.8]
+WP_003153619.1	K26958	169.23	227.3	9e-70	bacilliredoxin
+WP_003153791.1	K01118	96.07	212.9	1.2e-64	FMN-dependent NADH-azoreductase [EC:1.7.1.17]
+WP_003154312.1	K00059	273.10	383.8	1.2e-116	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+WP_003154369.1	K00390	161.83	298.1	1.6e-90	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]
+WP_003154690.1	K28810	32.70	77.8	6e-24	spo0E family aspartyl-phosphate phosphatase
+WP_003155001.1	K00208	266.80	400.9	7.4e-122	enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+WP_003155032.1	K16511	73.77	226.1	6.9e-69	adapter protein MecA 1/2
+WP_003155121.1	K26937	257.90	304.9	1.3e-92	MATE family, multidrug efflux pump
+WP_003155205.1	K03800	248.47	352.3	9.1e-107	lipoate---protein ligase [EC:6.3.1.20]
+WP_003155211.1	K11102	518.30	631.5	6.4e-192	proton glutamate symport protein
+WP_003155540.1	K21416	443.53	512.9	7.3e-156	acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha [EC:1.1.1.-]
+WP_003155658.1	K21902	103.97	212.9	2.9e-65	MerR family transcriptional regulator, repressor of the yfmOP operon
+WP_003156375.1	K10009	315.30	383.2	2.9e-116	L-cystine transport system permease protein
+WP_003156375.1	K02029	220.13	275.8	8.8e-84	polar amino acid transport system permease protein
+WP_003156508.1	K02518	31.33	139.5	5.3e-43	translation initiation factor IF-1
+WP_003156549.1	K03040	89.37	418.9	3e-127	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+WP_004264646.1	K04769	121.87	290.3	1e-88	AbrB family transcriptional regulator, stage V sporulation protein T
+WP_007407236.1	K18924	122.50	182.6	8.2e-56	paired small multidrug resistance pump
+WP_007407470.1	K05808	94.20	229.8	3.7e-70	ribosome hibernation promoting factor
+WP_007407528.1	K21757	275.83	295.6	4.5e-90	LysR family transcriptional regulator, benzoate and cis,cis-muconate-responsive activator of ben and cat genes
+WP_007407528.1	K05817	283.83	289.6	3.6e-88	LysR family transcriptional regulator, hca operon transcriptional activator
+WP_007407816.1	K00756	581.80	732.5	4.1e-222	pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+WP_007408146.1	K01704	125.03	259.3	6.1e-79	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]
+WP_007408149.1	K03544	138.23	620.0	4.8e-188	ATP-dependent Clp protease ATP-binding subunit ClpX
+WP_007408709.1	K03885	205.57	415.6	5.3e-126	NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]
+WP_007408816.1	K16920	341.17	404.8	1.4e-123	acetoin utilization transport system ATP-binding protein
+WP_007408816.1	K02003	284.83	319.6	4.3e-97	putative ABC transport system ATP-binding protein
+WP_007409122.1	K00648	232.03	449.5	2e-136	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+WP_007409202.1	K01897	436.47	484.5	8.2e-147	long-chain-fatty-acid---CoA ligase [EC:6.2.1.3]
+WP_007409265.1	K00655	117.47	144.0	8.3e-44	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]
+WP_007409622.1	K03839	86.30	142.9	1.5e-43	flavodoxin I
+WP_007409730.1	K01956	513.33	594.3	4.3e-180	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+WP_007409740.1	K02303	256.13	395.0	7.3e-120	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+WP_007409759.1	K00645	257.10	403.1	2.6e-122	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]
+WP_007410316.1	K06929	79.77	178.3	1.9e-54	uncharacterized protein
+WP_007410406.1	K03076	209.47	543.1	1.1e-164	preprotein translocase subunit SecY
+WP_007410407.1	K00939	176.47	255.0	1.5e-77	adenylate kinase [EC:2.7.4.3]
+WP_007410408.1	K01265	133.03	354.8	1.4e-107	methionyl aminopeptidase [EC:3.4.11.18]
+WP_007611631.1	K03713	103.43	174.9	1.2e-53	MerR family transcriptional regulator, glutamine synthetase repressor
+WP_007612510.1	K02160	98.73	176.9	7.5e-54	acetyl-CoA carboxylase biotin carboxyl carrier protein
+WP_007613496.1	K21567	377.77	521.0	1.8e-158	ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+WP_007613715.1	K25290	391.33	430.2	5.1e-131	ferric hydroxamate/heme transport system ATP-binding protein [EC:7.2.2.16]
+WP_007613715.1	K02013	240.93	334.2	1.9e-101	iron complex transport system ATP-binding protein [EC:7.2.2.-]
+WP_007613715.1	K25283	143.43	189.4	1.4e-57	iron-siderophore transport system permease protein
+WP_011996172.1	K06423	64.23	120.0	7.7e-37	small acid-soluble spore protein F
+WP_012117061.1	K07795	75.87	255.3	1.4e-77	putative tricarboxylic transport membrane protein
+WP_012117263.1	K09767	62.00	218.9	8.3e-67	cyclic-di-GMP-binding protein
+WP_012117426.1	K03480	294.77	406.3	8.7e-124	transcriptional antiterminator
+WP_012117440.1	K03839	86.30	141.8	3.3e-43	flavodoxin I
+WP_012117522.1	K16331	367.20	436.2	8e-133	sulfate permease
+WP_012117893.1	K01586	328.50	520.3	8.9e-158	diaminopimelate decarboxylase [EC:4.1.1.20]
+WP_012118473.1	K05846	179.87	276.2	1.1e-83	osmoprotectant transport system permease protein
+WP_012118670.1	K02490	156.83	188.3	1.3e-57	two-component system, response regulator, stage 0 sporulation protein F
+WP_014305310.1	K01735	309.70	417.3	1.4e-126	3-dehydroquinate synthase [EC:4.2.3.4]
+WP_014416724.1	K02897	39.20	195.3	2e-59	large subunit ribosomal protein L25
+WP_014416856.1	K01916	287.97	361.8	1.1e-109	NAD+ synthase [EC:6.3.1.5]
+WP_014416905.1	K25283	143.43	471.5	6.2e-143	iron-siderophore transport system permease protein
+WP_014417163.1	K00359	461.87	565.5	4.6e-172	NADPH:quinone reductase [EC:1.6.5.5]
+WP_014417276.1	K06956	331.50	587.1	2.5e-178	uncharacterized protein
+WP_014417345.1	K00784	89.03	110.3	1.3e-33	ribonuclease Z [EC:3.1.26.11]
+WP_014417398.1	K00145	144.90	465.6	2.1e-141	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]
+WP_014417556.1	K13275	344.87	449.0	1.4e-136	major intracellular serine protease [EC:3.4.21.-]
+WP_014417719.1	K02563	157.33	407.0	1.5e-123	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+WP_014417729.1	K00609	247.63	388.8	3.8e-118	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+WP_014417735.1	K03795	124.90	218.4	3.4e-66	sirohydrochlorin cobaltochelatase [EC:4.99.1.3]
+WP_014417735.1	K03794	140.97	148.2	4.1e-45	sirohydrochlorin ferrochelatase [EC:4.99.1.4]
+WP_014417762.1	K04061	109.10	122.9	9.1e-38	flagellar biosynthesis protein
+WP_014418078.1	K00681	540.63	686.5	6.9e-208	gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]
+WP_014418573.1	K06298	81.93	358.2	9.4e-109	germination protein M
+WP_014418721.1	K22109	207.00	252.3	4e-77	HTH-type transcriptional regulator, glycine betaine synthesis regulator
+WP_014419005.1	K02406	128.20	440.1	1.5e-133	flagellin
+WP_014419099.1	K02108	161.77	212.3	1.7e-64	F-type H+-transporting ATPase subunit a
+WP_014419203.1	K01759	74.67	94.1	1.4e-28	lactoylglutathione lyase [EC:4.4.1.5]
+WP_014419228.1	K24041	364.50	511.1	2e-155	penicillin V amidase [EC:3.5.1.11]
+WP_014419228.1	K01442	376.10	379.9	2e-115	choloylglycine hydrolase [EC:3.5.1.24]
+WP_014419260.1	K01732	211.80	225.6	2.1e-68	pectin lyase [EC:4.2.2.10]
+WP_015239079.1	K01613	31.70	197.2	7e-60	phosphatidylserine decarboxylase [EC:4.1.1.65]
+WP_015239156.1	K25284	240.57	485.2	2e-147	iron-siderophore transport system permease protein
+WP_015239834.1	K24866	162.27	183.4	9.8e-56	precorrin-2 dehydrogenase [EC:1.3.1.76]
+WP_015240581.1	K07213	61.20	65.1	1.3e-19	copper chaperone
+WP_017417934.1	K23598	88.43	186.6	6.7e-57	iseA protein
+WP_017417961.1	K06204	34.00	84.8	1.3e-25	RNA polymerase-binding transcription factor
+WP_017418904.1	K20487	238.57	479.1	2.3e-145	two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]
+WP_020955795.1	K01955	1476.90	1683.7	0	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+WP_021493808.1	K10806	94.33	99.3	4.6e-30	acyl-CoA thioesterase [EC:3.1.2.-]
+WP_021494112.1	K25308	263.33	335.1	1e-101	ferric hydroxamate/heme transport system substrate-binding protein
+WP_021494369.1	K17217	606.70	629.3	2.4e-191	cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]
+WP_021494369.1	K01760	495.67	519.6	9.5e-158	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+WP_021494398.1	K01649	475.10	599.9	1.2e-181	2-isopropylmalate synthase [EC:2.3.3.13]
+WP_021494838.1	K07240	33.10	141.1	8.3e-43	chromate transporter
+WP_021495277.1	K00016	326.83	436.5	2.4e-132	L-lactate dehydrogenase [EC:1.1.1.27]
+WP_022552527.1	K11626	824.00	889.0	8.4e-270	putative sodium/glutamine symporter
+WP_022552527.1	K03310	264.90	576.0	1.1e-174	alanine or glycine:cation symporter, AGCS family
+WP_022552673.1	K18231	460.63	623.8	3.1e-189	macrolide transport system ATP-binding/permease protein
+WP_022552891.1	K22132	159.07	353.2	4.9e-107	tRNA threonylcarbamoyladenosine dehydratase
+WP_022553802.1	K20490	294.57	345.1	2.5e-105	lantibiotic transport system ATP-binding protein
+WP_022553802.1	K01990	265.97	288.8	1.6e-87	ABC-2 type transport system ATP-binding protein
+WP_022554035.1	K01939	148.43	650.3	5.3e-197	adenylosuccinate synthase [EC:6.3.4.4]
+WP_024085288.1	K01591	140.77	225.8	1.4e-68	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+WP_025649327.1	K03321	347.60	532.0	3.7e-161	sulfate permease, SulP family
+WP_025649477.1	K02824	455.37	634.4	2.1e-192	uracil permease
+WP_029972872.1	K06147	616.57	665.7	1.6e-201	ATP-binding cassette, subfamily B, bacterial
+WP_029973644.1	K01736	186.60	486.3	2.1e-147	chorismate synthase [EC:4.2.3.5]
+WP_029974845.1	K15519	210.60	315.0	6.2e-96	deoxyadenosine/deoxycytidine kinase [EC:2.7.1.76 2.7.1.74]
+WP_032873890.1	K17462	111.73	265.5	1.1e-80	putative AdoMet-dependent methyltransferase [EC:2.1.1.-]
+WP_032873891.1	K17216	462.53	485.4	8.1e-148	cystathionine beta-synthase (O-acetyl-L-serine) [EC:2.5.1.134]
+WP_044802245.1	K00266	531.43	651.6	3.4e-197	glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+WP_053285216.1	K01232	455.13	789.7	9.9e-240	maltose-6'-phosphate glucosidase [EC:3.2.1.122]
+WP_063636991.1	K25285	303.80	410.8	4.4e-125	iron-siderophore transport system ATP-binding protein [EC:7.2.2.-]
+WP_063636991.1	K25283	143.43	293.6	4.2e-89	iron-siderophore transport system permease protein
+WP_063636991.1	K02013	240.93	268.0	2.5e-81	iron complex transport system ATP-binding protein [EC:7.2.2.-]
+WP_065180448.1	K00364	324.50	345.4	6.4e-105	GMP reductase [EC:1.7.1.7]
+WP_088056325.1	K03322	516.40	580.2	6.4e-176	manganese transport protein
+WP_095060687.1	K04565	90.83	122.6	3.3e-37	superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
+WP_095273341.1	K00216	240.43	378.4	2.7e-115	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [EC:1.3.1.28]
+WP_115941057.1	K20491	97.80	214.8	2.2e-65	lantibiotic transport system permease protein
+WP_128496533.1	K03206	169.00	267.5	5.8e-82	azobenzene reductase [EC:1.7.1.6]
+WP_154817944.1	K00380	534.37	756.0	8e-229	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]
+WP_159354085.1	K08483	681.97	865.4	8.9e-262	phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]
+WP_179156185.1	K08174	211.93	471.3	2.9e-143	MFS transporter, FHS family, glucose/mannose:H+ symporter
+WP_202331656.1	K01534	718.80	754.0	3.2e-228	Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+WP_209387324.1	K00265	1963.03	2292.4	0	glutamate synthase (NADPH) large chain [EC:1.4.1.13]
+WP_209387334.1	K06878	132.90	149.8	1.4e-45	tRNA-binding protein
+WP_209387385.1	K03524	152.07	232.4	1.3e-70	BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]
+WP_209387390.1	K00766	91.43	426.5	2e-129	anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+WP_209387472.1	K04487	269.33	404.5	1.1e-122	cysteine desulfurase [EC:2.8.1.7]
+WP_209387473.1	K06401	151.43	263.3	3.8e-80	stage IV sporulation protein FA
+WP_209387477.1	K00052	417.63	589.0	1.2e-178	3-isopropylmalate dehydrogenase [EC:1.1.1.85]
+WP_209387478.1	K01652	533.37	809.8	3.7e-245	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+WP_209387498.1	K02337	959.53	1408.5	0	DNA polymerase III subunit alpha [EC:2.7.7.7]
+WP_209387507.1	K04767	143.37	211.4	2.4e-64	acetoin utilization protein AcuB
+WP_209387531.1	K16789	55.60	211.7	2.3e-64	thiamine transporter
+WP_209387554.1	K07017	260.73	362.9	2.3e-110	ferri-bacillibactin esterase [EC:3.1.-.-]
+WP_209387583.1	K17686	817.67	1152.9	0	P-type Cu+ transporter [EC:7.2.2.8]
+WP_209387583.1	K01533	898.17	945.1	8.2e-286	P-type Cu2+ transporter [EC:7.2.2.9]
+WP_209387584.1	K16044	544.30	651.6	3.8e-198	scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.371]
+WP_209387590.1	K20492	116.30	268.2	9.3e-82	lantibiotic transport system permease protein
+WP_209387645.1	K16699	345.40	655.9	2.3e-199	teichuronic acid biosynthesis glycosyltransferase TuaH [EC:2.4.-.-]
+WP_209387646.1	K16698	358.13	456.0	4.3e-139	teichuronic acid biosynthesis glycosyltransferase TuaG [EC:2.4.-.-]
+WP_209387647.1	K16706	165.27	338.4	3.1e-103	teichuronic acid biosynthesis protein TuaF
+WP_209387673.1	K06131	266.40	531.5	5.3e-161	cardiolipin synthase A/B [EC:2.7.8.-]
+WP_209387696.1	K16869	124.10	331.3	7.3e-101	octanoyl-[GcvH]:protein N-octanoyltransferase [EC:2.3.1.204]
+WP_209387697.1	K21900	296.33	389.0	3.2e-118	LysR family transcriptional regulator, transcriptional activator of the cysJI operon
+WP_209387755.1	K25308	263.33	337.6	1.8e-102	ferric hydroxamate/heme transport system substrate-binding protein
+WP_209387807.1	K00865	59.33	532.8	1.3e-161	glycerate 2-kinase [EC:2.7.1.165]
+WP_209387815.1	K03328	302.83	323.8	3e-98	polysaccharide transporter, PST family
+WP_209387847.1	K01304	69.13	194.5	3.5e-59	pyroglutamyl-peptidase [EC:3.4.19.3]
+WP_209387863.1	K26139	828.17	941.5	5.6e-285	nitrite reductase [NAD(P)H] large subunit [EC:1.7.1.4]
+WP_209387873.1	K02028	388.67	436.7	1.9e-132	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]
+WP_209387873.1	K10010	383.77	411.2	2e-125	L-cystine transport system ATP-binding protein [EC:7.4.2.1]
+WP_209387890.1	K07250	641.97	644.4	1.6e-195	4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase [EC:2.6.1.19 2.6.1.22 2.6.1.48]
+WP_209387899.1	K03483	455.67	741.5	1.4e-224	mannitol operon transcriptional activator
+WP_209387925.1	K16264	314.60	426.0	2.8e-129	cobalt-zinc-cadmium efflux system protein
+WP_209387944.1	K06609	469.47	706.4	2.3e-214	MFS transporter, SP family, major inositol transporter
+WP_209387991.1	K02477	119.23	134.8	6.2e-41	two-component system, LytTR family, response regulator
+WP_209388011.1	K01247	175.33	212.9	9.9e-65	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]
+WP_209388013.1	K21417	473.97	506.1	6.5e-154	acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta [EC:1.1.1.-]
+WP_209388014.1	K00382	461.43	548.8	2e-166	dihydrolipoyl dehydrogenase [EC:1.8.1.4]
+WP_209388031.1	K03781	77.03	837.2	1.9e-253	catalase [EC:1.11.1.6]
+WP_209388060.1	K27501	459.50	557.6	2.5e-169	putrescine/cadaverine/1,3-diaminopropane N-hydroxylase [EC:1.14.13.252 1.14.13.-]
+WP_209388080.1	K01953	98.17	533.3	1.8e-161	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+WP_209388089.1	K00620	169.63	568.7	2e-172	glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]
+WP_209388132.1	K01812	132.80	659.9	5e-200	glucuronate isomerase [EC:5.3.1.12]
+WP_209388212.1	K01465	316.40	465.0	7.9e-141	dihydroorotase [EC:3.5.2.3]
+WP_209388213.1	K02823	241.07	315.2	7.4e-96	dihydroorotate dehydrogenase electron transfer subunit
+WP_209388216.1	K00958	275.47	505.5	2.8e-153	sulfate adenylyltransferase [EC:2.7.7.4]
+WP_209388282.1	K27802	1460.23	1562.4	0	aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]
+WP_209388319.1	K03296	1103.10	1196.6	0	hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family
+WP_209388331.1	K00931	284.87	454.3	1e-137	glutamate 5-kinase [EC:2.7.2.11]
+WP_209388340.1	K13955	308.20	483.3	4.3e-147	zinc-binding alcohol dehydrogenase/oxidoreductase
+WP_209388358.1	K04768	375.20	588.3	4.5e-178	acetoin utilization protein AcuC
+WP_348633730.1	K00762	145.10	205.7	1.6e-62	orotate phosphoribosyltransferase [EC:2.4.2.10]
+WP_370531149.1	K03406	54.90	107.7	1e-32	methyl-accepting chemotaxis protein

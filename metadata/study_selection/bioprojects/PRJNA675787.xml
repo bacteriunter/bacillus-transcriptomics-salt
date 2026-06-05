@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="675787">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA675787" archive="NCBI" id="675787"/>
+        <CenterID center="GEO" id="0">GSE161161</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Transcriptomic changes in the interaction between PCL1606 and FZB42</Name>
+        <Title>Transcriptomic changes in the interaction between PCL1606 and FZB42</Title>
+        <Description>We report the application of a high-throughput technique, RNA-seq, to study the transcriptomic response of P. chlororaphis and Bacillus amyloliquefaciens growing in co-cultures in King B solid medium Overall design: Single colonies of PCL1606 and FZB42 WT and the GlpK mutant were grown overnight in LB medium at 30°C. Overnight cultures were diluted to a starting OD600 of 0.01 in the same medium and 2 µl were spotted on King B plates alone and in interaction between PCL1606 and the Bacillus strains.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE161161</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2021-07-29T00:00:00Z" id="34320359" status="ePublished">
+          <Reference>34320359</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Other>Unknown</Other>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultispecies"/>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2021-08-18" submission_id="SUB10221642" submitted="2020-11-10">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>MIcrobiology, UMA</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB10221642-gse161161"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

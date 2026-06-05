@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="744162">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA744162" archive="NCBI" id="744162"/>
+        <CenterID center="GEO" id="0">GSE179533</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Transcriptomic analysis of wild-type and mutant strains of Bacillus subtilis 168</Name>
+        <Title>Transcriptomic analysis of wild-type and mutant strains of Bacillus subtilis 168</Title>
+        <Description>The transcriptional profiling and global gene expression analysis revealed a higher globally gene expression level in BS-F91L or BS-Q150W strains with enhanced N6-methyladenosine deaminase activity. The differentially expressed genes categorized by GO, KEGG and COG analysis, highlighted the crucial roles of Bsu06560 in regulating N6-methyladenosine metabolism and further influenced a myriad of biological processes in multiple layers, including transcription, translation, metabolites regulations, and cellular signal transduction. Overall design: Transcriptomic analysis of 2 Bsu06560 mutant strains of Bacillus subtilis 168. Wild-type strain of Bacillus subtilis 168 were referance samples. All samples were tested in triplicate.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE179533</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2021-12-02T00:00:00Z" id="34850126" status="ePublished">
+          <Reference>34850126</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Environmental>Yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="224308">
+              <OrganismName>Bacillus subtilis subsp. subtilis str. 168</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2021-12-15" submission_id="SUB10807115" submitted="2021-07-06">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Xiang Zhou's Group, College of Chemistry and Molecular Sciences, Wuhan University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB10807115-gse179533"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

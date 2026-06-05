@@ -1,0 +1,5 @@
+species	strain	selected_accession	assembly_level	reference_type	decision
+Bacillus_paralicheniformis	BL-1	GCF_979930925.1	Complete Genome	representative_refseq	selected_no_exact_BL1_found
+Bacillus_velezensis	HR6-1	GCF_057365115.1	Complete Genome	representative_refseq	selected_no_exact_HR6-1_found
+Bacillus_licheniformis	WX-02	GCF_000258125.2	Chromosome	exact_refseq	selected_exact_strain
+Bacillus_subtilis	168	GCF_000009045.1	Complete Genome	exact_refseq	selected_reference_strain

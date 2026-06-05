@@ -1,0 +1,14 @@
+666a038b8db6d9ea2cd3a1a9a2874bc8  ncbi_dataset/data/assembly_data_report.jsonl
+81e2472285cb165e42bdcbfc408cd553  ncbi_dataset/data/GCF_000009045.1/GCF_000009045.1_ASM904v1_genomic.fna
+92499fbb5562d07d4db8197646c176d0  ncbi_dataset/data/GCF_000009045.1/genomic.gff
+51ef10d8bb7c0320aa9b21f4a307a43d  ncbi_dataset/data/GCF_000009045.1/protein.faa
+8d3966803405d9fd757ad638f9b3c838  ncbi_dataset/data/GCF_000258125.2/GCF_000258125.2_ASM25812v2_genomic.fna
+800aee7d3368acafa05bfc06b1d17072  ncbi_dataset/data/GCF_000258125.2/genomic.gff
+2e10b5e62c0d5282688855cc3faed912  ncbi_dataset/data/GCF_000258125.2/protein.faa
+024f5bf792d36baaca79416c6035eb4f  ncbi_dataset/data/GCF_057365115.1/GCF_057365115.1_ASM5736511v1_genomic.fna
+c38dda598818aa269f9726b10b0ede34  ncbi_dataset/data/GCF_057365115.1/genomic.gff
+663b8e59897134e491ee9db435460b3c  ncbi_dataset/data/GCF_057365115.1/protein.faa
+a86ce2233fb1386e0ea6b239dd74ae4d  ncbi_dataset/data/GCF_979930925.1/GCF_979930925.1_SRL656_genomic.fna
+19f25e0916577ab8948c477342bbf2b0  ncbi_dataset/data/GCF_979930925.1/genomic.gff
+264492a53ca35d88ff810f4d48787c32  ncbi_dataset/data/GCF_979930925.1/protein.faa
+80fe177eb33af65fa15ff34e21a449be  ncbi_dataset/data/dataset_catalog.json

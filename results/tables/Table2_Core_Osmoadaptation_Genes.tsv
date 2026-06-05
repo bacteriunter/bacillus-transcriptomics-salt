@@ -1,0 +1,11 @@
+Gene	KO	Function	Category	log2FC_B_velezensis	log2FC_B_paralicheniformis
+betB	K00130	betaine-aldehyde dehydrogenase [EC:1.2.1.8]	glycine_betaine_choline	9.031164912910793	1.6817709586311131
+gbsB	K11440	choline dehydrogenase [EC:1.1.1.1]	glycine_betaine_choline	8.191428088473684	1.077519362569429
+proC	K00286	pyrroline-5-carboxylate reductase [EC:1.5.1.2]	proline	6.6109245653865	4.030802150286297
+proB	K00931	glutamate 5-kinase [EC:2.7.2.11]	proline;transport	5.651574961305816	4.669124185727576
+putP	K11928	sodium/proline symporter	proline;transport	5.365230475091405	3.515375190125015
+pgsB	K01932	gamma-polyglutamate synthase [EC:6.3.2.-]	poly_gamma_glutamate;transport	4.862568613443718	2.7795226158647184
+pgsC	K22116	gamma-polyglutamate biosynthesis protein CapC	poly_gamma_glutamate;transport	4.035579409374109	2.6565147089535497
+opuAA	K02000	glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]	glycine_betaine_choline;proline;transport	2.7062858342601133	2.3500364321204543
+nhaC	K03315	Na+:H+ antiporter, NhaC family	sodium_homeostasis	2.5663934508619137	3.607973905812304
+opuAB	K02001	glycine betaine/proline transport system permease protein	glycine_betaine_choline;proline;transport	2.488416056033597	2.383794255565834

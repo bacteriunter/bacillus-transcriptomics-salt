@@ -1,0 +1,35 @@
+project_name: bacillus_transcriptomics_salt
+
+metadata:
+  samples: metadata/sample_annotation/samples.tsv
+  reference_map: metadata/reference_genomes/sample_reference_map.tsv
+  dataset_curation: metadata/study_selection/final_dataset_curation.tsv
+  reference_selection: metadata/reference_genomes/reference_selection.tsv
+
+directories:
+  fastq: raw_data/fastq
+  qc: results/qc_reports
+  trimmed: results/trimmed_reads
+  salmon_index: results/salmon_index
+  salmon_quant: results/salmon_quant
+  counts: results/counts
+  deseq2: results/deseq2
+  ko_annotation: results/ko_annotation
+  figures: figures/final
+  logs: logs
+
+threads:
+  download: 2
+  qc: 2
+  trim: 2
+  salmon_index: 4
+  salmon_quant: 4
+
+analysis:
+  main_comparisons:
+    - velezensis_control_vs_salt
+    - paralicheniformis_control_vs_salt
+  limited_comparisons:
+    - licheniformis_control_vs_salt
+  complementary_comparisons:
+    - subtilis_timecourse

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="928739">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA928739" archive="NCBI" id="928739"/>
+        <LocalID>bp0</LocalID>
+        <LocalID>bp0</LocalID>
+      </ProjectID>
+      <ProjectDescr>
+        <Title>Biocontrol agent Production</Title>
+        <Description>Screening of Iranian bacterial strains used as anti-fungal agents.</Description>
+        <Relevance>
+          <Environmental>yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultispecies"/>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2023-01-27" submission_id="SUB12282130" submitted="2023-01-27">
+      <Description>
+        <Organization role="owner" type="institute" url="http://www.sku.ac.ir/">
+          <Name>Shahrekord University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB12282130-bp0"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

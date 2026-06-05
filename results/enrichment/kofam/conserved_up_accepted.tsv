@@ -1,0 +1,188 @@
+* WP_003151242.1      K02372   71.63  226.9   6.2e-69 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+* WP_003151318.1      K01575   82.43  339.0  2.7e-103 acetolactate decarboxylase [EC:4.1.1.5]
+* WP_003151337.1      K01932  143.33  503.7  8.3e-153 gamma-polyglutamate synthase [EC:6.3.2.-]
+* WP_003151340.1      K22116   57.70  141.4   5.4e-43 gamma-polyglutamate biosynthesis protein CapC
+* WP_003151607.1      K05311  215.10  487.8  1.6e-148 central glycolytic genes regulator
+* WP_003151660.1      K22301  235.43  291.6     3e-89 HTH-type transcriptional regulator, osmoprotectant uptake regulator
+* WP_003151688.1      K03664   39.53  250.4   2.3e-76 SsrA-binding protein
+* WP_003151759.1      K07038   28.70   98.2   7.3e-30 inner membrane protein
+* WP_003152056.1      K05571  109.60  125.0   3.7e-38 multicomponent Na+:H+ antiporter subunit G
+* WP_003152109.1      K19955  439.03  586.6  2.2e-178 alcohol dehydrogenase [EC:1.1.1.-]
+* WP_003152359.1      K03439   57.33  197.8   3.8e-60 tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+* WP_003153114.1      K23734  204.50  381.0  5.9e-116 lipoyl(octanoyl) transferase [EC:2.3.1.181]
+* WP_003153118.1      K07001   94.97  169.4   1.9e-51 NTE family protein
+* WP_003153415.1      K24131   47.23  152.4   2.4e-46 protease PrsW [EC:3.4.-.-]
+* WP_003153553.1      K03816  145.13  303.6   5.9e-93 xanthine phosphoribosyltransferase [EC:2.4.2.22]
+* WP_003154234.1      K02420   86.10  122.8   9.4e-38 flagellar biosynthesis protein FliQ
+* WP_003154237.1      K02418   22.07   72.1   6.3e-22 flagellar protein FliO/FliZ
+* WP_003154238.1      K03413  135.17  168.1   5.1e-51 two-component system, chemotaxis family, chemotaxis protein CheY
+* WP_003154240.1      K02416   93.13  276.0   1.1e-83 flagellar motor switch protein FliM
+* WP_003154243.1      K02385   38.93   89.3   1.9e-27 flagellar protein FlbD
+* WP_003154253.1      K02413   34.83   76.8   2.9e-23 flagellar protein FliJ
+* WP_003154256.1      K02410   84.30  401.8  6.5e-122 flagellar motor switch protein FliG
+* WP_003154259.1      K02388   67.17  178.1   2.8e-54 flagellar basal-body rod protein FlgC
+* WP_003154260.1      K02387   72.73  122.2     3e-37 flagellar basal-body rod protein FlgB
+* WP_003155740.1      K07094  268.87  356.3  8.5e-109 heptaprenylglyceryl phosphate synthase [EC:2.5.1.-]
+* WP_003156187.1      K07171   22.57  149.0   2.5e-45 mRNA interferase MazF [EC:3.1.-.-]
+* WP_003156188.1      K07723   40.37  112.5   1.4e-34 CopG family transcriptional regulator / antitoxin EndoAI
+* WP_003156443.1      K07590   75.57  109.9     5e-34 large subunit ribosomal protein L7A
+* WP_003156639.1      K02001  279.30  462.1  5.8e-140 glycine betaine/proline transport system permease protein
+* WP_003156640.1      K02000  416.40  641.9    2e-194 glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]
+* WP_004264691.1      K06436  282.87  434.9  1.5e-132 spore coat assemly protein
+* WP_004264696.1      K05985  117.07  274.1   9.8e-84 ribonuclease M5 [EC:3.1.26.8]
+* WP_007407375.1      K18929  456.53  692.7  5.4e-210 L-lactate dehydrogenase complex protein LldF
+* WP_007407725.1      K06518   42.30  135.3   1.7e-41 holin-like protein
+* WP_007407911.1      K22927  280.73  910.2  1.6e-275 cyclic-di-AMP phosphodiesterase [EC:3.1.4.59]
+* WP_007408053.1      K00925  173.57  629.2  9.7e-191 acetate kinase [EC:2.7.2.1]
+* WP_007408068.1      K00850  352.80  409.2  3.5e-124 6-phosphofructokinase 1 [EC:2.7.1.11]
+* WP_007408114.1      K09888   20.73   88.1   7.2e-27 cell division protein ZapA
+* WP_007408154.1      K02497  169.40  386.2  8.3e-118 HemX protein
+* WP_007408335.1      K03972   89.17  102.3   3.7e-31 thiosulfate sulfurtransferase [EC:2.8.1.1]
+* WP_007408338.1      K11924  157.60  228.8   1.1e-69 DtxR family transcriptional regulator, manganese transport regulator
+* WP_007408461.1      K02556   92.93  309.6   4.5e-94 chemotaxis protein MotA
+* WP_007408511.1      K07300   88.17  388.8  3.9e-118 Ca2+:H+ antiporter
+* WP_007408653.1      K07570  133.27  170.2   3.8e-52 general stress protein 13
+* WP_007408822.1      K07139  232.80  497.0  6.3e-151 uncharacterized protein
+* WP_007408838.1      K08998   27.00  146.0   1.6e-44 uncharacterized protein
+* WP_007408889.1      K03088   99.13  113.6   1.6e-34 RNA polymerase sigma-70 factor, ECF subfamily
+* WP_007408914.1      K11928  652.27  695.5  5.1e-211 sodium/proline symporter
+* WP_007408914.1      K03307  343.20  349.2  5.7e-106 solute:Na+ symporter, SSS family
+* WP_007408966.1      K03319  484.27  717.1  1.3e-217 divalent anion:Na+ symporter, DASS family
+* WP_007409044.1      K09816  274.50  303.9     2e-92 zinc transport system permease protein
+* WP_007409427.1      K05896   38.03  268.8     1e-81 segregation and condensation protein A
+* WP_007409428.1      K06024   32.80  207.0   3.7e-63 segregation and condensation protein B
+* WP_007409599.1      K20118  804.40  990.2    6e-300 glucose PTS system EIICBA or EIICB component [EC:2.7.1.199]
+* WP_007409599.1      K02779  717.07  719.4  5.5e-218 glucose PTS system EIICB or EIICBA component [EC:2.7.1.199]
+* WP_007409599.1      K02791  654.53  660.4  2.4e-200 maltose/glucose PTS system EIICB component [EC:2.7.1.199 2.7.1.208]
+* WP_007409599.1      K02804  617.73  641.3  1.9e-194 N-acetylglucosamine PTS system EIICBA or EIICB component [EC:2.7.1.193]
+* WP_007409693.1      K08316   93.57  212.4     1e-64 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]
+* WP_007409704.1      K03438  388.37  473.8  9.4e-144 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* WP_007409777.1      K02408   32.93  102.8   3.7e-31 flagellar hook-basal body complex protein FliE
+* WP_007409783.1      K02390  312.40  355.0  1.3e-107 flagellar hook protein FlgE
+* WP_007409786.1      K02419  280.97  374.9  5.5e-114 flagellar biosynthesis protein FliP
+* WP_007410036.1      K03758  358.87  491.3  4.2e-149 arginine:ornithine antiporter / lysine permease
+* WP_007610253.1      K03216   98.47  259.8   3.3e-79 tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]
+* WP_007610880.1      K04063   55.33  170.4   7.7e-52 lipoyl-dependent peroxiredoxin [EC:1.11.1.28]
+* WP_007611430.1      K02412  644.80  715.2  7.4e-217 flagellum-specific ATP synthase [EC:7.4.2.8]
+* WP_007611720.1      K01356  135.90  303.5   2.4e-92 repressor LexA [EC:3.4.21.88]
+* WP_007612347.1      K04763  304.80  356.1  5.3e-108 integrase/recombinase XerD
+* WP_007613424.1      K05566   93.30  147.8   3.5e-45 multicomponent Na+:H+ antiporter subunit B
+* WP_007613482.1      K07084  346.17  674.7  2.9e-204 putative amino acid transporter
+* WP_007613980.1      K02532  191.90  589.3  4.2e-179 MFS transporter, OHS family, lactose permease
+* WP_007614174.1      K07282  260.93  578.5  6.9e-176 gamma-polyglutamate biosynthesis protein CapA
+* WP_007615141.1      K11991  171.70  278.5     2e-84 tRNA(adenine34) deaminase [EC:3.5.4.33]
+* WP_012117078.1      K25307  124.43  190.0   8.6e-58 low molecular weight protein-tyrosine phosphatase [EC:3.1.3.48]
+* WP_012117400.1      K06213   88.63  523.3  1.1e-158 magnesium transporter
+* WP_012118002.1      K08222  124.43  552.3  7.6e-168 MFS transporter, YQGE family, putative transporter
+* WP_012118311.1      K05570   82.40   98.0   5.8e-30 multicomponent Na+:H+ antiporter subunit F
+* WP_012118784.1      K11616  272.10  543.2  4.6e-165 malate:Na+ symporter
+* WP_014304649.1      K26739  178.10  255.1   4.7e-78 PadR family transcriptional regulator, phenolic acid-responsive transcriptional regulator
+* WP_014416828.1      K18939  193.67  261.5   5.9e-80 TetR/AcrR family transcriptional regulator, lmrAB and yxaGH operons repressor
+* WP_014416875.1      K08093  178.83  279.2   5.5e-85 3-hexulose-6-phosphate synthase [EC:4.1.2.43]
+* WP_014417181.1      K01265  133.03  223.5   8.3e-68 methionyl aminopeptidase [EC:3.4.11.18]
+* WP_014417202.1      K01567  251.33  381.9  4.6e-116 peptidoglycan-N-acetylmuramic acid deacetylase [EC:3.5.1.-]
+* WP_014417202.1      K22278   73.07  209.6     1e-63 peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104]
+* WP_014417243.1      K24708  772.70  913.8  5.6e-277 ATP-binding cassette, subfamily B, putative efflux pump [EC:7.6.2.-]
+* WP_014417243.1      K06147  616.57  682.7  9.9e-207 ATP-binding cassette, subfamily B, bacterial
+* WP_014417297.1      K03294  450.37  614.2  2.9e-186 basic amino acid/polyamine antiporter, APA family
+* WP_014417303.1      K06199   29.67  106.6   1.5e-32 fluoride exporter
+* WP_014417627.1      K03436  284.90  292.3   4.4e-89 DeoR family transcriptional regulator, fructose operon transcriptional repressor
+* WP_014417632.1      K03569  119.00  488.2  2.2e-148 rod shape-determining protein MreB and related proteins
+* WP_014417774.1      K02417   61.63  281.0   2.4e-85 flagellar motor switch protein FliN
+* WP_014417775.1      K02421  166.10  258.2   1.3e-78 flagellar biosynthesis protein FliR
+* WP_014417776.1      K02401  368.37  482.7  1.8e-146 flagellar biosynthesis protein FlhB
+* WP_014418377.1      K02244  198.63  359.2  2.8e-109 competence protein ComGB
+* WP_014418528.1      K08992   34.70   68.0   1.3e-20 lipopolysaccharide assembly protein A
+* WP_014418918.1      K03299   92.33  545.1  3.3e-165 gluconate:H+ symporter, GntP family
+* WP_014418920.1      K18928  249.43  388.8    2e-118 L-lactate dehydrogenase complex protein LldE
+* WP_014418974.1      K01693  295.77  312.1   3.2e-95 imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]
+* WP_014419216.1      K03652   57.40  238.3   1.5e-72 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* WP_015240188.1      K01126  156.20  236.3   7.6e-72 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+* WP_017417943.1      K00931  284.87  434.8  7.5e-132 glutamate 5-kinase [EC:2.7.2.11]
+* WP_017418119.1      K01448   36.57  239.3   8.6e-73 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+* WP_017418307.1      K03703  239.30  763.2  3.5e-231 excinuclease ABC subunit C
+* WP_017418742.1      K02379  111.20  304.6   1.8e-92 FdhD protein
+* WP_017418839.1      K02501  232.47  278.4   8.8e-85 imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]
+* WP_017418880.1      K25031  478.03  752.4  3.1e-228 gluconokinase [EC:2.7.1.12]
+* WP_017419351.1      K00034  308.47  326.6   2.4e-99 glucose 1-dehydrogenase [EC:1.1.1.47]
+* WP_017419351.1      K00059  273.10  301.3   1.2e-91 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+* WP_021493878.1      K02819  635.70  756.1  3.6e-229 trehalose PTS system EIIBC or EIIBCA component [EC:2.7.1.201]
+* WP_021494173.1      K00286  175.37  299.1   9.8e-91 pyrroline-5-carboxylate reductase [EC:1.5.1.2]
+* WP_021494261.1      K03315  187.13  558.2  1.9e-169 Na+:H+ antiporter, NhaC family
+* WP_021494311.1      K02248   51.90   82.4   5.1e-25 competence protein ComGF
+* WP_021495015.1      K18924  122.50  123.7   9.1e-38 paired small multidrug resistance pump
+* WP_021495223.1      K00782  103.63  151.5   4.7e-46 L-lactate dehydrogenase complex protein LldG
+* WP_021495256.1      K11755  223.00  321.1   9.2e-98 phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase [EC:3.5.4.19 3.6.1.31]
+* WP_022553582.1      K07120   69.47  285.2     1e-86 uncharacterized protein
+* WP_022553706.1      K05567  125.47  156.7     1e-47 multicomponent Na+:H+ antiporter subunit C
+* WP_025649507.1      K03752   89.00  142.9   1.6e-43 molybdenum cofactor guanylyltransferase [EC:2.7.7.77]
+* WP_029973465.1      K02389   32.73  119.6     3e-36 flagellar basal-body rod modification protein FlgD
+* WP_032863920.1      K05568  404.60  486.1    2e-147 multicomponent Na+:H+ antiporter subunit D
+* WP_032871696.1      K04486  121.03  251.1   2.5e-76 histidinol-phosphatase (PHP family) [EC:3.1.3.15]
+* WP_032875437.1      K26993  101.30  166.2     6e-51 ArsR family transcriptional regulator, repressor of sdpIR and other operons
+* WP_032875437.1      K03892   91.47   95.7   5.3e-29 ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor
+* WP_038458013.1      K02411   78.40  119.0   5.2e-36 flagellar assembly protein FliH
+* WP_061862346.1      K09763   37.27  111.0   1.1e-33 uncharacterized protein
+* WP_061862428.1      K04487  269.33  538.2  3.3e-163 cysteine desulfurase [EC:2.8.1.7]
+* WP_061862606.1      K04075  124.67  311.2   1.8e-94 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* WP_065180546.1      K03722  238.93  416.3  3.8e-126 ATP-dependent DNA helicase DinG [EC:5.6.2.3]
+* WP_072177025.1      K21064  210.90  235.2   1.1e-71 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* WP_072177123.1      K05519  276.90  466.4  4.8e-142 transcriptional activator of comK gene
+* WP_072177123.1      K07335  143.40  189.6   1.5e-57 basic membrane protein A and related proteins
+* WP_072177407.1      K07474   23.13  154.2   9.6e-47 phage terminase small subunit
+* WP_072177466.1      K21960  240.83  406.1    1e-123 LysR family transcriptional regulator, regulator of the ytmI operon
+* WP_072177850.1      K12573  476.47 1055.9         0 ribonuclease R [EC:3.1.13.1]
+* WP_077721760.1      K02002  109.87  228.9   1.3e-69 glycine betaine/proline transport system substrate-binding protein
+* WP_095270778.1      K01814  243.93  287.8   2.2e-87 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]
+* WP_095284152.1      K02236  241.47  259.3   4.2e-79 leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]
+* WP_095284152.1      K02654  134.93  198.5   2.1e-60 leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]
+* WP_100261812.1      K03310  264.90  580.3  4.7e-176 alanine or glycine:cation symporter, AGCS family
+* WP_110085500.1      K16169  600.67  681.7  4.1e-207 xanthine permease
+* WP_129092165.1      K02400  732.13 1015.9         0 flagellar biosynthesis protein FlhA
+* WP_159353548.1      K00371  345.80  956.4  2.7e-289 nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]
+* WP_160216532.1      K07082   42.97  366.4  2.5e-111 peptidoglycan lytic transglycosylase G [EC:4.2.2.29]
+* WP_160216588.1      K01534  718.80  887.7  1.1e-268 Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+* WP_191389150.1      K03406   54.90  293.6     4e-89 methyl-accepting chemotaxis protein
+* WP_209387345.1      K04748  176.70  191.9   2.8e-58 nitric oxide reductase NorQ protein
+* WP_209387349.1      K26939  359.23  457.7    6e-139 MATE family, multidrug efflux pump
+* WP_209387396.1      K00058  318.40  473.4  8.8e-144 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]
+* WP_209387431.1      K02246   66.63  114.4   7.3e-35 competence protein ComGD
+* WP_209387432.1      K02243  328.93  423.4  6.2e-129 competence protein ComGA
+* WP_209387433.1      K03699  305.53  479.0    3e-145 magnesium and cobalt exporter, CNNM family
+* WP_209387434.1      K17763  144.17  214.1   5.2e-65 rsbT co-antagonist protein RsbR
+* WP_209387437.1      K03315  187.13  537.4  3.9e-163 Na+:H+ antiporter, NhaC family
+* WP_209387446.1      K02238   67.80  540.3  1.3e-163 competence protein ComEC
+* WP_209387448.1      K10804  112.47  113.1   2.2e-34 acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]
+* WP_209387448.1      K23978   89.50   96.3   2.5e-29 isoamyl acetate esterase [EC:3.1.1.112]
+* WP_209387484.1      K03558   44.30   77.1   2.1e-23 membrane protein required for colicin V production
+* WP_209387492.1      K07704  621.37  787.1  1.2e-238 two-component system, LytTR family, sensor histidine kinase LytS [EC:2.7.13.3]
+* WP_209387532.1      K11440  581.87  807.0  2.9e-245 choline dehydrogenase [EC:1.1.1.1]
+* WP_209387533.1      K00130  694.20  759.8  2.6e-230 betaine-aldehyde dehydrogenase [EC:1.2.1.8]
+* WP_209387544.1      K05565  832.20  949.1  4.5e-287 multicomponent Na+:H+ antiporter subunit A
+* WP_209387545.1      K05569  116.43  146.7   1.3e-44 multicomponent Na+:H+ antiporter subunit E
+* WP_209387580.1      K19005  172.07  737.4  3.4e-223 lipoteichoic acid synthase [EC:2.7.8.20]
+* WP_209387587.1      K03928  137.43  262.7   7.6e-80 carboxylesterase [EC:3.1.1.1]
+* WP_209387623.1      K00013  472.37  622.9  7.9e-189 histidinol dehydrogenase [EC:1.1.1.23]
+* WP_209387624.1      K00765   47.37  235.6   1.3e-71 ATP phosphoribosyltransferase [EC:2.4.2.17]
+* WP_209387625.1      K02502  244.00  385.5  4.6e-117 ATP phosphoribosyltransferase regulatory subunit
+* WP_209387661.1      K13694  192.90  390.2  8.1e-119 murein DD-endopeptidase / murein LD-carboxypeptidase [EC:3.4.-.- 3.4.17.13]
+* WP_209387661.1      K13695  200.00  342.2  1.3e-104 probable lipoprotein NlpC
+* WP_209387661.1      K19303  201.03  329.9    2e-100 murein DD-endopeptidase [EC:3.4.-.-]
+* WP_209387661.1      K20742  166.33  302.9   3.8e-92 gamma-D-glutamyl-L-lysine dipeptidyl-peptidase [EC:3.4.14.13]
+* WP_209387727.1      K02759   38.60  137.1   6.2e-42 cellobiose PTS system EIIA component [EC:2.7.1.196 2.7.1.205]
+* WP_209387728.1      K02761  190.50  523.7  7.2e-159 cellobiose PTS system EIIC component
+* WP_209387737.1      K16323  515.30  622.6  3.9e-189 purine nucleoside transport protein
+* WP_209387790.1      K01212  632.13  723.6  4.1e-219 levanase [EC:3.2.1.65]
+* WP_209387790.1      K01193   97.03  312.8   6.7e-95 beta-fructofuranosidase [EC:3.2.1.26]
+* WP_209387803.1      K13531  196.53  253.7   1.1e-77 methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]
+* WP_209387935.1      K07090   45.90  124.7   6.4e-38 uncharacterized protein
+* WP_209387996.1      K01226  797.17  884.9  3.1e-268 trehalose-6-phosphate hydrolase [EC:3.2.1.93]
+* WP_209387997.1      K03486  214.60  356.5    9e-109 GntR family transcriptional regulator, trehalose operon transcriptional repressor
+* WP_209388025.1      K07038   28.70  127.1   1.2e-38 inner membrane protein
+* WP_209388036.1      K02954   25.90  127.6   9.2e-39 small subunit ribosomal protein S14
+* WP_209388139.1      K06909   51.87  331.5  1.7e-100 phage terminase large subunit
+* WP_209388236.1      K02409  129.53  405.2  6.3e-123 flagellar M-ring protein FliF
+* WP_209388237.1      K02414   57.90   87.2   2.6e-26 flagellar hook-length control protein FliK
+* WP_209388240.1      K03412  209.73  438.5  6.3e-133 two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+* WP_209388287.1      K00874  243.57  312.2   1.1e-94 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]
+* WP_209388311.1      K06306  370.40  659.7  1.9e-200 cortical fragment-lytic enzyme [EC:3.2.1.-]

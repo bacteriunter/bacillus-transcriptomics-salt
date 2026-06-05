@@ -1,0 +1,7 @@
+ve_protein	pa_protein	ve_gene	ve_log2FC	pa_gene	pa_log2FC	response_class	ve_symbol	ve_product	pa_symbol	pa_product	candidate_category
+WP_003156640.1	WP_020452159.1	gene-ACSAL1_RS01570	2.7062858342601133	gene-ACZ0AN_RS13205	2.3500364321204543	conserved_up	opuAA	glycine/proline betaine ABC transporter ATP-binding protein OpuAA	opuAA	glycine/proline betaine ABC transporter ATP-binding protein OpuAA	proline
+WP_021494173.1	WP_075213795.1	gene-ACSAL1_RS09590	6.6109245653865	gene-ACZ0AN_RS10685	4.030802150286297	conserved_up	proC	pyrroline-5-carboxylate reductase	proC	pyrroline-5-carboxylate reductase	proline
+WP_017417943.1	WP_149169593.1	gene-ACSAL1_RS09585	5.651574961305816	gene-ACZ0AN_RS10680	4.669124185727576	conserved_up	proB	glutamate 5-kinase	proB	glutamate 5-kinase	proline
+WP_003156639.1	WP_020452158.1	gene-ACSAL1_RS01575	2.488416056033597	gene-ACZ0AN_RS13200	2.383794255565834	conserved_up	opuAB	glycine/proline betaine ABC transporter permease subunit OpuAB		ABC transporter permease	proline
+WP_209388331.1	WP_025812022.1	gene-ACSAL1_RS06685	1.3726065950478916	gene-ACZ0AN_RS07345	-1.3375279001679892	opposite	proB	glutamate 5-kinase	proB	glutamate 5-kinase	proline
+WP_007408914.1	WP_197407002.1	gene-ACSAL1_RS03500	5.365230475091405	gene-ACZ0AN_RS03785	3.515375190125015	conserved_up	putP	sodium/proline symporter PutP	putP	sodium/proline symporter PutP	proline

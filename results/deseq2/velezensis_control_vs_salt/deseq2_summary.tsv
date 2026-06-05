@@ -1,0 +1,2 @@
+comparison_group	n_genes_tested	significant_padj_0_05	up_padj_0_05_log2FC_1	down_padj_0_05_log2FC_minus1
+velezensis_control_vs_salt	3248	2487	925	968

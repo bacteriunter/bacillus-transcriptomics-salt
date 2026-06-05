@@ -1,0 +1,183 @@
+set	KO	definition	foreground_with_KO	foreground_total	background_with_KO	background_total	oddsratio	pvalue	padj
+opposite	K25283	iron-siderophore transport system permease protein	3	173	4	2017	32.523529411764706	0.002326786410273664	0.11071143507139666
+opposite	K03839	flavodoxin I	2	173	2	2017	inf	0.007317759362875872	0.11071143507139666
+opposite	K25308	ferric hydroxamate/heme transport system substrate-binding protein	2	173	2	2017	inf	0.007317759362875872	0.11071143507139666
+opposite	K02013	iron complex transport system ATP-binding protein [EC:7.2.2.-]	2	173	5	2017	7.177387914230019	0.06152605837994765	0.11071143507139666
+opposite	K00014	shikimate dehydrogenase [EC:1.1.1.25]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00016	L-lactate dehydrogenase [EC:1.1.1.27]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00145	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00208	enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00216	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [EC:1.3.1.28]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00265	glutamate synthase (NADPH) large chain [EC:1.4.1.13]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00266	glutamate synthase (NADPH) small chain [EC:1.4.1.13]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00359	NADPH:quinone reductase [EC:1.6.5.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00364	GMP reductase [EC:1.7.1.7]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00380	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00620	glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00645	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00756	pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00865	glycerate 2-kinase [EC:2.7.1.165]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00939	adenylate kinase [EC:2.7.4.3]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00958	sulfate adenylyltransferase [EC:2.7.7.4]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01232	maltose-6'-phosphate glucosidase [EC:3.2.1.122]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01304	pyroglutamyl-peptidase [EC:3.4.19.3]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01442	choloylglycine hydrolase [EC:3.5.1.24]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01465	dihydroorotase [EC:3.5.2.3]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01533	P-type Cu2+ transporter [EC:7.2.2.9]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01613	phosphatidylserine decarboxylase [EC:4.1.1.65]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01732	pectin lyase [EC:4.2.2.10]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01735	3-dehydroquinate synthase [EC:4.2.3.4]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01736	chorismate synthase [EC:4.2.3.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01759	lactoylglutathione lyase [EC:4.4.1.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01812	glucuronate isomerase [EC:5.3.1.12]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01916	NAD+ synthase [EC:6.3.1.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01939	adenylosuccinate synthase [EC:6.3.4.4]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02108	F-type H+-transporting ATPase subunit a	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02114	F-type H+-transporting ATPase subunit epsilon	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02337	DNA polymerase III subunit alpha [EC:2.7.7.7]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02406	flagellin	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02490	two-component system, response regulator, stage 0 sporulation protein F	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02518	translation initiation factor IF-1	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02823	dihydroorotate dehydrogenase electron transfer subunit	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02824	uracil permease	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K02897	large subunit ribosomal protein L25	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03040	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03076	preprotein translocase subunit SecY	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03206	azobenzene reductase [EC:1.7.1.6]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03296	hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03320	ammonium transporter, Amt family	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03322	manganese transport protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03328	polysaccharide transporter, PST family	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03480	transcriptional antiterminator	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03483	mannitol operon transcriptional activator	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03524	BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03544	ATP-dependent Clp protease ATP-binding subunit ClpX	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03713	MerR family transcriptional regulator, glutamine synthetase repressor	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03794	sirohydrochlorin ferrochelatase [EC:4.99.1.4]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03795	sirohydrochlorin cobaltochelatase [EC:4.99.1.3]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03800	lipoate---protein ligase [EC:6.3.1.20]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K03886	quinol---cytochrome c reductase iron-sulfur subunit, bacillus type [EC:7.1.1.8]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K04061	flagellar biosynthesis protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K04565	superoxide dismutase, Cu-Zn family [EC:1.15.1.1]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K04767	acetoin utilization protein AcuB	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K04768	acetoin utilization protein AcuC	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K04769	AbrB family transcriptional regulator, stage V sporulation protein T	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K05808	ribosome hibernation promoting factor	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K05817	LysR family transcriptional regulator, hca operon transcriptional activator	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06023	HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06298	germination protein M	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06401	stage IV sporulation protein FA	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06423	small acid-soluble spore protein F	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06878	tRNA-binding protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06929	uncharacterized protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K06956	uncharacterized protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K07017	ferri-bacillibactin esterase [EC:3.1.-.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K07213	copper chaperone	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K07250	4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase [EC:2.6.1.19 2.6.1.22 2.6.1.48]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K07795	putative tricarboxylic transport membrane protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K08174	MFS transporter, FHS family, glucose/mannose:H+ symporter	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K08483	phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K09767	cyclic-di-GMP-binding protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K10009	L-cystine transport system permease protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K10010	L-cystine transport system ATP-binding protein [EC:7.4.2.1]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K10806	acyl-CoA thioesterase [EC:3.1.2.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K11626	putative sodium/glutamine symporter	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K13275	major intracellular serine protease [EC:3.4.21.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K13955	zinc-binding alcohol dehydrogenase/oxidoreductase	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K14956	ESAT-6 family protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K15519	deoxyadenosine/deoxycytidine kinase [EC:2.7.1.76 2.7.1.74]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16044	scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.371]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16264	cobalt-zinc-cadmium efflux system protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16331	sulfate permease	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16698	teichuronic acid biosynthesis glycosyltransferase TuaG [EC:2.4.-.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16699	teichuronic acid biosynthesis glycosyltransferase TuaH [EC:2.4.-.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16706	teichuronic acid biosynthesis protein TuaF	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16789	thiamine transporter	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16869	octanoyl-[GcvH]:protein N-octanoyltransferase [EC:2.3.1.204]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K16920	acetoin utilization transport system ATP-binding protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K17216	cystathionine beta-synthase (O-acetyl-L-serine) [EC:2.5.1.134]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K17217	cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K17462	putative AdoMet-dependent methyltransferase [EC:2.1.1.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K17686	P-type Cu+ transporter [EC:7.2.2.8]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K18231	macrolide transport system ATP-binding/permease protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K20487	two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K20490	lantibiotic transport system ATP-binding protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K20491	lantibiotic transport system permease protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K20492	lantibiotic transport system permease protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21416	acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha [EC:1.1.1.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21417	acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta [EC:1.1.1.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21567	ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21757	LysR family transcriptional regulator, benzoate and cis,cis-muconate-responsive activator of ben and cat genes	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21900	LysR family transcriptional regulator, transcriptional activator of the cysJI operon	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K21902	MerR family transcriptional regulator, repressor of the yfmOP operon	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K22109	HTH-type transcriptional regulator, glycine betaine synthesis regulator	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K22132	tRNA threonylcarbamoyladenosine dehydratase	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K23598	iseA protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K24041	penicillin V amidase [EC:3.5.1.11]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K24866	precorrin-2 dehydrogenase [EC:1.3.1.76]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K25284	iron-siderophore transport system permease protein	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K25285	iron-siderophore transport system ATP-binding protein [EC:7.2.2.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K25290	ferric hydroxamate/heme transport system ATP-binding protein [EC:7.2.2.16]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K27501	putrescine/cadaverine/1,3-diaminopropane N-hydroxylase [EC:1.14.13.252 1.14.13.-]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K27802	aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]	1	173	1	2017	inf	0.08577094695091719	0.11071143507139666
+opposite	K00134	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K00648	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K00681	gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K00784	ribonuclease Z [EC:3.1.26.11]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K00931	glutamate 5-kinase [EC:2.7.2.11]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01118	FMN-dependent NADH-azoreductase [EC:1.7.1.17]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01265	methionyl aminopeptidase [EC:3.4.11.18]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01534	Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01673	carbonic anhydrase [EC:4.2.1.1]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01760	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K02028	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K02029	polar amino acid transport system permease protein	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K02303	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K02477	two-component system, LytTR family, response regulator	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K03310	alanine or glycine:cation symporter, AGCS family	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K03321	sulfate permease, SulP family	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K05846	osmoprotectant transport system permease protein	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K06131	cardiolipin synthase A/B [EC:2.7.8.-]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K06609	MFS transporter, SP family, major inositol transporter	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K07240	chromate transporter	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K11102	proton glutamate symport protein	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K16509	regulatory protein spx	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K16511	adapter protein MecA 1/2	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K18924	paired small multidrug resistance pump	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K26139	nitrite reductase [NAD(P)H] large subunit [EC:1.7.1.4]	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K26937	MATE family, multidrug efflux pump	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K26958	bacilliredoxin	1	173	2	2017	10.715116279069768	0.16422413453895854	0.17685676027272457
+opposite	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K00382	dihydrolipoyl dehydrogenase [EC:1.8.1.4]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K01897	long-chain-fatty-acid---CoA ligase [EC:6.2.1.3]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K02913	large subunit ribosomal protein L33	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K03781	catalase [EC:1.11.1.6]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K03885	NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K04487	cysteine desulfurase [EC:2.8.1.7]	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K06147	ATP-binding cassette, subfamily B, bacterial	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K06204	RNA polymerase-binding transcription factor	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K28810	spo0E family aspartyl-phosphate phosphatase	1	173	3	2017	5.354651162790698	0.23598057360831842	0.23993555528890478
+opposite	K02003	putative ABC transport system ATP-binding protein	1	173	4	2017	3.567829457364341	0.30160885601435655	0.3032752032851541
+opposite	K03406	methyl-accepting chemotaxis protein	1	173	4	2017	3.567829457364341	0.30160885601435655	0.3032752032851541
+opposite	K01990	ABC-2 type transport system ATP-binding protein	1	173	7	2017	1.7810077519379846	0.4667142720388621	0.4667142720388621

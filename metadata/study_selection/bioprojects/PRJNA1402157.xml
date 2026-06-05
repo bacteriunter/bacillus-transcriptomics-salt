@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="1402157">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA1402157" archive="NCBI" id="1402157"/>
+        <LocalID>bp0</LocalID>
+        <LocalID>bp0</LocalID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Bacillus velezensis strain:HR6-1</Name>
+        <Title>Bacillus velezensis strain:HR6-1 Raw sequence reads</Title>
+        <Description>Bacillus velezensis HR6-1 enhances salt tolerance of soil-cultivated tomatoes</Description>
+        <Relevance>
+          <Agricultural>yes</Agricultural>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultiisolate">
+            <Organism species="492670" taxID="492670">
+              <OrganismName>Bacillus velezensis</OrganismName>
+              <Strain>HR6-1</Strain>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+            <Description>RNA-seq</Description>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2026-01-13" submission_id="SUB15931061" submitted="2026-01-13">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Henan Agricultural University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB15931061-bp0"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

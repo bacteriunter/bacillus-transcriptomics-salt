@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="854068">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA854068" archive="NCBI" id="854068"/>
+        <CenterID center="GEO" id="0">GSE207180</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Transcriptomic analysis of VBNC cells of osmostressed Bacillus subtilis 168</Name>
+        <Title>Transcriptomic analysis of VBNC cells of osmostressed Bacillus subtilis 168</Title>
+        <Description>Characterization of the putative genetic determinants of the VBNC state in a known spore-forming Gram-positive organism Bacillus subtilis 168. The VBNC state was induced under osmotic stress and aminoglycoside treatment. The transcriptome landscape of VBNC cells was compared to the viable, antibiotic sensitive B. subtilis cells and to the viable cells with no antibiotic treatment. Overall design: 9 samples, 3 biological replicates for each studied condition</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE207180</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2022-10-27T00:00:00Z" id="36289289" status="ePublished">
+          <Reference>36289289</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Environmental>Yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="1423">
+              <OrganismName>Bacillus subtilis</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2022-11-02" submission_id="SUB12244493" submitted="2022-06-29">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Molecular Genetics, university of Groningen</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB12244493-gse207180"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

@@ -1,0 +1,3 @@
+ve_protein	pa_protein	ve_gene	ve_log2FC	pa_gene	pa_log2FC	response_class	ve_symbol	ve_product	pa_symbol	pa_product	candidate_category
+WP_003151337.1	WP_023857157.1	gene-ACSAL1_RS16880	4.862568613443718	gene-ACZ0AN_RS19045	2.7795226158647184	conserved_up	pgsB	poly-gamma-glutamate synthase PgsB	pgsB	poly-gamma-glutamate synthase PgsB	poly_gamma_glutamate
+WP_003151340.1	WP_003185831.1	gene-ACSAL1_RS16875	4.035579409374109	gene-ACZ0AN_RS19040	2.6565147089535497	conserved_up	pgsC	poly-gamma-glutamate biosynthesis protein PgsC	pgsC	poly-gamma-glutamate biosynthesis protein PgsC	poly_gamma_glutamate

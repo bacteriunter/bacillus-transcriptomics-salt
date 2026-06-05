@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="386487">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA386487" archive="NCBI" id="386487"/>
+        <CenterID center="GEO" id="0">GSE98874</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Cold adaptation of tRNA nucleotidyltransferases: a tradeoff in activity, stability and fidelity</Name>
+        <Title>Cold adaptation of tRNA nucleotidyltransferases: a tradeoff in activity, stability and fidelity</Title>
+        <Description>CCA-adding enzymes are highly specific RNA polymerases that synthesize and maintain the sequence CCA at the tRNA 3‘-end. Here, we investigated the impact of cold adaptation on the reactivity and specificity of CCA-adding enzymes from psychrophilic bacteria. A comparative study of the corresponding enzymes from closely related psychro-, meso-, and thermophilic Bacillales indicates that the cold-adapted enzymes show a considerable error rate during CCA synthesis, resulting in additional incorporations of C and A residues. It seems that the activity of psychrophilic CCA-adding enzymes is not only achieved at the expense of structural stability, reaction velocity and substrate affinity, but also results in a reduced polymerization fidelity. Overall design: in vivo tRNA from four Bacillales species was isolated from exponential and stationary growth phase each in triplicates resulting in a total of 24 samples. Sequencing libraries were created for small RNA species and sequenced on 3 runs of a MiSeq using 8 indices. Reads were analyzed regarding 3'-ends of tRNA and results summed up as a mean for the 8 conditions investigated. Results from B. subtilis were regarded as reference sample for a mesophilic Bacillales species. Differences towards psychophilic Planococcus halocryophilus and Exiguobacterium sibiricum and thermophilic Geobacills stearothermophilus were investigated.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE98874</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2017-11-04T00:00:00Z" id="29099323" status="ePublished">
+          <Reference>29099323</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Other>Unknown</Other>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultispecies"/>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2018-02-02" submission_id="SUB3612665" submitted="2017-05-12">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Molcular Biology, Faculty of Bioscience, University of Leipzig</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB3612665-gse98874"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

@@ -1,0 +1,726 @@
+ve_protein	pa_protein	ve_gene	ve_log2FC	pa_gene	pa_log2FC	response_class	ve_symbol	ve_product	pa_symbol	pa_product
+WP_003150717.1	WP_020449769.1	gene-ACSAL1_RS00070	-3.594941403303482	gene-ACZ0AN_RS00070	-1.3124370474824931	conserved_down	guaB	IMP dehydrogenase	guaB	IMP dehydrogenase
+WP_003151337.1	WP_023857157.1	gene-ACSAL1_RS16880	4.862568613443718	gene-ACZ0AN_RS19045	2.7795226158647184	conserved_up	pgsB	poly-gamma-glutamate synthase PgsB	pgsB	poly-gamma-glutamate synthase PgsB
+WP_003151443.1	WP_023856371.1	gene-ACSAL1_RS16495	-1.4459246088366593	gene-ACZ0AN_RS18595	2.1840398866518806	opposite		hypothetical protein		hypothetical protein
+WP_003151491.1	WP_026580154.1	gene-ACSAL1_RS16350	2.095650487387629	gene-ACZ0AN_RS18465	-2.057759783916704	opposite		8-oxo-dGTP diphosphatase		8-oxo-dGTP diphosphatase
+WP_003151611.1	WP_020453005.1	gene-ACSAL1_RS15950	-2.03928138049859	gene-ACZ0AN_RS18155	2.2170622265576028	opposite	gap	type I glyceraldehyde-3-phosphate dehydrogenase	gap	type I glyceraldehyde-3-phosphate dehydrogenase
+WP_003151660.1	WP_020452993.1	gene-ACSAL1_RS15845	1.6800792678979262	gene-ACZ0AN_RS18085	2.3590116971797395	conserved_up		GbsR/MarR family transcriptional regulator		GbsR/MarR family transcriptional regulator
+WP_003151688.1	WP_009329604.1	gene-ACSAL1_RS15760	1.708702697546316	gene-ACZ0AN_RS18025	1.8390452120380625	conserved_up	smpB	SsrA-binding protein	smpB	SsrA-binding protein SmpB
+WP_003151759.1	WP_023856262.1	gene-ACSAL1_RS15565	4.899877917679287	gene-ACZ0AN_RS17700	3.2250492063192286	conserved_up		metal-dependent hydrolase		metal-dependent hydrolase
+WP_003151783.1	WP_023856250.1	gene-ACSAL1_RS15485	1.928679056624332	gene-ACZ0AN_RS17620	1.771773659828173	conserved_up		SDR family NAD(P)-dependent oxidoreductase		SDR family NAD(P)-dependent oxidoreductase
+WP_003151806.1	WP_020452898.1	gene-ACSAL1_RS15410	3.195806192080932	gene-ACZ0AN_RS17505	3.0772648860083547	conserved_up		YvzF family protein		YvzF family protein
+WP_003151843.1	WP_020452880.1	gene-ACSAL1_RS15285	2.975119196944257	gene-ACZ0AN_RS17385	-2.691901269320946	opposite		arsenate reductase family protein		arsenate reductase family protein
+WP_003151973.1	WP_020452200.1	gene-ACSAL1_RS14950	-6.050197136585435	gene-ACZ0AN_RS13440	-3.2836979957405035	conserved_down		uberolysin/carnocyclin family circular bacteriocin		uberolysin/carnocyclin family circular bacteriocin
+WP_003153347.1	WP_020452032.1	gene-ACSAL1_RS10985	-5.253889382658988	gene-ACZ0AN_RS12480	-2.180841746106453	conserved_down	spoIIAB	anti-sigma F factor	spoIIAB	anti-sigma F factor
+WP_003155941.1	WP_020450334.1	gene-ACSAL1_RS03185	-1.8605789506396115	gene-ACZ0AN_RS03250	-3.756101983008577	conserved_down	groL	chaperonin GroEL	groL	chaperonin GroEL
+WP_003156375.1	WP_020450121.1	gene-ACSAL1_RS01825	2.398318167990748	gene-ACZ0AN_RS02140	-3.155361437405906	opposite		amino acid ABC transporter permease		amino acid ABC transporter permease
+WP_007409730.1	WP_023857237.1	gene-ACSAL1_RS07905	-4.053992359104057	gene-ACZ0AN_RS08610	2.311764166423125	opposite		carbamoyl phosphate synthase small subunit		carbamoyl phosphate synthase small subunit
+WP_007410406.1	WP_020449870.1	gene-ACSAL1_RS00830	1.6407189940773474	gene-ACZ0AN_RS00840	-1.2063548192422011	opposite	secY	preprotein translocase subunit SecY	secY	preprotein translocase subunit SecY
+WP_007610283.1	WP_373367315.1	gene-ACSAL1_RS04770	-2.913600064555231	gene-ACZ0AN_RS05140	-1.0711044514124992	conserved_down		CBS domain-containing protein		CBS domain-containing protein
+WP_014416712.1	WP_229079034.1	gene-ACSAL1_RS00120	1.2172034992989538	gene-ACZ0AN_RS00135	5.2175676615197455	conserved_up		cysteine hydrolase family protein		cysteine hydrolase family protein
+WP_014416732.1	WP_035337495.1	gene-ACSAL1_RS00405	1.4943052172992564	gene-ACZ0AN_RS00420	-1.699444508216135	opposite		protein kinase domain-containing protein		protein kinase domain-containing protein
+WP_014419051.1	WP_212110215.1	gene-ACSAL1_RS16980	-1.108740975137642	gene-ACZ0AN_RS10015	1.3378976246494805	opposite		flavin reductase family protein		flavin reductase family protein
+WP_032871696.1	WP_043054431.1	gene-ACSAL1_RS13565	1.0142526365747098	gene-ACZ0AN_RS15645	3.185809883603357	conserved_up	hisJ	histidinol-phosphatase HisJ	hisJ	histidinol-phosphatase HisJ
+WP_032872770.1	WP_023855731.1	gene-ACSAL1_RS01615	2.854391752714983	gene-ACZ0AN_RS10810	1.1228098491428506	conserved_up		MarR family transcriptional regulator		MarR family winged helix-turn-helix transcriptional regulator
+WP_065180448.1	WP_020450914.1	gene-ACSAL1_RS14925	-1.9419817747147752	gene-ACZ0AN_RS06280	1.2993709772841433	opposite	guaC	GMP reductase	guaC	GMP reductase
+WP_087920760.1	WP_023857495.1	gene-ACSAL1_RS06330	-5.864729763497474	gene-ACZ0AN_RS12410	-2.03275570388518	conserved_down		Rap family tetratricopeptide repeat protein		Rap family tetratricopeptide repeat protein
+WP_007408448.1	WP_463315651.1	gene-ACSAL1_RS04765	1.7268055668652609	gene-ACZ0AN_RS05135	2.352357415295325	conserved_up		DUF5365 family protein		DUF5365 family protein
+WP_007610880.1	WP_262352115.1	gene-ACSAL1_RS06695	5.174352956865405	gene-ACZ0AN_RS07355	1.7804568924426	conserved_up		organic hydroperoxide resistance protein		organic hydroperoxide resistance protein
+WP_007610941.1	WP_020451134.1	gene-ACSAL1_RS06880	-3.587327010368884	gene-ACZ0AN_RS07520	-1.0408795409147296	conserved_down		methylated-DNA--[protein]-cysteine S-methyltransferase		methylated-DNA--[protein]-cysteine S-methyltransferase
+WP_014418069.1	WP_105980986.1	gene-ACSAL1_RS09475	-4.471973670319692	gene-ACZ0AN_RS10320	2.4994008690485368	opposite		DUF1360 domain-containing protein		DUF1360 domain-containing protein
+WP_014418078.1	WP_026579843.1	gene-ACSAL1_RS09540	-7.517316532351051	gene-ACZ0AN_RS07115	3.213327105129636	opposite	ggt	gamma-glutamyltransferase	ggt	gamma-glutamyltransferase
+WP_017417453.1	WP_080131317.1	gene-ACSAL1_RS05805	-4.680521267366401	gene-ACZ0AN_RS06465	-1.70289199449179	conserved_down	oppF	oligopeptide ABC transporter ATP-binding protein OppF		ABC transporter ATP-binding protein
+WP_017418839.1	WP_039073040.1	gene-ACSAL1_RS16400	1.9358389985465128	gene-ACZ0AN_RS18500	3.0201054490804755	conserved_up	hisH	imidazole glycerol phosphate synthase subunit HisH	hisH	imidazole glycerol phosphate synthase subunit HisH
+WP_022552606.1	WP_463315629.1	gene-ACSAL1_RS02205	-2.163704397542098	gene-ACZ0AN_RS02675	-2.2856749883189225	conserved_down		GNAT family N-acetyltransferase		GNAT family N-acetyltransferase
+WP_109567373.1	WP_020451965.1	gene-ACSAL1_RS10680	-1.9607682639023825	gene-ACZ0AN_RS12120	1.2269881345414242	opposite		hypothetical protein		hypothetical protein
+WP_209387614.1	WP_249726809.1	gene-ACSAL1_RS16130	-5.042826531323989	gene-ACZ0AN_RS18285	-6.47835672015482	conserved_down		glycosyltransferase family 4 protein		glycosyltransferase family 4 protein
+WP_209387665.1	WP_075212731.1	gene-ACSAL1_RS16990	-3.690252701672995	gene-ACZ0AN_RS19110	-1.0148104745358797	conserved_down	ggt	gamma-glutamyltransferase	ggt	gamma-glutamyltransferase
+WP_209388014.1	WP_144497568.1	gene-ACSAL1_RS04155	-11.559233767667193	gene-ACZ0AN_RS04480	3.3755990124202504	opposite	lpdA	dihydrolipoyl dehydrogenase	lpdA	dihydrolipoyl dehydrogenase
+WP_209388097.1	WP_020450931.1	gene-ACSAL1_RS05785	-4.369237861431171	gene-ACZ0AN_RS06445	-2.610654489631579	conserved_down		peptide ABC transporter substrate-binding protein		peptide ABC transporter substrate-binding protein
+WP_003154064.1	WP_020451500.1	gene-ACSAL1_RS08825	-2.8167681017396933	gene-ACZ0AN_RS09570	-1.413477236468035	conserved_down	hfq	RNA chaperone Hfq	hfq	RNA chaperone Hfq
+WP_007613450.1	WP_020452803.1	gene-ACSAL1_RS14780	-1.8518160257324656	gene-ACZ0AN_RS16940	3.537804541539622	opposite		HD domain-containing protein		HD domain-containing protein
+WP_017419515.1	WP_033155020.1	gene-ACSAL1_RS14365	-2.2543819786072805	gene-ACZ0AN_RS16445	1.392523338543379	opposite		DinB family protein		DinB family protein
+WP_209387623.1	WP_023856360.1	gene-ACSAL1_RS16410	2.7205759091802344	gene-ACZ0AN_RS18510	3.249324027327487	conserved_up	hisD	histidinol dehydrogenase	hisD	histidinol dehydrogenase
+WP_209388040.1	WP_051303785.1	gene-ACSAL1_RS04685	1.0414677784500952	gene-ACZ0AN_RS05040	-1.0575515202674095	opposite		hypothetical protein		hypothetical protein
+WP_209388089.1	WP_050820921.1	gene-ACSAL1_RS05670	-4.715303622546209	gene-ACZ0AN_RS06315	1.0881756127610345	opposite	argJ	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase	argJ	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+WP_209388124.1	WP_003182594.1	gene-ACSAL1_RS06220	2.5594604962055274	gene-ACZ0AN_RS11030	-1.52780665734131	opposite		YjfB family protein		YjfB family protein
+WP_209388340.1	WP_463315652.1	gene-ACSAL1_RS09565	-2.7945049267147444	gene-ACZ0AN_RS05175	1.1004179769627962	opposite		zinc-binding dehydrogenase		quinone oxidoreductase family protein
+WP_003155540.1	WP_101561777.1	gene-ACSAL1_RS04140	-14.426380794359346	gene-ACZ0AN_RS04465	3.3268056927873104	opposite	acoA	acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit alpha		thiamine pyrophosphate-dependent dehydrogenase E1 component subunit alpha
+WP_003156206.1	WP_023857876.1	gene-ACSAL1_RS02425	7.9326499189938176	gene-ACZ0AN_RS02760	-1.6792513251474843	opposite	fbpB	Fur-regulated basic protein FbpB	fbpB	Fur-regulated basic protein FbpB
+WP_003156765.1	WP_023857683.1	gene-ACSAL1_RS01125	-1.7931319859896746	gene-ACZ0AN_RS01080	-1.9022331091137663	conserved_down	rsiW	anti-sigma-W factor RsiW	rsiW	anti-sigma-W factor RsiW
+WP_007409608.1	WP_165583461.1	gene-ACSAL1_RS07130	1.8450025743937128	gene-ACZ0AN_RS07825	2.533535383968431	conserved_up		hypothetical protein		hypothetical protein
+WP_007410318.1	WP_020451611.1	gene-ACSAL1_RS09210	-1.0729569290233014	gene-ACZ0AN_RS10170	3.0305621939608693	opposite		HesB/YadR/YfhF family protein		HesB/YadR/YfhF family protein
+WP_014418163.1	WP_020451887.1	gene-ACSAL1_RS10195	-1.9451495875440592	gene-ACZ0AN_RS11645	-1.1626147456375169	conserved_down		glutathione peroxidase		glutathione peroxidase
+WP_014418226.1	WP_020451906.1	gene-ACSAL1_RS10335	2.374750587949929	gene-ACZ0AN_RS11770	-1.960687448398598	opposite		hypothetical protein		hypothetical protein
+WP_014418701.1	WP_020452681.1	gene-ACSAL1_RS14130	-3.951984887906128	gene-ACZ0AN_RS16155	-2.711653419295993	conserved_down		FixH family protein		FixH family protein
+WP_014418721.1	WP_023856013.1	gene-ACSAL1_RS14385	3.268410763367283	gene-ACZ0AN_RS16465	-2.241624484169217	opposite	gbsR	transcriptional regulator GbsR	cudC	choline uptake/conversion transcriptional regulator CudC
+WP_209387807.1	WP_026579010.1	gene-ACSAL1_RS00095	-2.016292304833926	gene-ACZ0AN_RS00095	2.2050165501959564	opposite		glycerate kinase		glycerate kinase
+WP_209387815.1	WP_095293084.1	gene-ACSAL1_RS00350	2.688175189689999	gene-ACZ0AN_RS00365	-1.0842081557662198	opposite		putative polysaccharide biosynthesis protein		putative polysaccharide biosynthesis protein
+WP_209387847.1	WP_216919657.1	gene-ACSAL1_RS01435	-3.23001386047492	gene-ACZ0AN_RS16425	1.108794667870473	opposite	pcp	pyroglutamyl-peptidase I	pcp	pyroglutamyl-peptidase I
+WP_209387851.1	WP_463315617.1	gene-ACSAL1_RS01475	1.6324063816200225	gene-ACZ0AN_RS01680	-2.381338331948041	opposite		DUF5105 domain-containing protein		DUF4352 domain-containing protein
+WP_209388020.1	WP_463315646.1	gene-ACSAL1_RS04240	-2.1662685257865744	gene-ACZ0AN_RS04565	-1.1357289425919133	conserved_down	bstA	bacillithiol transferase BstA		YfiT family bacillithiol transferase
+WP_209388025.1	WP_023855996.1	gene-ACSAL1_RS04345	1.5938601705731903	gene-ACZ0AN_RS04645	3.39372446317414	conserved_up		metal-dependent hydrolase		metal-dependent hydrolase
+WP_209388066.1	WP_023856564.1	gene-ACSAL1_RS05215	-1.182433288881998	gene-ACZ0AN_RS05685	-1.2122364320173835	conserved_down	hemE	uroporphyrinogen decarboxylase	hemE	uroporphyrinogen decarboxylase
+WP_209388068.1	WP_003180341.1	gene-ACSAL1_RS05300	-1.1396719652030278	gene-ACZ0AN_RS05785	-3.547532508357943	conserved_down		ABC transporter substrate-binding protein		ABC transporter substrate-binding protein
+WP_003152359.1	WP_023855521.1	gene-ACSAL1_RS13815	2.210453037090703	gene-ACZ0AN_RS15805	2.591072122297144	conserved_up	trmB	tRNA (guanosine(46)-N7)-methyltransferase TrmB	trmB	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+WP_003153229.1	WP_463315567.1	gene-ACSAL1_RS11345	-1.6740983551861546	gene-ACZ0AN_RS12935	-4.8994849241551215	conserved_down	artM	arginine ABC transporter ATP-binding protein ArtM		amino acid ABC transporter ATP-binding protein
+WP_003153246.1	WP_003183271.1	gene-ACSAL1_RS11280	-2.024361599075449	gene-ACZ0AN_RS12830	1.683032903131903	opposite	rpmG	50S ribosomal protein L33	rpmG	50S ribosomal protein L33
+WP_003153348.1	WP_020452031.1	gene-ACSAL1_RS10980	-5.321007350179249	gene-ACZ0AN_RS12475	-2.230434213485784	conserved_down	sigF	RNA polymerase sporulation sigma factor SigF	sigF	RNA polymerase sporulation sigma factor SigF
+WP_014418573.1	WP_023855442.1	gene-ACSAL1_RS12990	1.752706220236102	gene-ACZ0AN_RS15070	-1.57885749075382	opposite		GerMN domain-containing protein		GerMN domain-containing protein
+WP_021493826.1	WP_103749038.1	gene-ACSAL1_RS06495	2.7745743682146844	gene-ACZ0AN_RS07020	1.141918603552586	conserved_up		baseplate J/gp47 family protein		baseplate J/gp47 family protein
+WP_021494369.1	WP_025811067.1	gene-ACSAL1_RS12425	4.16036785591864	gene-ACZ0AN_RS14475	-2.669849375920057	opposite		bifunctional cystathionine gamma-lyase/homocysteine desulfhydrase		bifunctional cystathionine gamma-lyase/homocysteine desulfhydrase
+WP_021494398.1	WP_023855436.1	gene-ACSAL1_RS12935	-2.5752707188524626	gene-ACZ0AN_RS15005	1.6835178236565316	opposite		2-isopropylmalate synthase		2-isopropylmalate synthase
+WP_021494838.1	WP_023857146.1	gene-ACSAL1_RS17000	-1.9059004191608315	gene-ACZ0AN_RS19120	1.6134055385530237	opposite	chrB	chromate efflux transporter subunit ChrB		chromate transporter
+WP_063636991.1	WP_025810135.1	gene-ACSAL1_RS01975	3.14283442820121	gene-ACZ0AN_RS02380	-2.9054420844214093	opposite		iron ABC transporter ATP-binding protein		iron ABC transporter ATP-binding protein
+WP_065180546.1	WP_020451905.1	gene-ACSAL1_RS10330	1.2718280674797813	gene-ACZ0AN_RS11765	1.3911819646099344	conserved_up		ATP-dependent DNA helicase		ATP-dependent DNA helicase
+WP_209387856.1	WP_065644601.1	gene-ACSAL1_RS01565	-4.883845397278584	gene-ACZ0AN_RS04420	-1.5259832038594563	conserved_down		MFS transporter		MFS transporter
+WP_209387897.1	WP_020451129.1	gene-ACSAL1_RS02175	-1.9096990013062256	gene-ACZ0AN_RS07495	-2.034741719174001	conserved_down		penicillin-binding transpeptidase domain-containing protein		penicillin-binding transpeptidase domain-containing protein
+WP_209387942.1	WP_212930469.1	gene-ACSAL1_RS03010	-5.319763060058924	gene-ACZ0AN_RS06770	-1.652784228966899	conserved_down		serine hydrolase		serine hydrolase
+WP_007407725.1	WP_020453376.1	gene-ACSAL1_RS18105	1.055493459706895	gene-ACZ0AN_RS20155	2.047636993162536	conserved_up		CidA/LrgA family holin-like protein		CidA/LrgA family holin-like protein
+WP_007408461.1	WP_020451149.1	gene-ACSAL1_RS06945	4.554990244619121	gene-ACZ0AN_RS07600	1.2757454494222562	conserved_up	motA	flagellar motor stator protein MotA	motA	flagellar motor stator protein MotA
+WP_007408540.1	WP_026580626.1	gene-ACSAL1_RS04220	-2.407736345212819	gene-ACZ0AN_RS04555	-1.2387489045274809	conserved_down		NAD(P)H-dependent oxidoreductase		NAD(P)H-dependent oxidoreductase
+WP_007408834.1	WP_020452679.1	gene-ACSAL1_RS14115	1.1379603923857866	gene-ACZ0AN_RS16140	1.5694256768369166	conserved_up		phage holin family protein		phage holin family protein
+WP_007408838.1	WP_020452683.1	gene-ACSAL1_RS14140	1.5588046817683694	gene-ACZ0AN_RS16165	1.7022208971195518	conserved_up	yidD	membrane protein insertion efficiency factor YidD	yidD	membrane protein insertion efficiency factor YidD
+WP_007409202.1	WP_039072636.1	gene-ACSAL1_RS05280	-7.186396071002923	gene-ACZ0AN_RS05745	1.5113821695313574	opposite		fatty acid--CoA ligase family protein		fatty acid--CoA ligase family protein
+WP_007409232.1	WP_020450783.1	gene-ACSAL1_RS05080	-4.432094049797036	gene-ACZ0AN_RS05535	-1.7395135731914453	conserved_down		enoyl-CoA hydratase		enoyl-CoA hydratase
+WP_007409265.1	WP_020450740.1	gene-ACSAL1_RS04910	1.0249219112974963	gene-ACZ0AN_RS05330	-1.5719943229369508	opposite		lysophospholipid acyltransferase family protein		lysophospholipid acyltransferase family protein
+WP_014416856.1	WP_079289465.1	gene-ACSAL1_RS01640	-1.6857081681624009	gene-ACZ0AN_RS01920	2.0336343684461164	opposite	nadE	ammonia-dependent NAD(+) synthetase	nadE	ammonia-dependent NAD(+) synthetase
+WP_014416875.1	WP_003183787.1	gene-ACSAL1_RS01775	4.896699567113498	gene-ACZ0AN_RS14190	1.2595998092658656	conserved_up	hxlA	3-hexulose-6-phosphate synthase	hxlA	3-hexulose-6-phosphate synthase
+WP_014417303.1	WP_023856526.1	gene-ACSAL1_RS04945	1.1163275496409255	gene-ACZ0AN_RS05385	1.3020837681910555	conserved_up		fluoride efflux transporter FluC		fluoride efflux transporter FluC
+WP_014417624.1	WP_020451220.1	gene-ACSAL1_RS07280	-2.992597824096704	gene-ACZ0AN_RS08005	-1.8572633755859416	conserved_down	yknW	YknW family membrane protein	yknW	YknW family membrane protein
+WP_014419084.1	WP_020453225.1	gene-ACSAL1_RS17200	-2.552460447470357	gene-ACZ0AN_RS19340	-1.0552941587939886	conserved_down	spoIIQ	stage II sporulation protein SpoIIQ		M23 family metallopeptidase
+WP_014419100.1	WP_020453263.1	gene-ACSAL1_RS17365	-1.354006829706629	gene-ACZ0AN_RS19550	-1.7907575845297306	conserved_down	upp	uracil phosphoribosyltransferase	upp	uracil phosphoribosyltransferase
+WP_015239079.1	WP_080131481.1	gene-ACSAL1_RS01345	1.449471144073017	gene-ACZ0AN_RS16805	-1.1845924896227915	opposite		phosphatidylserine decarboxylase		phosphatidylserine decarboxylase
+WP_015239834.1	WP_080131361.1	gene-ACSAL1_RS07965	1.070173059097868	gene-ACZ0AN_RS08675	-2.783154204561614	opposite		precorrin-2 dehydrogenase/sirohydrochlorin ferrochelatase family protein		precorrin-2 dehydrogenase/sirohydrochlorin ferrochelatase family protein
+WP_029973465.1	WP_035338769.1	gene-ACSAL1_RS08295	4.211365065011884	gene-ACZ0AN_RS08995	3.1360969960722347	conserved_up	flgD	flagellar hook assembly protein FlgD	flgD	flagellar hook assembly protein FlgD
+WP_032873891.1	WP_079289159.1	gene-ACSAL1_RS12430	3.715114580233618	gene-ACZ0AN_RS14480	-1.5830758633695157	opposite		O-acetylserine dependent cystathionine beta-synthase		PLP-dependent cysteine synthase family protein
+WP_209387531.1	WP_020452705.1	gene-ACSAL1_RS14350	1.9396924738412624	gene-ACZ0AN_RS16395	-1.599948335239788	opposite	thiT	energy-coupled thiamine transporter ThiT	thiT	energy-coupled thiamine transporter ThiT
+WP_209387584.1	WP_020452969.1	gene-ACSAL1_RS15685	-3.073315664568395	gene-ACZ0AN_RS17930	1.1343017837849023	opposite		oxidoreductase		oxidoreductase
+WP_209387590.1	WP_020450026.1	gene-ACSAL1_RS15810	4.075270744142511	gene-ACZ0AN_RS01645	-2.679636350223789	opposite		lantibiotic immunity ABC transporter MutG family permease subunit		lantibiotic immunity ABC transporter MutG family permease subunit
+WP_209387869.1	WP_463315619.1	gene-ACSAL1_RS01790	-1.3874090105756127	gene-ACZ0AN_RS02070	-1.7290186017611453	conserved_down	srfAB	surfactin non-ribosomal peptide synthetase SrfAB	licB	lichenysin non-ribosomal peptide synthetase LicB
+WP_003153380.1	WP_023857487.1	gene-ACSAL1_RS10865	2.402908299771456	gene-ACZ0AN_RS12345	1.2553401257702768	conserved_up		DUF3907 family protein		YpuI family protein
+WP_003153791.1	WP_025811299.1	gene-ACSAL1_RS09740	2.4027548600786863	gene-ACZ0AN_RS11220	-2.996669150830744	opposite		FMN-dependent NADH-azoreductase		FMN-dependent NADH-azoreductase
+WP_003153848.1	WP_023857512.1	gene-ACSAL1_RS09535	-1.6012744725846353	gene-ACZ0AN_RS10590	2.056815292975994	opposite		excisionase family DNA-binding protein		excisionase family DNA-binding protein
+WP_007408704.1	WP_197407115.1	gene-ACSAL1_RS14885	-1.9611705880142165	gene-ACZ0AN_RS17020	-1.448942886856874	conserved_down		leucyl aminopeptidase		leucyl aminopeptidase
+WP_012117522.1	WP_020451335.1	gene-ACSAL1_RS07940	1.46329600320265	gene-ACZ0AN_RS08650	-5.1459412443498325	opposite	cysP	sulfate permease		inorganic phosphate transporter
+WP_014305189.1	WP_059230589.1	gene-ACSAL1_RS09710	6.246388519655356	gene-ACZ0AN_RS10995	3.5988982712916973	conserved_up		N-acetyltransferase		GNAT family protein
+WP_209387760.1	WP_023856876.1	gene-ACSAL1_RS18725	-3.227630184226192	gene-ACZ0AN_RS21040	-1.037364928130837	conserved_down	fba	class II fructose-1%2C6-bisphosphate aldolase	fba	class II fructose-1%2C6-bisphosphate aldolase
+WP_209388293.1	WP_095292208.1	gene-ACSAL1_RS09315	-1.26776836309052	gene-ACZ0AN_RS17975	-3.3996738742288177	conserved_down		alpha/beta hydrolase		alpha/beta fold hydrolase
+WP_003156263.1	WP_043926750.1	gene-ACSAL1_RS02225	-1.3687242802288264	gene-ACZ0AN_RS02635	-1.0122595676090618	conserved_down	lrpC	transcriptional regulator LrpC		Lrp/AsnC family transcriptional regulator
+WP_003156508.1	WP_003178377.1	gene-ACSAL1_RS00850	3.2420921622102323	gene-ACZ0AN_RS00860	-1.4792014068465975	opposite	infA	translation initiation factor IF-1	infA	translation initiation factor IF-1
+WP_003218330.1	WP_003178187.1	gene-ACSAL1_RS00285	1.6097278060988185	gene-ACZ0AN_RS00300	1.1837617911546012	conserved_up	veg	biofilm formation stimulator Veg	veg	biofilm formation stimulator Veg
+WP_004393130.1	WP_463315621.1	gene-ACSAL1_RS19005	-2.044025085325879	gene-ACZ0AN_RS02155	-1.278056620589572	conserved_down		ornithine--oxo-acid transaminase		ornithine--oxo-acid transaminase
+WP_007613932.1	WP_025810730.1	gene-ACSAL1_RS16145	-3.1654835611560204	gene-ACZ0AN_RS18300	-6.504156675798009	conserved_down		YveK family protein		YveK family protein
+WP_007614174.1	WP_023857158.1	gene-ACSAL1_RS16870	3.820635373010996	gene-ACZ0AN_RS19035	2.615495576218596	conserved_up		CapA family protein		CapA family protein
+WP_011996172.1	WP_003178189.1	gene-ACSAL1_RS00290	-1.093957039424568	gene-ACZ0AN_RS00305	2.127714824064673	opposite		small%2C acid-soluble spore protein%2C alpha/beta type		small%2C acid-soluble spore protein%2C alpha/beta type
+WP_017419100.1	WP_197407056.1	gene-ACSAL1_RS03920	-2.443915917986018	gene-ACZ0AN_RS21560	-1.3122160456460548	conserved_down	nagE	N-acetylglucosamine-specific PTS transporter subunit IIBC	nagE	N-acetylglucosamine-specific PTS transporter subunit IIBC
+WP_095060687.1	WP_463315716.1	gene-ACSAL1_RS09840	-2.098432220825613	gene-ACZ0AN_RS11320	2.124236480134237	opposite		superoxide dismutase family protein		superoxide dismutase family protein
+WP_101287828.1	WP_025811224.1	gene-ACSAL1_RS10600	-1.832417523791708	gene-ACZ0AN_RS12040	1.234408777290284	opposite		phosphoribosylanthranilate isomerase		phosphoribosylanthranilate isomerase
+WP_209387766.1	WP_079289246.1	gene-ACSAL1_RS18790	-3.256030382478224	gene-ACZ0AN_RS21110	-1.4209804359467644	conserved_down	htpG	molecular chaperone HtpG	htpG	molecular chaperone HtpG
+WP_209388323.1	WP_023856293.1	gene-ACSAL1_RS04295	1.4951395833675063	gene-ACZ0AN_RS17895	4.944402784968511	conserved_up		MFS transporter		MFS transporter
+WP_003150818.1	WP_020453462.1	gene-ACSAL1_RS18360	-1.899980466724842	gene-ACZ0AN_RS20610	3.092006824696252	opposite		YitT family protein		YitT family protein
+WP_007612347.1	WP_023855928.1	gene-ACSAL1_RS11010	1.1436001097257371	gene-ACZ0AN_RS12505	2.3989979848059573	conserved_up	xerD	site-specific tyrosine recombinase XerD	xerD	site-specific tyrosine recombinase XerD
+WP_012117061.1	WP_023856657.1	gene-ACSAL1_RS03870	-1.4975874896517312	gene-ACZ0AN_RS06500	1.751423180960942	opposite		tripartite tricarboxylate transporter substrate binding protein		tripartite tricarboxylate transporter substrate binding protein
+WP_014417719.1	WP_145685923.1	gene-ACSAL1_RS07775	1.0100593211871682	gene-ACZ0AN_RS08460	-1.7440772675643292	opposite	murG	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	murG	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+WP_014417735.1	WP_154059137.1	gene-ACSAL1_RS07960	1.0682982596174395	gene-ACZ0AN_RS08670	-2.554782534531133	opposite		sirohydrochlorin chelatase		sirohydrochlorin chelatase
+WP_094296495.1	WP_035337765.1	gene-ACSAL1_RS04245	-1.96119704155616	gene-ACZ0AN_RS18565	-2.110650665514868	conserved_down		MFS transporter		MFS transporter
+WP_160183220.1	WP_023857026.1	gene-ACSAL1_RS17925	2.8839565205323328	gene-ACZ0AN_RS19925	-1.7715700718954217	opposite		YwdI family protein		YwdI family protein
+WP_209387827.1	WP_020450112.1	gene-ACSAL1_RS01035	1.839758709499272	gene-ACZ0AN_RS02100	-3.146216833642523	opposite		alpha/beta hydrolase		alpha/beta hydrolase
+WP_209387938.1	WP_249726772.1	gene-ACSAL1_RS02980	-3.882128307582627	gene-ACZ0AN_RS19085	1.2669642413455129	opposite		class I SAM-dependent methyltransferase		class I SAM-dependent methyltransferase
+WP_003153733.1	WP_103749529.1	gene-ACSAL1_RS09900	3.0734462598200563	gene-ACZ0AN_RS14180	2.4121072601339217	conserved_up		tautomerase family protein		tautomerase family protein
+WP_003156467.1	WP_020449860.1	gene-ACSAL1_RS00740	-1.0067355596969187	gene-ACZ0AN_RS00750	-1.2166084671752428	conserved_down	rplW	50S ribosomal protein L23	rplW	50S ribosomal protein L23
+WP_004264691.1	WP_023855980.1	gene-ACSAL1_RS00280	3.630879790644214	gene-ACZ0AN_RS00295	2.1295973646964907	conserved_up	yabG	sporulation peptidase YabG	yabG	sporulation peptidase YabG
+WP_007613018.1	WP_145645883.1	gene-ACSAL1_RS13215	1.95752203293045	gene-ACZ0AN_RS15300	2.429749322137207	conserved_up		DUF1294 domain-containing protein		DUF1294 domain-containing protein
+WP_094031586.1	WP_020450573.1	gene-ACSAL1_RS04045	2.11865860217245	gene-ACZ0AN_RS04340	3.79963517696676	conserved_up		YfkD famly protein		YfkD famly protein
+WP_209387319.1	WP_463315702.1	gene-ACSAL1_RS09495	-6.796985221757411	gene-ACZ0AN_RS10645	-7.180965380102754	conserved_down		non-ribosomal peptide synthetase		amino acid adenylation domain-containing protein
+WP_209388013.1	WP_023855891.1	gene-ACSAL1_RS04145	-13.324400098800346	gene-ACZ0AN_RS04470	3.461212273905089	opposite	acoB	acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit beta		alpha-ketoacid dehydrogenase subunit beta
+WP_209388057.1	WP_463315656.1	gene-ACSAL1_RS04995	-1.5539544197770336	gene-ACZ0AN_RS05460	-2.870280723913922	conserved_down	bmrC	multidrug ABC transporter ATP-binding protein BmrC	bmrC	ABC transporter ATP-binding protein
+WP_003155070.1	WP_003180573.1	gene-ACSAL1_RS05700	-2.72449463230394	gene-ACZ0AN_RS06350	1.6545442789480669	opposite		YjzC family protein		YjzC family protein
+WP_007613029.1	WP_020452538.1	gene-ACSAL1_RS13260	-1.9249125469361088	gene-ACZ0AN_RS15355	-1.497168154273244	conserved_down	thrS	threonine--tRNA ligase	thrS	threonine--tRNA ligase
+WP_012117426.1	WP_003181243.1	gene-ACSAL1_RS07055	-2.14063676657998	gene-ACZ0AN_RS07750	1.509253740262695	opposite	glcT	glucose PTS transporter transcription antiterminator GlcT	glcT	glucose PTS transporter transcription antiterminator GlcT
+WP_012117512.1	WP_048350284.1	gene-ACSAL1_RS07865	-1.4932065641458314	gene-ACZ0AN_RS08570	-2.1280857385868144	conserved_down	ileS	isoleucine--tRNA ligase	ileS	isoleucine--tRNA ligase
+WP_015418422.1	WP_103749414.1	gene-ACSAL1_RS17435	-5.004627658044479	gene-ACZ0AN_RS19640	-2.127138649156496	conserved_down	racA	chromosome-anchoring protein RacA	racA	chromosome-anchoring protein RacA
+WP_017417889.1	WP_026579579.1	gene-ACSAL1_RS09290	-1.6808120499434709	gene-ACZ0AN_RS10900	1.6449506815226274	opposite		DUF4166 domain-containing protein		DUF4166 domain-containing protein
+WP_029973761.1	WP_039073309.1	gene-ACSAL1_RS03235	-1.0072021226718155	gene-ACZ0AN_RS03365	-3.1114435340054176	conserved_down		SPFH domain-containing protein		SPFH domain-containing protein
+WP_044802245.1	WP_039072769.1	gene-ACSAL1_RS09570	-2.128552910239919	gene-ACZ0AN_RS10740	1.3638597986156256	opposite	gltD	glutamate synthase small subunit	gltD	glutamate synthase small subunit
+WP_003156488.1	WP_003178353.1	gene-ACSAL1_RS00795	-1.1374279288119666	gene-ACZ0AN_RS00805	-1.2935160136862636	conserved_down	rpsN	30S ribosomal protein S14	rpsN	30S ribosomal protein S14
+WP_007407552.1	WP_095291488.1	gene-ACSAL1_RS17070	-1.8588800849433795	gene-ACZ0AN_RS19135	-2.8540330460219736	conserved_down	tkmA	protein-tyrosine kinase activator TkmA		YveK family protein
+WP_007408154.1	WP_020452464.1	gene-ACSAL1_RS12875	1.0920183915140562	gene-ACZ0AN_RS14945	1.1520684186899444	conserved_up		cytochrome c biogenesis protein		cytochrome c biogenesis protein
+WP_007611962.1	WP_224067368.1	gene-ACSAL1_RS09800	-3.2554576290207105	gene-ACZ0AN_RS11280	-1.8771217070356776	conserved_down		superoxide dismutase		superoxide dismutase
+WP_014416787.1	WP_020452586.1	gene-ACSAL1_RS01185	3.00931132988949	gene-ACZ0AN_RS15610	-1.3555069013213925	opposite		MarR family winged helix-turn-helix transcriptional regulator		MarR family winged helix-turn-helix transcriptional regulator
+WP_014417058.1	WP_105981098.1	gene-ACSAL1_RS03035	3.1207073615374443	gene-ACZ0AN_RS14035	1.3332180577009678	conserved_up		FadR/GntR family transcriptional regulator		FadR/GntR family transcriptional regulator
+WP_017417653.1	WP_146873438.1	gene-ACSAL1_RS06950	-1.4277974193696534	gene-ACZ0AN_RS07605	-2.178227870588532	conserved_down	clpE	ATP-dependent protease ATP-binding subunit ClpE		ATP-dependent Clp protease ATP-binding subunit
+WP_017418319.1	WP_105980089.1	gene-ACSAL1_RS13155	-2.0459954312212147	gene-ACZ0AN_RS15245	-2.10050694959517	conserved_down	arfA	arabinosylfuranosidase ArfA	arfA	arabinosylfuranosidase ArfA
+WP_017419163.1	WP_075213253.1	gene-ACSAL1_RS03060	1.0188873581035778	gene-ACZ0AN_RS09500	1.902885976330414	conserved_up		APC family permease		APC family permease
+WP_020955795.1	WP_145645558.1	gene-ACSAL1_RS07910	-4.620415470760799	gene-ACZ0AN_RS08615	1.5941446832674218	opposite	carB	carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit	carB	carbamoyl-phosphate synthase large subunit
+WP_021493417.1	WP_020451596.1	gene-ACSAL1_RS09125	1.833529614785592	gene-ACZ0AN_RS10075	-1.405945687121161	opposite	sirA	sporulation inhibitor of replication protein SirA	sirA	sporulation inhibitor of replication protein SirA
+WP_022552891.1	WP_020452405.1	gene-ACSAL1_RS12580	-1.2759140680311605	gene-ACZ0AN_RS14610	1.287618134624874	opposite		tRNA threonylcarbamoyladenosine dehydratase		tRNA threonylcarbamoyladenosine dehydratase
+WP_022553314.1	WP_023855720.1	gene-ACSAL1_RS08780	-1.4905969501394731	gene-ACZ0AN_RS10865	-1.0408375927806186	conserved_down	aprX	serine protease AprX		S8 family peptidase
+WP_025649327.1	WP_020453049.1	gene-ACSAL1_RS16305	-3.0163865821744773	gene-ACZ0AN_RS18405	1.074716264125129	opposite		SulP family inorganic anion transporter		SulP family inorganic anion transporter
+WP_025649477.1	WP_035338811.1	gene-ACSAL1_RS07890	-1.7906085037229265	gene-ACZ0AN_RS08595	2.5563710273285105	opposite	pyrP	uracil permease PyrP	pyrP	uracil permease PyrP
+WP_209387334.1	WP_023855721.1	gene-ACSAL1_RS09665	-1.625821319038704	gene-ACZ0AN_RS10860	2.046212711220096	opposite	csaA	chaperone CsaA	csaA	chaperone CsaA
+WP_209387365.1	WP_020452730.1	gene-ACSAL1_RS19490	-4.956804417139788	gene-ACZ0AN_RS16510	1.3086611866477478	opposite		HNH endonuclease		HNH endonuclease signature motif containing protein
+WP_209387446.1	WP_145645246.1	gene-ACSAL1_RS12160	2.890957105996548	gene-ACZ0AN_RS13845	1.1609876763693523	conserved_up		DNA internalization-related competence protein ComEC/Rec2		DNA internalization-related competence protein ComEC/Rec2
+WP_209387986.1	WP_095292924.1	gene-ACSAL1_RS03745	4.098116878297063	gene-ACZ0AN_RS03970	-3.5873833151550363	opposite	yfmT	benzaldehyde dehydrogenase	yfmT	benzaldehyde dehydrogenase
+WP_209388060.1	WP_020450901.1	gene-ACSAL1_RS05060	1.8690377668563247	gene-ACZ0AN_RS06210	-5.611823325934181	opposite		lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein		lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein
+WP_003151223.1	WP_023857117.1	gene-ACSAL1_RS17175	-1.7176819120232634	gene-ACZ0AN_RS19320	6.5591302305110375	opposite		ammonium transporter		ammonium transporter
+WP_003151340.1	WP_003185831.1	gene-ACSAL1_RS16875	4.035579409374109	gene-ACZ0AN_RS19040	2.6565147089535497	conserved_up	pgsC	poly-gamma-glutamate biosynthesis protein PgsC	pgsC	poly-gamma-glutamate biosynthesis protein PgsC
+WP_003151456.1	WP_249726789.1	gene-ACSAL1_RS16445	1.0939883486448103	gene-ACZ0AN_RS18555	-1.348302108016593	opposite	hprK	HPr(Ser) kinase/phosphatase	hprK	HPr(Ser) kinase/phosphatase
+WP_003151607.1	WP_020453006.1	gene-ACSAL1_RS15955	2.6781740488127013	gene-ACZ0AN_RS18160	1.7078587155075085	conserved_up	cggR	gapA transcriptional regulator CggR		sugar-binding transcriptional regulator
+WP_007408966.1	WP_020450525.1	gene-ACSAL1_RS03815	3.199668833549508	gene-ACZ0AN_RS04095	7.526635975934568	conserved_up		anion permease		anion permease
+WP_007410408.1	WP_023855909.1	gene-ACSAL1_RS00840	2.8964756770013387	gene-ACZ0AN_RS00850	-1.0828272311109175	opposite	map	type I methionyl aminopeptidase	map	type I methionyl aminopeptidase
+WP_014417276.1	WP_020450687.1	gene-ACSAL1_RS04725	5.305157079100318	gene-ACZ0AN_RS05085	-2.761024197688778	opposite		L-cystine transporter		L-cystine transporter
+WP_015388236.1	WP_020451395.1	gene-ACSAL1_RS08285	4.313426083885517	gene-ACZ0AN_RS08985	3.0315102328406582	conserved_up		MotE family protein		MotE family protein
+WP_021493878.1	WP_103750387.1	gene-ACSAL1_RS03955	2.02942522569696	gene-ACZ0AN_RS04195	1.6409532471633237	conserved_up	treP	PTS system trehalose-specific EIIBC component	treP	PTS system trehalose-specific EIIBC component
+WP_209387661.1	WP_463315589.1	gene-ACSAL1_RS16860	5.0109203121106445	gene-ACZ0AN_RS19025	3.086041239424036	conserved_up		C40 family peptidase		NlpC/P60 family protein
+WP_209387727.1	WP_023855146.1	gene-ACSAL1_RS18270	3.811578484962616	gene-ACZ0AN_RS12875	1.818178091388596	conserved_up		PTS lactose/cellobiose transporter subunit IIA		PTS lactose/cellobiose transporter subunit IIA
+WP_209387789.1	WP_023856807.1	gene-ACSAL1_RS19190	2.291104830670822	gene-ACZ0AN_RS21575	2.7096147702740923	conserved_up		YybS family protein		YybS family protein
+WP_209387828.1	WP_025810652.1	gene-ACSAL1_RS01050	1.8673134983556103	gene-ACZ0AN_RS19410	-4.862125190830675	opposite		ABC transporter substrate-binding protein		iron-hydroxamate ABC transporter substrate-binding protein
+WP_209388077.1	WP_003180431.1	gene-ACSAL1_RS05455	-1.033576012205452	gene-ACZ0AN_RS06030	-1.195111119164801	conserved_down	sbcD	exonuclease subunit SbcD	sbcD	exonuclease subunit SbcD
+WP_209388167.1	WP_154059133.1	gene-ACSAL1_RS06875	-3.998232689390282	gene-ACZ0AN_RS07515	-1.323020547831464	conserved_down		PAS domain-containing sensor histidine kinase		PAS domain-containing sensor histidine kinase
+WP_003153729.1	WP_023857369.1	gene-ACSAL1_RS09910	1.2584556852155495	gene-ACZ0AN_RS11375	2.205645286779224	conserved_up	yodB	transcriptional regulator YodB		winged helix-turn-helix transcriptional regulator
+WP_007408534.1	WP_020450606.1	gene-ACSAL1_RS04200	-1.4556562051907516	gene-ACZ0AN_RS04525	-2.519229252651413	conserved_down	catD	DoxX family oxidoreductase CatD		DoxX family protein
+WP_015239502.1	WP_020450786.1	gene-ACSAL1_RS05085	-4.613400626729058	gene-ACZ0AN_RS05555	-1.5998343056513242	conserved_down		YhzD family protein		YhzD family protein
+WP_017418742.1	WP_103749408.1	gene-ACSAL1_RS17275	1.614248855014084	gene-ACZ0AN_RS19460	1.2083854037340924	conserved_up	fdhD	formate dehydrogenase accessory sulfurtransferase FdhD	fdhD	formate dehydrogenase accessory sulfurtransferase FdhD
+WP_209388011.1	WP_309539992.1	gene-ACSAL1_RS04110	-1.8031818045343413	gene-ACZ0AN_RS04375	1.5342963973693164	opposite		DNA-3-methyladenine glycosylase family protein		DNA-3-methyladenine glycosylase family protein
+WP_209388096.1	WP_003180598.1	gene-ACSAL1_RS05760	-8.836432483973539	gene-ACZ0AN_RS06415	-2.988355215365623	conserved_down		peptide-binding protein		peptide-binding protein
+WP_007409777.1	WP_020451389.1	gene-ACSAL1_RS08255	2.7675974423991145	gene-ACZ0AN_RS08955	4.422529013607652	conserved_up	fliE	flagellar hook-basal body complex protein FliE	fliE	flagellar hook-basal body complex protein FliE
+WP_014419203.1	WP_025810596.1	gene-ACSAL1_RS18135	3.2894651689740755	gene-ACZ0AN_RS20175	-1.0587035131339115	opposite	glxA	glyoxalase GlxA		VOC family protein
+WP_014419216.1	WP_463315594.1	gene-ACSAL1_RS18235	2.385908071480302	gene-ACZ0AN_RS20335	1.4164846264262734	conserved_up		DNA-3-methyladenine glycosylase		DNA-3-methyladenine glycosylase
+WP_014720932.1	WP_020452853.1	gene-ACSAL1_RS04980	1.1085797791705978	gene-ACZ0AN_RS17240	2.866732120959902	conserved_up		TetR/AcrR family transcriptional regulator		TetR/AcrR family transcriptional regulator
+WP_022553802.1	WP_020450024.1	gene-ACSAL1_RS15820	2.302102677869517	gene-ACZ0AN_RS01635	-3.8434368399104457	opposite		lantibiotic protection ABC transporter ATP-binding protein		lantibiotic protection ABC transporter ATP-binding protein
+WP_029973678.1	WP_212110497.1	gene-ACSAL1_RS07205	2.3906716068661136	gene-ACZ0AN_RS07915	-4.085783881195495	opposite		WD40/YVTN/BNR-like repeat-containing protein		WD40/YVTN/BNR-like repeat-containing protein
+WP_209387554.1	WP_020453235.1	gene-ACSAL1_RS14865	1.5416771575832595	gene-ACZ0AN_RS19395	-3.957512289066453	opposite		alpha/beta hydrolase		alpha/beta hydrolase
+WP_209387557.1	WP_020452836.1	gene-ACSAL1_RS15005	-4.7305974059679565	gene-ACZ0AN_RS17135	-3.270948392217856	conserved_down		S9 family peptidase		S9 family peptidase
+WP_209388212.1	WP_020451327.1	gene-ACSAL1_RS07900	-3.0047496525185804	gene-ACZ0AN_RS08605	1.35277181282947	opposite		dihydroorotase		dihydroorotase
+WP_209388216.1	WP_020451336.1	gene-ACSAL1_RS07945	2.414841743463416	gene-ACZ0AN_RS08655	-5.172151041494447	opposite	sat	sulfate adenylyltransferase	sat	sulfate adenylyltransferase
+WP_209388252.1	WP_020450473.1	gene-ACSAL1_RS08690	1.3622236604329794	gene-ACZ0AN_RS03830	2.2924128567716235	conserved_up		hypothetical protein		hypothetical protein
+WP_209388287.1	WP_023856967.1	gene-ACSAL1_RS09250	1.4891602330405798	gene-ACZ0AN_RS20235	1.5037524250611525	conserved_up		sugar kinase		sugar kinase
+WP_003156188.1	WP_006638778.1	gene-ACSAL1_RS02490	1.9893596640484152	gene-ACZ0AN_RS02820	1.5777885573158406	conserved_up	endB	type II toxin-antitoxin system antitoxin EndoAI		CopG family ribbon-helix-helix protein
+WP_025649280.1	WP_079289258.1	gene-ACSAL1_RS15620	-4.379155678467193	gene-ACZ0AN_RS11285	-4.448011081301876	conserved_down		hypothetical protein		stress response protein YvgO
+WP_025649507.1	WP_023857285.1	gene-ACSAL1_RS07250	1.048174393393034	gene-ACZ0AN_RS07960	1.1459112063521797	conserved_up		molybdenum cofactor guanylyltransferase	mobA	molybdenum cofactor guanylyltransferase
+WP_038458013.1	WP_020451392.1	gene-ACSAL1_RS08270	3.5434053862178323	gene-ACZ0AN_RS08970	3.096073047684985	conserved_up	fliH	flagellar assembly protein FliH	fliH	flagellar assembly protein FliH
+WP_209387545.1	WP_020452787.1	gene-ACSAL1_RS14690	2.3835243240054025	gene-ACZ0AN_RS16840	1.6137649185219811	conserved_up		Na+/H+ antiporter subunit E		Na+/H+ antiporter subunit E
+WP_209387607.1	WP_095292172.1	gene-ACSAL1_RS16085	-5.697798056811681	gene-ACZ0AN_RS18240	-6.213331683021752	conserved_down		acetyltransferase		acetyltransferase
+WP_209387611.1	WP_095292166.1	gene-ACSAL1_RS16110	-4.436791661627002	gene-ACZ0AN_RS18265	-6.703226085229215	conserved_down		glycosyltransferase family 2 protein		glycosyltransferase family 2 protein
+WP_209387646.1	WP_026580179.1	gene-ACSAL1_RS16710	2.9363138804074542	gene-ACZ0AN_RS18815	-1.4168591077994546	opposite	tuaG	teichuronic acid biosynthesis protein TuaG	tuaG	teichuronic acid biosynthesis protein TuaG
+WP_209388183.1	WP_020451200.1	gene-ACSAL1_RS07190	1.414353186335384	gene-ACZ0AN_RS07900	1.0182030945837857	conserved_up	cbpB	cyclic-di-AMP-binding protein CbpB	cbpB	cyclic-di-AMP-binding protein CbpB
+WP_003155289.1	WP_039072577.1	gene-ACSAL1_RS04990	-2.041175850189201	gene-ACZ0AN_RS05455	7.235454130353523	opposite		universal stress protein		universal stress protein
+WP_014417273.1	WP_025811847.1	gene-ACSAL1_RS04705	-2.250070917556412	gene-ACZ0AN_RS05060	-2.8438962412306408	conserved_down		ABC transporter permease		ABC transporter permease
+WP_014417440.1	WP_003180714.1	gene-ACSAL1_RS05995	-2.298778308602756	gene-ACZ0AN_RS06690	4.045016174893207	opposite		hypothetical protein		hypothetical protein
+WP_014417729.1	WP_023857239.1	gene-ACSAL1_RS07895	-2.0297876221448985	gene-ACZ0AN_RS08600	2.9303437588381245	opposite		aspartate carbamoyltransferase catalytic subunit		aspartate carbamoyltransferase catalytic subunit
+WP_022554035.1	WP_020453621.1	gene-ACSAL1_RS19115	-2.322990530066633	gene-ACZ0AN_RS21505	1.0101514518507837	opposite	purA	adenylosuccinate synthase		adenylosuccinate synthase
+WP_029972881.1	WP_095292867.1	gene-ACSAL1_RS17670	1.10182029199333	gene-ACZ0AN_RS01575	1.2469505260009366	conserved_up		MarR family transcriptional regulator		MarR family winged helix-turn-helix transcriptional regulator
+WP_209388037.1	WP_020450667.1	gene-ACSAL1_RS04615	2.944386651393398	gene-ACZ0AN_RS04970	2.721126319181297	conserved_up		hypothetical protein		hypothetical protein
+WP_003152856.1	WP_020452280.1	gene-ACSAL1_RS12205	-1.0169068275837905	gene-ACZ0AN_RS13890	1.399818401763045	opposite	aroE	shikimate dehydrogenase	aroE	shikimate dehydrogenase
+WP_003153100.1	WP_023855186.1	gene-ACSAL1_RS11695	-6.591601171191677	gene-ACZ0AN_RS13250	-6.706310358210987	conserved_down	sipW	signal peptidase I SipW	sipW	signal peptidase I SipW
+WP_003153114.1	WP_020452155.1	gene-ACSAL1_RS11645	1.0102056445239047	gene-ACZ0AN_RS13185	1.1151835516604192	conserved_up		lipoate--protein ligase family protein		lipoate--protein ligase family protein
+WP_003153118.1	WP_020452153.1	gene-ACSAL1_RS11635	3.617492440935315	gene-ACZ0AN_RS13175	5.094380867120173	conserved_up		patatin-like phospholipase family protein		patatin-like phospholipase family protein
+WP_003153415.1	WP_023857465.1	gene-ACSAL1_RS10745	1.242076885019327	gene-ACZ0AN_RS12190	1.648876718615896	conserved_up	prsW	glutamic-type intramembrane protease PrsW	prsW	glutamic-type intramembrane protease PrsW
+WP_007612940.1	WP_020452494.1	gene-ACSAL1_RS13030	1.7482222711787694	gene-ACZ0AN_RS15115	1.6140957334261157	conserved_up		YslB family protein		YslB family protein
+WP_012117263.1	WP_003180528.1	gene-ACSAL1_RS05580	-2.372524328022084	gene-ACZ0AN_RS06245	1.3085160415468278	opposite		YajQ family cyclic di-GMP-binding protein		YajQ family cyclic di-GMP-binding protein
+WP_014418528.1	WP_023855393.1	gene-ACSAL1_RS12630	1.2167007659470437	gene-ACZ0AN_RS14660	4.132030173461174	conserved_up		LapA family protein		LapA family protein
+WP_014418851.1	WP_020453400.1	gene-ACSAL1_RS15460	-3.839634925959488	gene-ACZ0AN_RS20305	-1.8350851572907096	conserved_down		MFS transporter		MFS transporter
+WP_022552673.1	WP_023855723.1	gene-ACSAL1_RS02920	-2.1759039314574493	gene-ACZ0AN_RS10850	1.2509135149737085	opposite	abc-f	ribosomal protection-like ABC-F family protein	abc-f	ribosomal protection-like ABC-F family protein
+WP_032873890.1	WP_023855369.1	gene-ACSAL1_RS12440	3.9870230484908817	gene-ACZ0AN_RS14490	-1.1233091372305468	opposite		class I SAM-dependent methyltransferase		class I SAM-dependent DNA methyltransferase
+WP_209387433.1	WP_023857118.1	gene-ACSAL1_RS11755	1.42731643666065	gene-ACZ0AN_RS19315	8.085635229238775	conserved_up		hemolysin family protein		hemolysin family protein
+WP_209387492.1	WP_026579091.1	gene-ACSAL1_RS13250	1.1605197243735168	gene-ACZ0AN_RS15340	1.2511651379488289	conserved_up		sensor histidine kinase		sensor histidine kinase
+WP_209387583.1	WP_025810763.1	gene-ACSAL1_RS15670	1.4245236705406368	gene-ACZ0AN_RS17850	-1.1208647588266096	opposite		heavy metal translocating P-type ATPase		heavy metal translocating P-type ATPase
+WP_209388209.1	WP_463315682.1	gene-ACSAL1_RS07800	-4.771852676324009	gene-ACZ0AN_RS08505	-2.8463027188605667	conserved_down		S8 family peptidase		S8 family serine peptidase
+WP_209388249.1	WP_095292687.1	gene-ACSAL1_RS08635	-1.3568860186456155	gene-ACZ0AN_RS00985	-3.158145350613784	conserved_down		serine hydrolase domain-containing protein		serine hydrolase domain-containing protein
+WP_209388296.1	WP_044803292.1	gene-ACSAL1_RS09340	-3.931865011062726	gene-ACZ0AN_RS17980	-5.604333991616759	conserved_down	xynC	glucuronoarabinoxylan endo-1%2C4-beta-xylanase XynC	xynC	glucuronoarabinoxylan endo-1%2C4-beta-xylanase XynC
+WP_007408053.1	WP_020452578.1	gene-ACSAL1_RS13490	2.2347374801941875	gene-ACZ0AN_RS15565	1.3338577099871225	conserved_up		acetate kinase		acetate kinase
+WP_007408709.1	WP_026580067.1	gene-ACSAL1_RS14910	-2.52966151659056	gene-ACZ0AN_RS17045	3.4529523969998883	opposite		NAD(P)/FAD-dependent oxidoreductase		NAD(P)/FAD-dependent oxidoreductase
+WP_007409044.1	WP_023855222.1	gene-ACSAL1_RS01525	3.223951336408112	gene-ACZ0AN_RS13530	2.1684184456343374	conserved_up		metal ABC transporter permease		metal ABC transporter permease
+WP_014305310.1	WP_020451956.1	gene-ACSAL1_RS10625	-1.1501094277746715	gene-ACZ0AN_RS12065	1.1737778390865292	opposite	aroB	3-dehydroquinate synthase	aroB	3-dehydroquinate synthase
+WP_014416905.1	WP_020450171.1	gene-ACSAL1_RS01970	2.671573714662776	gene-ACZ0AN_RS02375	-2.115883318913803	opposite		iron chelate uptake ABC transporter family permease subunit		iron chelate uptake ABC transporter family permease subunit
+WP_014418408.1	WP_020452248.1	gene-ACSAL1_RS12050	-1.129817142211832	gene-ACZ0AN_RS13720	-1.1485529290245378	conserved_down		hypothetical protein		hypothetical protein
+WP_014418748.1	WP_023856137.1	gene-ACSAL1_RS14590	1.0768863178368075	gene-ACZ0AN_RS16730	1.431476000400966	conserved_up		DUF1871 family protein		DUF1871 family protein
+WP_014418969.1	WP_463315607.1	gene-ACSAL1_RS16380	-1.3063270818016426	gene-ACZ0AN_RS01165	-3.550119058831153	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_014418974.1	WP_023856359.1	gene-ACSAL1_RS16405	2.329944598103555	gene-ACZ0AN_RS18505	3.191937501962899	conserved_up	hisB	imidazoleglycerol-phosphate dehydratase HisB	hisB	imidazoleglycerol-phosphate dehydratase HisB
+WP_095270778.1	WP_101561430.1	gene-ACSAL1_RS16395	1.658652010474452	gene-ACZ0AN_RS18495	2.9260116787617827	conserved_up	hisA	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase	hisA	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+WP_095273110.1	WP_249726614.1	gene-ACSAL1_RS04875	-2.5365152767585504	gene-ACZ0AN_RS05265	1.5345773037398611	opposite		citrate synthase/methylcitrate synthase		citrate synthase/methylcitrate synthase
+WP_095273206.1	WP_026580622.1	gene-ACSAL1_RS04315	-1.743540925436476	gene-ACZ0AN_RS04625	3.650424617253455	opposite		YfhJ family protein		YfhJ family protein
+WP_095273341.1	WP_033155065.1	gene-ACSAL1_RS14860	1.5778932466541775	gene-ACZ0AN_RS19390	-4.362964885030696	opposite		2%2C3-dihydro-2%2C3-dihydroxybenzoate dehydrogenase		2%2C3-dihydro-2%2C3-dihydroxybenzoate dehydrogenase
+WP_106080393.1	WP_144497729.1	gene-ACSAL1_RS05000	-2.9951889826002223	gene-ACZ0AN_RS05465	-2.8769909479587565	conserved_down	bmrD	multidrug resistance ABC transporter ATP-binding protein/permease BmrD	bmrD	multidrug resistance ABC transporter ATP-binding protein/permease BmrD
+WP_209387890.1	WP_146873720.1	gene-ACSAL1_RS02060	-4.473910967786348	gene-ACZ0AN_RS02425	2.179160803552737	opposite	gabT	4-aminobutyrate--2-oxoglutarate transaminase	gabT	4-aminobutyrate--2-oxoglutarate transaminase
+WP_209387929.1	WP_396278994.1	gene-ACSAL1_RS02830	2.1582129126574885	gene-ACZ0AN_RS02710	1.4075276134146473	conserved_up		Na+/H+ antiporter NhaC family protein		Na+/H+ antiporter NhaC family protein
+WP_209387935.1	WP_020449955.1	gene-ACSAL1_RS02955	1.802164700032009	gene-ACZ0AN_RS01280	1.1501266095174394	conserved_up		sulfite exporter TauE/SafE family protein		sulfite exporter TauE/SafE family protein
+WP_209388151.1	WP_023856766.1	gene-ACSAL1_RS06625	-7.251040954502982	gene-ACZ0AN_RS07265	-1.4431052967788969	conserved_down		peptide ABC transporter substrate-binding protein		peptide ABC transporter substrate-binding protein
+WP_209388154.1	WP_458110479.1	gene-ACSAL1_RS06645	-4.4446955036845655	gene-ACZ0AN_RS07285	-2.3859624899557863	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_209388213.1	WP_023857236.1	gene-ACSAL1_RS07915	-3.994368827247178	gene-ACZ0AN_RS08620	1.455848320168253	opposite		dihydroorotate dehydrogenase electron transfer subunit		dihydroorotate dehydrogenase electron transfer subunit
+WP_007407528.1	WP_023857148.1	gene-ACSAL1_RS16950	1.888507944479355	gene-ACZ0AN_RS19105	-1.1168655277979178	opposite	alsR	acetoin biosynthesis transcriptional regulator AlsR	alsR	acetoin biosynthesis transcriptional regulator AlsR
+WP_007407833.1	WP_023856874.1	gene-ACSAL1_RS18735	-3.003667405224812	gene-ACZ0AN_RS21050	-1.0760270025244625	conserved_down		sugar phosphate isomerase/epimerase family protein		sugar phosphate isomerase/epimerase family protein
+WP_007408146.1	WP_035338217.1	gene-ACSAL1_RS12920	-2.773655229657829	gene-ACZ0AN_RS14990	1.9403434467068632	opposite	leuD	3-isopropylmalate dehydratase small subunit	leuD	3-isopropylmalate dehydratase small subunit
+WP_007408166.1	WP_020452450.1	gene-ACSAL1_RS12800	-1.053106632422948	gene-ACZ0AN_RS14870	-1.6049072282549135	conserved_down	mreC	rod shape-determining protein MreC	mreC	rod shape-determining protein MreC
+WP_007611720.1	WP_020451591.1	gene-ACSAL1_RS09100	1.0949771771547707	gene-ACZ0AN_RS10050	1.856216948368829	conserved_up	lexA	transcriptional repressor LexA	lexA	transcriptional repressor LexA
+WP_007613980.1	WP_023856924.1	gene-ACSAL1_RS16235	1.9649828315535425	gene-ACZ0AN_RS20680	4.3957796717144335	conserved_up		MFS transporter		MFS transporter
+WP_007614078.1	WP_020453097.1	gene-ACSAL1_RS16575	-1.5745220130036943	gene-ACZ0AN_RS18665	-1.5099409821944676	conserved_down		YitT family protein		YitT family protein
+WP_014721606.1	WP_023855407.1	gene-ACSAL1_RS12705	-1.3102430705573511	gene-ACZ0AN_RS14765	-1.4156539426299364	conserved_down		YhcN/YlaJ family sporulation lipoprotein		YhcN/YlaJ family sporulation lipoprotein
+WP_209387544.1	WP_080131483.1	gene-ACSAL1_RS14670	1.126779857365058	gene-ACZ0AN_RS16820	2.1376321481368232	conserved_up		Na+/H+ antiporter subunit A		Na+/H+ antiporter subunit A
+WP_209387911.1	WP_026580583.1	gene-ACSAL1_RS02420	1.7301955847197297	gene-ACZ0AN_RS02755	-2.224249954055576	opposite		acyl-CoA dehydrogenase family protein		acyl-CoA dehydrogenase family protein
+WP_209388358.1	WP_023855508.1	gene-ACSAL1_RS13725	-3.273996999785064	gene-ACZ0AN_RS15710	1.3500581237708933	opposite		acetoin utilization protein AcuC		acetoin utilization protein AcuC
+WP_003151503.1	WP_020453050.1	gene-ACSAL1_RS16310	-2.9989415090396148	gene-ACZ0AN_RS18410	1.0186899730869814	opposite		beta-class carbonic anhydrase		beta-class carbonic anhydrase
+WP_003154312.1	WP_271725184.1	gene-ACSAL1_RS08110	1.087580621675234	gene-ACZ0AN_RS08815	-1.8493920635257728	opposite	fabG	3-oxoacyl-[acyl-carrier-protein] reductase	fabG	3-oxoacyl-[acyl-carrier-protein] reductase
+WP_003154690.1	WP_020451145.1	gene-ACSAL1_RS06925	-2.3997605810803044	gene-ACZ0AN_RS07580	3.2587748410728485	opposite	spo0E	aspartyl-phosphate phosphatase Spo0E		aspartyl-phosphate phosphatase Spo0E family protein
+WP_007408296.1	WP_026579292.1	gene-ACSAL1_RS11920	2.0568155772288206	gene-ACZ0AN_RS13540	2.691811835945876	conserved_up		YitT family protein		YitT family protein
+WP_007612510.1	WP_025811170.1	gene-ACSAL1_RS11560	1.0959818511907529	gene-ACZ0AN_RS13095	-1.650939700790506	opposite	accB	acetyl-CoA carboxylase biotin carboxyl carrier protein	accB	acetyl-CoA carboxylase biotin carboxyl carrier protein
+WP_007613496.1	WP_035337619.1	gene-ACSAL1_RS14915	2.9590070480118618	gene-ACZ0AN_RS17050	-1.4162598944509583	opposite	yumC	ferredoxin--NADP reductase 2	yumC	ferredoxin--NADP reductase 2
+WP_032863920.1	WP_224146418.1	gene-ACSAL1_RS14685	1.3007322633641176	gene-ACZ0AN_RS16835	1.9087232015654985	conserved_up		Na+/H+ antiporter subunit D		Na+/H+ antiporter subunit D
+WP_209388240.1	WP_020451410.1	gene-ACSAL1_RS08370	4.747927561056087	gene-ACZ0AN_RS09070	1.0520172326355437	conserved_up		protein-glutamate methylesterase/protein-glutamine glutaminase		protein-glutamate methylesterase/protein-glutamine glutaminase
+WP_209388310.1	WP_463315701.1	gene-ACSAL1_RS09490	-6.482509195309159	gene-ACZ0AN_RS10640	-5.94605678116537	conserved_down		non-ribosomal peptide synthetase		amino acid adenylation domain-containing protein
+WP_007410036.1	WP_020452927.1	gene-ACSAL1_RS15555	4.5809893873153245	gene-ACZ0AN_RS17690	2.407085786537572	conserved_up		amino acid permease		amino acid permease
+WP_007609791.1	WP_095293002.1	gene-ACSAL1_RS03165	-3.0007844564021773	gene-ACZ0AN_RS03230	-1.2714857724273227	conserved_down	tatC	twin-arginine translocase subunit TatC	tatC	twin-arginine translocase subunit TatC
+WP_007612991.1	WP_020452519.1	gene-ACSAL1_RS13160	-3.0268642333038507	gene-ACZ0AN_RS15250	-1.30229110200227	conserved_down	araQ	arabinooligosaccharides ABC transporter permease AraQ		carbohydrate ABC transporter permease
+WP_014304649.1	WP_020452571.1	gene-ACSAL1_RS04215	1.4252616583793405	gene-ACZ0AN_RS15530	2.04064355755406	conserved_up		PadR family transcriptional regulator		PadR family transcriptional regulator
+WP_014418515.1	WP_020452393.1	gene-ACSAL1_RS12480	1.6039663037829603	gene-ACZ0AN_RS14530	1.488872284702228	conserved_up		O-methyltransferase		O-methyltransferase
+WP_110085500.1	WP_020451902.1	gene-ACSAL1_RS10315	2.359979697845892	gene-ACZ0AN_RS11750	1.061756507421873	conserved_up	pbuX	xanthine permease PbuX		nucleobase:cation symporter-2 family protein
+WP_167408947.1	WP_463315688.1	gene-ACSAL1_RS13595	-3.621628308983184	gene-ACZ0AN_RS09690	-1.5516897432526406	conserved_down		SMI1/KNR4 family protein		SMI1/KNR4 family protein
+WP_209388201.1	WP_003181456.1	gene-ACSAL1_RS07560	1.5856003151824465	gene-ACZ0AN_RS08240	-1.493935486351327	opposite		YlaI family protein		YlaI family protein
+WP_003156640.1	WP_020452159.1	gene-ACSAL1_RS01570	2.7062858342601133	gene-ACZ0AN_RS13205	2.3500364321204543	conserved_up	opuAA	glycine/proline betaine ABC transporter ATP-binding protein OpuAA	opuAA	glycine/proline betaine ABC transporter ATP-binding protein OpuAA
+WP_007409427.1	WP_023857489.1	gene-ACSAL1_RS10875	2.066445668522116	gene-ACZ0AN_RS12355	1.7905473276227826	conserved_up		segregation/condensation protein A		segregation/condensation protein A
+WP_007409740.1	WP_095290449.1	gene-ACSAL1_RS07955	1.6250628194059014	gene-ACZ0AN_RS08665	-2.2507549507782385	opposite	cobA	uroporphyrinogen-III C-methyltransferase	cobA	uroporphyrinogen-III C-methyltransferase
+WP_007410056.1	WP_023856236.1	gene-ACSAL1_RS15455	-3.7993316724998905	gene-ACZ0AN_RS17555	-1.2411519343862296	conserved_down		protein liaI		protein liaI
+WP_007609269.1	WP_020452126.1	gene-ACSAL1_RS01645	-8.731497773152256	gene-ACZ0AN_RS13025	-6.096408181815178	conserved_down		antimicrobial peptide LCI		antimicrobial peptide LCI
+WP_154817944.1	WP_249726582.1	gene-ACSAL1_RS15635	1.4893961096657558	gene-ACZ0AN_RS06815	-2.282602433784756	opposite		assimilatory sulfite reductase (NADPH) flavoprotein subunit		assimilatory sulfite reductase (NADPH) flavoprotein subunit
+WP_209387385.1	WP_035338526.1	gene-ACSAL1_RS10490	2.147092765768256	gene-ACZ0AN_RS11930	-1.4171710271375706	opposite		biotin--[acetyl-CoA-carboxylase] ligase		bifunctional biotin--[acetyl-CoA-carboxylase] synthetase/biotin operon repressor
+WP_209387624.1	WP_023856361.1	gene-ACSAL1_RS16415	3.1997713131795784	gene-ACZ0AN_RS18515	3.7541233757185535	conserved_up	hisG	ATP phosphoribosyltransferase	hisG	ATP phosphoribosyltransferase
+WP_209387679.1	WP_026579237.1	gene-ACSAL1_RS17410	1.4849867843889553	gene-ACZ0AN_RS14050	1.5192416637782065	conserved_up		UPF0715 family protein		UPF0715 family protein
+WP_209388080.1	WP_020450884.1	gene-ACSAL1_RS05520	-1.088607655130584	gene-ACZ0AN_RS06115	2.025266382205205	opposite	asnB	asparagine synthase (glutamine-hydrolyzing)	asnB	asparagine synthase (glutamine-hydrolyzing)
+WP_209388085.1	WP_020450903.1	gene-ACSAL1_RS05570	-1.7402385939706209	gene-ACZ0AN_RS06220	2.102155761715547	opposite		GNAT family N-acetyltransferase		GNAT family N-acetyltransferase
+WP_481748173.1	WP_105981050.1	gene-ACSAL1_RS10810	-5.216732604908226	gene-ACZ0AN_RS12265	-2.176400527806829	conserved_down		sugar dehydratase		GerMN domain-containing protein
+WP_003154237.1	WP_079289134.1	gene-ACSAL1_RS08330	1.228705730217023	gene-ACZ0AN_RS09030	2.18840402564041	conserved_up	fliZ	flagella biosynthesis regulatory protein FliZ	fliZ	flagella biosynthesis regulatory protein FliZ
+WP_003154243.1	WP_101560838.1	gene-ACSAL1_RS08305	3.055942614352287	gene-ACZ0AN_RS09005	2.16190947115054	conserved_up	swrD	swarming motility protein SwrD	swrD	swarming motility protein SwrD
+WP_003154259.1	WP_025811385.1	gene-ACSAL1_RS08250	1.9628184827220576	gene-ACZ0AN_RS08950	3.8245743595860016	conserved_up	flgC	flagellar basal body rod protein FlgC	flgC	flagellar basal body rod protein FlgC
+WP_007407470.1	WP_025810706.1	gene-ACSAL1_RS16590	-2.3203582946019963	gene-ACZ0AN_RS18680	3.064638559250787	opposite	hpf	ribosome hibernation-promoting factor%2C HPF/YfiA family	hpf	ribosome hibernation-promoting factor%2C HPF/YfiA family
+WP_007407537.1	WP_206761243.1	gene-ACSAL1_RS16995	-1.4793208331478496	gene-ACZ0AN_RS19115	1.2364500784013857	opposite	chrS	chromate efflux transcriptional regulator ChrS		Lrp/AsnC family transcriptional regulator
+WP_007408329.1	WP_020452167.1	gene-ACSAL1_RS11690	-11.145716030371412	gene-ACZ0AN_RS13245	-7.891609756638836	conserved_down	tasA	biofilm matrix protein TasA	tasA	biofilm matrix protein TasA
+WP_012118695.1	WP_025810624.1	gene-ACSAL1_RS17695	-5.000973144053073	gene-ACZ0AN_RS19810	-1.0626817659050756	conserved_down		RsfA family transcriptional regulator		RsfA family transcriptional regulator
+WP_012118784.1	WP_095291331.1	gene-ACSAL1_RS18340	2.1270939898983303	gene-ACZ0AN_RS20580	3.6371951882411935	conserved_up	cimH	citrate/malate transporter CimH	cimH	citrate/malate transporter CimH
+WP_014417181.1	WP_020450540.1	gene-ACSAL1_RS03915	1.0989780113179863	gene-ACZ0AN_RS04175	1.7105647076707335	conserved_up	map	type I methionyl aminopeptidase	map	type I methionyl aminopeptidase
+WP_017419162.1	WP_059231341.1	gene-ACSAL1_RS03070	1.1450079842898782	gene-ACZ0AN_RS14845	-1.3067815561024736	opposite		SRPBCC family protein		SRPBCC family protein
+WP_021494173.1	WP_075213795.1	gene-ACSAL1_RS09590	6.6109245653865	gene-ACZ0AN_RS10685	4.030802150286297	conserved_up	proC	pyrroline-5-carboxylate reductase	proC	pyrroline-5-carboxylate reductase
+WP_061861897.1	WP_101561566.1	gene-ACSAL1_RS02840	-3.4896773671917933	gene-ACZ0AN_RS03010	-2.8988960733055515	conserved_down		FMN-binding negative transcriptional regulator		FMN-binding negative transcriptional regulator
+WP_077721760.1	WP_020452157.1	gene-ACSAL1_RS01580	1.8800441985345884	gene-ACZ0AN_RS13195	1.3902682595375233	conserved_up		glycine betaine ABC transporter substrate-binding protein		glycine betaine ABC transporter substrate-binding protein
+WP_209388263.1	WP_020452348.1	gene-ACSAL1_RS08895	-1.2524950976342657	gene-ACZ0AN_RS14285	-1.08045050474436	conserved_down	xynB	xylan 1%2C4-beta-xylosidase	xynB	xylan 1%2C4-beta-xylosidase
+WP_007409704.1	WP_020451294.1	gene-ACSAL1_RS07735	2.0770049179577548	gene-ACZ0AN_RS08420	1.000841794795999	conserved_up	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+WP_007410407.1	WP_020449871.1	gene-ACSAL1_RS00835	2.228470254404137	gene-ACZ0AN_RS00845	-1.2209646804641816	opposite		adenylate kinase		adenylate kinase
+WP_014419260.1	WP_257475246.1	gene-ACSAL1_RS18510	-6.240983486470718	gene-ACZ0AN_RS15400	5.335243977900378	opposite		polysaccharide lyase family 1 protein		pectate lyase family protein
+WP_029972872.1	WP_128822195.1	gene-ACSAL1_RS17530	2.812218569607233	gene-ACZ0AN_RS20370	-1.795460543469901	opposite		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_209387507.1	WP_020452601.1	gene-ACSAL1_RS13720	-2.9707321629145964	gene-ACZ0AN_RS15705	1.6448229125444818	opposite		acetoin utilization AcuB family protein		acetoin utilization AcuB family protein
+WP_209387565.1	WP_020450840.1	gene-ACSAL1_RS15115	-3.024986099388633	gene-ACZ0AN_RS05870	2.925827087659836	opposite	allC	allantoate deiminase	allC	allantoate deiminase
+WP_209388237.1	WP_020451396.1	gene-ACSAL1_RS08290	4.075032889030868	gene-ACZ0AN_RS08990	2.8385944950647946	conserved_up		flagellar hook-length control protein FliK		flagellar hook-length control protein FliK
+WP_003154494.1	WP_003181465.1	gene-ACSAL1_RS07585	-1.5359154723180035	gene-ACZ0AN_RS08265	2.530751783860001	opposite		Fpa/YlaN family protein		Fpa/YlaN family protein
+WP_003154836.1	WP_023856720.1	gene-ACSAL1_RS06460	2.982318937492834	gene-ACZ0AN_RS06985	-1.0506667382236583	opposite		phage tail assembly chaperone		phage tail assembly chaperone
+WP_007408822.1	WP_075212784.1	gene-ACSAL1_RS14030	2.0635689781125235	gene-ACZ0AN_RS16045	1.4062881097759754	conserved_up	mnmL	tRNA modification radical SAM protein MnmL/YtqA	mnmL	tRNA modification radical SAM protein MnmL/YtqA
+WP_007408836.1	WP_020452680.1	gene-ACSAL1_RS14125	-2.3175374697918647	gene-ACZ0AN_RS16150	1.1396511708229558	opposite	ytzI	YtzI protein	ytzI	YtzI protein
+WP_007409237.1	WP_026579965.1	gene-ACSAL1_RS05050	-1.3226174272393254	gene-ACZ0AN_RS05525	1.4886367338657742	opposite		Cof-type HAD-IIB family hydrolase		Cof-type HAD-IIB family hydrolase
+WP_017417943.1	WP_149169593.1	gene-ACSAL1_RS09585	5.651574961305816	gene-ACZ0AN_RS10680	4.669124185727576	conserved_up	proB	glutamate 5-kinase	proB	glutamate 5-kinase
+WP_017417961.1	WP_020451807.1	gene-ACSAL1_RS09745	-1.0584476815359367	gene-ACZ0AN_RS11240	8.30862106703416	opposite		TraR/DksA family transcriptional regulator		TraR/DksA family transcriptional regulator
+WP_021495015.1	WP_020451572.1	gene-ACSAL1_RS03050	3.3480228550340394	gene-ACZ0AN_RS09945	1.025800897923306	conserved_up		DMT family transporter		DMT family transporter
+WP_022552595.1	WP_026580558.1	gene-ACSAL1_RS02080	-2.613365052834894	gene-ACZ0AN_RS02450	-1.1412646109687523	conserved_down		YcnI family copper-binding membrane protein		YcnI family copper-binding membrane protein
+WP_209387613.1	WP_020453028.1	gene-ACSAL1_RS16125	-5.160458131216826	gene-ACZ0AN_RS18280	-6.420474377033791	conserved_down	epsE	glycosyltransferase EpsE		glycosyltransferase family 2 protein
+WP_209387667.1	WP_095292203.1	gene-ACSAL1_RS17035	-1.7654474575762205	gene-ACZ0AN_RS18005	-1.1489838384540092	conserved_down		T7SS effector LXG polymorphic toxin		ribonuclease YeeF family protein
+WP_209387673.1	WP_023857110.1	gene-ACSAL1_RS17220	1.805820452869502	gene-ACZ0AN_RS19355	-1.808681497853818	opposite	cls	cardiolipin synthase	cls	cardiolipin synthase
+WP_209388092.1	WP_020450924.1	gene-ACSAL1_RS05695	-10.07162757888156	gene-ACZ0AN_RS06340	-1.5796372349978192	conserved_down	argF	ornithine carbamoyltransferase	argF	ornithine carbamoyltransferase
+WP_209388132.1	WP_020452921.1	gene-ACSAL1_RS06295	2.85356140040562	gene-ACZ0AN_RS17660	-1.839998180032269	opposite	uxaC	glucuronate isomerase	uxaC	glucuronate isomerase
+WP_209388138.1	WP_249726576.1	gene-ACSAL1_RS06370	6.143813365238279	gene-ACZ0AN_RS06895	1.2365303135077437	conserved_up		phage portal protein		phage portal protein
+WP_003156639.1	WP_020452158.1	gene-ACSAL1_RS01575	2.488416056033597	gene-ACZ0AN_RS13200	2.383794255565834	conserved_up	opuAB	glycine/proline betaine ABC transporter permease subunit OpuAB		ABC transporter permease
+WP_007407248.1	WP_023856762.1	gene-ACSAL1_RS06605	-2.595291170227365	gene-ACZ0AN_RS07245	-1.1613355431782524	conserved_down		M55 family metallopeptidase		M55 family metallopeptidase
+WP_014417341.1	WP_023856566.1	gene-ACSAL1_RS05225	-1.5868136767450012	gene-ACZ0AN_RS05695	-1.1397539687681253	conserved_down	hemY	protoporphyrinogen oxidase	hemY	protoporphyrinogen oxidase
+WP_022553605.1	WP_103749065.1	gene-ACSAL1_RS05025	-1.011685951071803	gene-ACZ0AN_RS05505	-2.313746019608196	conserved_down		YheC/YheD family endospore coat-associated protein		YheC/YheD family endospore coat-associated protein
+WP_022553706.1	WP_020452785.1	gene-ACSAL1_RS14680	1.4637724241629897	gene-ACZ0AN_RS16830	2.082874836018976	conserved_up		Na(+)/H(+) antiporter subunit C		Na(+)/H(+) antiporter subunit C
+WP_104843205.1	WP_020450688.1	gene-ACSAL1_RS04730	-2.758061894974675	gene-ACZ0AN_RS05090	1.957381722390279	opposite		hypothetical protein		hypothetical protein
+WP_021494112.1	WP_145645272.1	gene-ACSAL1_RS15545	1.250527747499146	gene-ACZ0AN_RS13350	-2.4717615604789205	opposite		iron-hydroxamate ABC transporter substrate-binding protein		iron-hydroxamate ABC transporter substrate-binding protein
+WP_021495071.1	WP_249726879.1	gene-ACSAL1_RS02635	1.7491701675566806	gene-ACZ0AN_RS16925	1.8497473735124328	conserved_up		Rrf2 family transcriptional regulator		Rrf2 family transcriptional regulator
+WP_021495223.1	WP_020453012.1	gene-ACSAL1_RS16035	2.001584427761545	gene-ACZ0AN_RS18195	2.930528987588032	conserved_up		LutC/YkgG family protein		LutC/YkgG family protein
+WP_115941057.1	WP_216921597.1	gene-ACSAL1_RS15815	5.424529260102979	gene-ACZ0AN_RS01640	-3.521480606460165	opposite		lantibiotic immunity ABC transporter MutE/EpiE family permease subunit		lantibiotic immunity ABC transporter MutE/EpiE family permease subunit
+WP_159353720.1	WP_039072751.1	gene-ACSAL1_RS01150	-1.216529476565915	gene-ACZ0AN_RS10455	-1.5264984191872444	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_179156185.1	WP_065644469.1	gene-ACSAL1_RS01005	-3.997533034475594	gene-ACZ0AN_RS19595	4.4658135840322375	opposite		MFS transporter		MFS transporter
+WP_209387770.1	WP_020451188.1	gene-ACSAL1_RS18850	1.4661509810766142	gene-ACZ0AN_RS07830	-1.776085064072524	opposite		RDD family protein		RDD family protein
+WP_003152013.1	WP_003184900.1	gene-ACSAL1_RS14815	1.23429023707892	gene-ACZ0AN_RS16980	-3.6253451981592177	opposite		WXG100 family type VII secretion target		WXG100 family type VII secretion target
+WP_003152056.1	WP_023856153.1	gene-ACSAL1_RS14700	2.040517932540208	gene-ACZ0AN_RS16850	1.5971631967375328	conserved_up	mnhG	monovalent cation/H(+) antiporter subunit G	mnhG	monovalent cation/H(+) antiporter subunit G
+WP_003152109.1	WP_048349932.1	gene-ACSAL1_RS14555	3.0347676800512047	gene-ACZ0AN_RS03115	3.033028153331931	conserved_up		iron-containing alcohol dehydrogenase		iron-containing alcohol dehydrogenase
+WP_003152428.1	WP_023855496.1	gene-ACSAL1_RS13480	-4.184454578075795	gene-ACZ0AN_RS15555	-2.7723640814601618	conserved_down		argininosuccinate synthase		argininosuccinate synthase
+WP_003155740.1	WP_020450451.1	gene-ACSAL1_RS03470	1.7888922485820404	gene-ACZ0AN_RS03715	1.4795284656142655	conserved_up	pcrB	heptaprenylglyceryl phosphate synthase	pcrB	heptaprenylglyceryl phosphate synthase
+WP_003155777.1	WP_020450431.1	gene-ACSAL1_RS03370	-2.8572146915143524	gene-ACZ0AN_RS03595	-5.242249910141628	conserved_down		Fur-regulated basic protein FbpA		hypothetical protein
+WP_007610368.1	WP_020450770.1	gene-ACSAL1_RS05015	-3.115134870592171	gene-ACZ0AN_RS05480	-1.0180402323083362	conserved_down		alpha/beta-type small acid-soluble spore protein		alpha/beta-type small acid-soluble spore protein
+WP_007613482.1	WP_025809768.1	gene-ACSAL1_RS14880	4.0451280043721525	gene-ACZ0AN_RS17015	2.463485757789753	conserved_up		Na+/H+ antiporter NhaC family protein		Na+/H+ antiporter family protein
+WP_007613715.1	WP_043054605.1	gene-ACSAL1_RS15530	1.4955969217899057	gene-ACZ0AN_RS17675	-1.8904054174507483	opposite		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_128496533.1	WP_059230658.1	gene-ACSAL1_RS04825	-2.757406303711848	gene-ACZ0AN_RS05225	1.6002988216732843	opposite		NADPH-dependent FMN reductase		NADPH-dependent FMN reductase
+WP_209387345.1	WP_023857357.1	gene-ACSAL1_RS09835	2.46989137940372	gene-ACZ0AN_RS11315	1.8831739039455029	conserved_up		AAA family ATPase		ATP-binding protein
+WP_209387859.1	WP_025811956.1	gene-ACSAL1_RS01600	-5.210545311313145	gene-ACZ0AN_RS03425	-3.586727143568864	conserved_down	amyE	alpha-amylase	amyS	alpha-amylase
+WP_209387863.1	WP_463315624.1	gene-ACSAL1_RS01725	-1.3586295861237343	gene-ACZ0AN_RS02465	1.5136745945016676	opposite	nirB	nitrite reductase large subunit NirB	nirB	nitrite reductase large subunit NirB
+WP_209387899.1	WP_039073225.1	gene-ACSAL1_RS02185	-1.129939052314909	gene-ACZ0AN_RS02590	2.7237668876926624	opposite		BglG family transcription antiterminator		BglG family transcription antiterminator
+WP_209387903.1	WP_095291242.1	gene-ACSAL1_RS02245	2.4831709107362503	gene-ACZ0AN_RS21000	-2.445553852128872	opposite		DUF2334 domain-containing protein		DUF2334 domain-containing protein
+WP_209387996.1	WP_463315642.1	gene-ACSAL1_RS03960	2.02469055682974	gene-ACZ0AN_RS04200	2.379799546596909	conserved_up	treC	alpha%2Calpha-phosphotrehalase	treC	alpha%2Calpha-phosphotrehalase
+WP_209388031.1	WP_026580312.1	gene-ACSAL1_RS04560	-7.120532440788012	gene-ACZ0AN_RS20440	1.2134458920435158	opposite	katA	catalase KatA	katA	catalase KatA
+WP_003155217.1	WP_463315658.1	gene-ACSAL1_RS05240	-1.2965613643898437	gene-ACZ0AN_RS05710	-4.368438428530614	conserved_down	fabHB	beta-ketoacyl-ACP synthase III FabHB		beta-ketoacyl-ACP synthase 3
+WP_004264696.1	WP_020449802.1	gene-ACSAL1_RS00270	1.3673912887456747	gene-ACZ0AN_RS00285	1.18374635671308	conserved_up	rnmV	ribonuclease M5	rnmV	ribonuclease M5
+WP_007407383.1	WP_025810736.1	gene-ACSAL1_RS16090	-6.241506271191187	gene-ACZ0AN_RS18245	-7.177697202871734	conserved_down		sugar transferase		sugar transferase
+WP_014417317.1	WP_020450775.1	gene-ACSAL1_RS05030	-1.358937095658802	gene-ACZ0AN_RS05510	-2.505065121604656	conserved_down		YheC/YheD family endospore coat-associated protein		YheC/YheD family endospore coat-associated protein
+WP_014417626.1	WP_020451223.1	gene-ACSAL1_RS07295	-1.5745785433169384	gene-ACZ0AN_RS08020	-1.7186655527617674	conserved_down		ABC transporter permease		ABC transporter permease
+WP_014417632.1	WP_020451234.1	gene-ACSAL1_RS07345	1.36134188416796	gene-ACZ0AN_RS08080	1.06843973217403	conserved_up	mreBH	cell shape-determining protein MreBH	mreBH	rod-share determining protein MreBH
+WP_061862346.1	WP_101561047.1	gene-ACSAL1_RS10885	1.5375134319090966	gene-ACZ0AN_RS12365	2.8098513914701604	conserved_up		DUF309 domain-containing protein		DUF309 domain-containing protein
+WP_072177407.1	WP_212110455.1	gene-ACSAL1_RS06400	4.099384548862237	gene-ACZ0AN_RS06925	1.337524763112387	conserved_up		terminase small subunit		terminase small subunit
+WP_209387432.1	WP_025811157.1	gene-ACSAL1_RS11745	2.427555372990398	gene-ACZ0AN_RS13300	6.881199651120326	conserved_up	comGA	competence type IV pilus ATPase ComGA	comGA	competence type IV pilus ATPase ComGA
+WP_209387437.1	WP_025811788.1	gene-ACSAL1_RS11815	2.5663934508619137	gene-ACZ0AN_RS05425	3.607973905812304	conserved_up	nhaC	Na+/H+ antiporter NhaC	nhaC	Na+/H+ antiporter NhaC
+WP_209387498.1	WP_025810999.1	gene-ACSAL1_RS13425	1.5580287563427038	gene-ACZ0AN_RS15495	-1.1777824491802114	opposite	dnaE	DNA polymerase III subunit alpha	dnaE	DNA polymerase III subunit alpha
+WP_209387533.1	WP_245117755.1	gene-ACSAL1_RS14380	9.031164912910793	gene-ACZ0AN_RS16460	1.6817709586311131	conserved_up	betB	betaine-aldehyde dehydrogenase	betB	betaine-aldehyde dehydrogenase
+WP_209387587.1	WP_035337713.1	gene-ACSAL1_RS15770	1.9849333824227184	gene-ACZ0AN_RS18035	3.3668972460128943	conserved_up		alpha/beta hydrolase		alpha/beta hydrolase
+WP_209388180.1	WP_095290367.1	gene-ACSAL1_RS07115	-1.371126921660074	gene-ACZ0AN_RS07810	-1.611368312629892	conserved_down		peptidoglycan D%2CD-transpeptidase FtsI family protein		peptidoglycan D%2CD-transpeptidase FtsI family protein
+WP_209388204.1	WP_023857262.1	gene-ACSAL1_RS07640	2.086877056381955	gene-ACZ0AN_RS08320	1.6330793804336052	conserved_up		CBS domain-containing protein		CBS domain-containing protein
+WP_209388294.1	WP_025809984.1	gene-ACSAL1_RS09320	-5.161210575933284	gene-ACZ0AN_RS10325	1.2245817898997904	opposite		cellulase family glycosylhydrolase		cellulase family glycosylhydrolase
+WP_007407578.1	WP_145654112.1	gene-ACSAL1_RS17230	-4.6499084786959255	gene-ACZ0AN_RS02960	-4.830026554918872	conserved_down	xynA	endo-1%2C4-beta-xylanase XynA		glycoside hydrolase family 11 protein
+WP_007407590.1	WP_023857087.1	gene-ACSAL1_RS17290	1.7435976681277294	gene-ACZ0AN_RS19480	2.623237373854236	conserved_up		VWA domain-containing protein		VWA domain-containing protein
+WP_014305691.1	WP_020452742.1	gene-ACSAL1_RS14430	1.6303062816933798	gene-ACZ0AN_RS16585	-1.519135576319331	opposite		AI-2E family transporter		AI-2E family transporter
+WP_014305920.1	WP_003185659.1	gene-ACSAL1_RS16545	5.571561228131301	gene-ACZ0AN_RS18630	4.058028702998095	conserved_up	swrA	swarming motility protein SwrAA	swrA	swarming motility protein SwrAA
+WP_209387448.1	WP_020452283.1	gene-ACSAL1_RS12230	1.845316866403148	gene-ACZ0AN_RS13915	4.612007951775259	conserved_up		SGNH/GDSL hydrolase family protein		SGNH/GDSL hydrolase family protein
+WP_209387469.1	WP_026579141.1	gene-ACSAL1_RS12710	-8.993120230055487	gene-ACZ0AN_RS14770	-1.5809922094879618	conserved_down	safA	SafA/ExsA family spore coat assembly protein	safA	SafA/ExsA family spore coat assembly protein
+WP_209387472.1	WP_059231345.1	gene-ACSAL1_RS12730	-2.0796347991122253	gene-ACZ0AN_RS14790	2.6462009780219864	opposite		IscS subfamily cysteine desulfurase		IscS subfamily cysteine desulfurase
+WP_209387721.1	WP_023856958.1	gene-ACSAL1_RS18180	-3.1947587087731413	gene-ACZ0AN_RS20280	-1.932750342133404	conserved_down	dltA	D-alanine--poly(phosphoribitol) ligase subunit DltA	dltA	D-alanine--poly(phosphoribitol) ligase subunit DltA
+WP_209387803.1	WP_023855350.1	gene-ACSAL1_RS19365	1.0144065582105024	gene-ACZ0AN_RS14355	1.3852819131879075	conserved_up		methylated-DNA--[protein]-cysteine S-methyltransferase		methylated-DNA--[protein]-cysteine S-methyltransferase
+WP_209388044.1	WP_463315650.1	gene-ACSAL1_RS04750	-3.67331722753992	gene-ACZ0AN_RS05120	-1.6420688221748097	conserved_down		bifunctional metallophosphatase/5'-nucleotidase		5'-nucleotidase C-terminal domain-containing protein
+WP_209388153.1	WP_003180957.1	gene-ACSAL1_RS06640	-6.497489586934412	gene-ACZ0AN_RS07280	-1.961174107041807	conserved_down		C40 family peptidase		C40 family peptidase
+WP_209388156.1	WP_026579642.1	gene-ACSAL1_RS06665	-3.57050456199533	gene-ACZ0AN_RS10335	-1.417485771650734	conserved_down		GNAT family N-acetyltransferase		GNAT family N-acetyltransferase
+WP_003219701.1	WP_003185730.1	gene-ACSAL1_RS16680	-1.91182500742228	gene-ACZ0AN_RS18780	-1.2603698462659634	conserved_down	degU	two-component system response regulator DegU	degU	two-component system response regulator DegU
+WP_007614107.1	WP_023856394.1	gene-ACSAL1_RS16690	1.8772600255633831	gene-ACZ0AN_RS18790	2.5263250614425323	conserved_up		YigZ family protein		YigZ family protein
+WP_017418307.1	WP_023855450.1	gene-ACSAL1_RS13040	1.083144198097306	gene-ACZ0AN_RS15125	2.06908702083084	conserved_up	uvrC	excinuclease ABC subunit UvrC	uvrC	excinuclease ABC subunit UvrC
+WP_020956445.1	WP_023856337.1	gene-ACSAL1_RS16935	-2.4202719986665624	gene-ACZ0AN_RS18310	-2.082383067643624	conserved_down		NAD(P)H-dependent oxidoreductase		NAD(P)H-dependent oxidoreductase
+WP_209387442.1	WP_105981085.1	gene-ACSAL1_RS11990	-1.2476685128319194	gene-ACZ0AN_RS13660	-1.1182013854457922	conserved_down	glyS	glycine--tRNA ligase subunit beta	glyS	glycine--tRNA ligase subunit beta
+WP_209387478.1	WP_020452478.1	gene-ACSAL1_RS12950	-1.2664908573470106	gene-ACZ0AN_RS15020	1.4064419209231602	opposite	ilvB	acetolactate synthase large subunit	ilvB	acetolactate synthase large subunit
+WP_209388324.1	WP_026578946.1	gene-ACSAL1_RS05275	-1.70381506028291	gene-ACZ0AN_RS03525	5.187326966671421	opposite		SDR family oxidoreductase		SDR family oxidoreductase
+WP_003151242.1	WP_003185902.1	gene-ACSAL1_RS17120	2.65732228668248	gene-ACZ0AN_RS19240	1.2571161070282708	conserved_up	fabZ	3-hydroxyacyl-ACP dehydratase FabZ	fabZ	3-hydroxyacyl-ACP dehydratase FabZ
+WP_003154001.1	WP_020451592.1	gene-ACSAL1_RS09105	1.74226739775494	gene-ACZ0AN_RS10055	1.1613215492921938	conserved_up	yneA	cell division suppressor protein YneA	yneA	cell division suppressor protein YneA
+WP_003154260.1	WP_020451387.1	gene-ACSAL1_RS08245	2.3792075422791297	gene-ACZ0AN_RS08945	4.17008925642035	conserved_up	flgB	flagellar basal body rod protein FlgB	flgB	flagellar basal body rod protein FlgB
+WP_007408114.1	WP_020452506.1	gene-ACSAL1_RS13105	1.380487117876421	gene-ACZ0AN_RS15180	2.423731127703502	conserved_up	zapA	cell division protein ZapA	zapA	cell division protein ZapA
+WP_014418340.1	WP_020452121.1	gene-ACSAL1_RS11410	-1.512319197505031	gene-ACZ0AN_RS13000	1.9124220025753167	opposite		DUF2627 domain-containing protein		DUF2627 domain-containing protein
+WP_022552527.1	WP_020449985.1	gene-ACSAL1_RS01380	-1.7554283572510758	gene-ACZ0AN_RS01435	1.540454334699312	opposite		alanine/glycine:cation symporter family protein		alanine/glycine:cation symporter family protein
+WP_160216532.1	WP_016885527.1	gene-ACSAL1_RS12485	1.06813035036938	gene-ACZ0AN_RS14535	2.1291118164902327	conserved_up	mltG	endolytic transglycosylase MltG	mltG	endolytic transglycosylase MltG
+WP_202331656.1	WP_095290353.1	gene-ACSAL1_RS07035	-2.919050957471074	gene-ACZ0AN_RS07725	2.433349164862836	opposite		heavy metal translocating P-type ATPase		heavy metal translocating P-type ATPase
+WP_209387944.1	WP_023857810.1	gene-ACSAL1_RS03080	1.4785084196194729	gene-ACZ0AN_RS03145	-1.2508822272224982	opposite		sugar porter family MFS transporter		sugar porter family MFS transporter
+WP_012118061.1	WP_011198155.1	gene-ACSAL1_RS12420	1.846894542775255	gene-ACZ0AN_RS14470	-2.606860228024814	opposite		YrhC family protein		YrhC family protein
+WP_012118921.1	WP_025810048.1	gene-ACSAL1_RS19265	1.83723321653803	gene-ACZ0AN_RS03025	1.6146880487088442	conserved_up		YitT family protein		YitT family protein
+WP_209388328.1	WP_023857755.1	gene-ACSAL1_RS06135	-2.503784716797393	gene-ACZ0AN_RS01470	-1.9860016630405093	conserved_down	bla	class A beta-lactamase	blaP	class A beta-lactamase BlaP
+WP_209388334.1	WP_020451243.1	gene-ACSAL1_RS07400	2.5467520167880666	gene-ACZ0AN_RS08130	2.8831716348867027	conserved_up		YkyA family protein		YkyA family protein
+WP_014417556.1	WP_463315676.1	gene-ACSAL1_RS06745	-5.56770355087309	gene-ACZ0AN_RS07400	5.289231760613902	opposite		S8 family peptidase		S8 family peptidase
+WP_014417762.1	WP_020451377.1	gene-ACSAL1_RS08195	6.337370453990021	gene-ACZ0AN_RS08895	-1.0454220067336564	opposite		FlhB-like flagellar biosynthesis protein		FlhB-like flagellar biosynthesis protein
+WP_014418377.1	WP_145645269.1	gene-ACSAL1_RS11740	2.714214466020032	gene-ACZ0AN_RS13295	6.946677963347863	conserved_up	comGB	competence type IV pilus assembly protein ComGB	comGB	competence type IV pilus assembly protein ComGB
+WP_015418210.1	WP_025810626.1	gene-ACSAL1_RS15650	-11.014079586223318	gene-ACZ0AN_RS19790	-6.831272881016061	conserved_down		zinc-dependent metalloprotease		zinc-dependent metalloprotease
+WP_022552985.1	WP_463315595.1	gene-ACSAL1_RS11415	-3.916168066761458	gene-ACZ0AN_RS20355	-1.7895021665581987	conserved_down	prpB	methylisocitrate lyase	prpB	methylisocitrate lyase
+WP_025650408.1	WP_023857033.1	gene-ACSAL1_RS14390	-5.780876519510483	gene-ACZ0AN_RS19875	-6.003002254306837	conserved_down	bslA	biofilm surface layer hydrophobin BslA	bslA	biofilm surface layer hydrophobin BslA
+WP_209387470.1	WP_059231350.1	gene-ACSAL1_RS12715	-9.210568388454638	gene-ACZ0AN_RS14775	-1.4126064098139175	conserved_down	nadA	quinolinate synthase NadA	nadA	quinolinate synthase NadA
+WP_209387473.1	WP_059231343.1	gene-ACSAL1_RS12780	1.9894286712623857	gene-ACZ0AN_RS14840	-1.00845801389165	opposite		M23 family metallopeptidase		peptidoglycan DD-metalloendopeptidase family protein
+WP_209387844.1	WP_023855832.1	gene-ACSAL1_RS01360	-6.226914219005029	gene-ACZ0AN_RS16055	-1.3796673265107144	conserved_down	gltP	glutamate-aspartate/proton symporter GltP	gltP	glutamate-aspartate/proton symporter GltP
+WP_003153619.1	WP_020451883.1	gene-ACSAL1_RS10175	-1.722252099323851	gene-ACZ0AN_RS11625	2.5781279651762063	opposite		BrxA/BrxB family bacilliredoxin		BrxA/BrxB family bacilliredoxin
+WP_003154234.1	WP_020451404.1	gene-ACSAL1_RS08340	4.272276822287616	gene-ACZ0AN_RS09040	2.4864931620511546	conserved_up	fliQ	flagellar biosynthesis protein FliQ	fliQ	flagellar biosynthesis protein FliQ
+WP_003154240.1	WP_020451400.1	gene-ACSAL1_RS08315	1.775271066135622	gene-ACZ0AN_RS09015	2.2182027432715383	conserved_up	fliM	flagellar motor switch protein FliM	fliM	flagellar motor switch protein FliM
+WP_007408335.1	WP_043054396.1	gene-ACSAL1_RS11650	1.451853578124196	gene-ACZ0AN_RS13190	1.5369147036659538	conserved_up		rhodanese-like domain-containing protein		rhodanese-like domain-containing protein
+WP_007409113.1	WP_020450933.1	gene-ACSAL1_RS05795	-3.921841907758969	gene-ACZ0AN_RS06455	-1.6079683885118392	conserved_down	oppC	oligopeptide ABC transporter permease OppC		ABC transporter permease
+WP_014417223.1	WP_103750481.1	gene-ACSAL1_RS04205	-2.351176894968716	gene-ACZ0AN_RS04530	-1.960722204557238	conserved_down	catE	catechol 2%2C3-dioxygenase		VOC family protein
+WP_014417374.1	WP_020450876.1	gene-ACSAL1_RS05500	-1.1350329350387869	gene-ACZ0AN_RS06075	-1.7283821844837082	conserved_down		aspartyl-phosphate phosphatase Spo0E family protein		aspartyl-phosphate phosphatase Spo0E family protein
+WP_014417398.1	WP_463315660.1	gene-ACSAL1_RS05665	-3.580840067855558	gene-ACZ0AN_RS06310	1.6251268993694716	opposite	argC	N-acetyl-gamma-glutamyl-phosphate reductase	argC	N-acetyl-gamma-glutamyl-phosphate reductase
+WP_021495090.1	WP_023855267.1	gene-ACSAL1_RS02315	-3.988787787314784	gene-ACZ0AN_RS13950	-5.02747835785178	conserved_down		hypothetical protein		hypothetical protein
+WP_025649284.1	WP_463315582.1	gene-ACSAL1_RS15640	-2.486608448155006	gene-ACZ0AN_RS17740	1.0764913789995516	opposite	helD	RNA polymerase recycling motor HelD	helD	RNA polymerase recycling motor HelD
+WP_038461736.1	WP_020453236.1	gene-ACSAL1_RS01040	1.584894154458904	gene-ACZ0AN_RS19400	-4.651143110324002	opposite	feuC	iron ABC transporter permease FeuC		FecCD family ABC transporter permease
+WP_061861565.1	WP_035337756.1	gene-ACSAL1_RS16325	-2.438810329297975	gene-ACZ0AN_RS18440	-2.5037519348861097	conserved_down		arylamine N-acetyltransferase family protein		arylamine N-acetyltransferase
+WP_061862144.1	WP_026579781.1	gene-ACSAL1_RS07285	-2.4054522792384097	gene-ACZ0AN_RS08010	-1.8736780500736585	conserved_down		efflux RND transporter periplasmic adaptor subunit		efflux RND transporter periplasmic adaptor subunit
+WP_003152011.1	WP_020452813.1	gene-ACSAL1_RS14825	-3.0957012859322663	gene-ACZ0AN_RS16995	-1.3058677619692192	conserved_down	ald	alanine dehydrogenase	ald	alanine dehydrogenase
+WP_003152043.1	WP_003184860.1	gene-ACSAL1_RS14730	-2.9528843886866127	gene-ACZ0AN_RS16880	-2.062803349048908	conserved_down	degQ	degradation enzyme regulation protein DegQ	degQ	degradation enzyme regulation protein DegQ
+WP_003153079.1	WP_003183482.1	gene-ACSAL1_RS11770	-1.5866479266552576	gene-ACZ0AN_RS13315	8.443935586695828	opposite		Spx/MgsR family RNA polymerase-binding regulatory protein		Spx/MgsR family RNA polymerase-binding regulatory protein
+WP_003155001.1	WP_003180687.1	gene-ACSAL1_RS05935	1.587955363155768	gene-ACZ0AN_RS06625	-2.316635517162371	opposite	fabI	enoyl-ACP reductase FabI	fabI	enoyl-ACP reductase FabI
+WP_003155032.1	WP_003180627.1	gene-ACSAL1_RS05830	-1.48070761962927	gene-ACZ0AN_RS06490	2.3287867045475985	opposite	mecA	adaptor protein MecA	mecA	adaptor protein MecA
+WP_007409693.1	WP_020451284.1	gene-ACSAL1_RS07670	2.38701197477816	gene-ACZ0AN_RS08360	1.0822423815807185	conserved_up	rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+WP_007409714.1	WP_003181573.1	gene-ACSAL1_RS07810	-2.749298295778606	gene-ACZ0AN_RS08515	-2.550907388488772	conserved_down	sigE	RNA polymerase sporulation sigma factor SigE	sigE	RNA polymerase sporulation sigma factor SigE
+WP_007410404.1	WP_020449864.1	gene-ACSAL1_RS00780	-1.4205370482935316	gene-ACZ0AN_RS00790	-1.0528012492514374	conserved_down	rplN	50S ribosomal protein L14	rplN	50S ribosomal protein L14
+WP_014418802.1	WP_020452851.1	gene-ACSAL1_RS15075	1.1063358123553917	gene-ACZ0AN_RS17230	1.8330518919800551	conserved_up		DUF72 domain-containing protein		DUF72 domain-containing protein
+WP_053284944.1	WP_020452572.1	gene-ACSAL1_RS13460	-1.0875451560258922	gene-ACZ0AN_RS15535	3.156063686981473	opposite		metal-dependent hydrolase		metal-dependent hydrolase
+WP_061862606.1	WP_035337494.1	gene-ACSAL1_RS00410	1.915159548813751	gene-ACZ0AN_RS00425	1.4292645018735288	conserved_up	tilS	tRNA lysidine(34) synthetase TilS	tilS	tRNA lysidine(34) synthetase TilS
+WP_209387426.1	WP_020452148.1	gene-ACSAL1_RS11615	-1.1635424541894004	gene-ACZ0AN_RS13150	-1.443049048219518	conserved_down		M24 family metallopeptidase		M24 family metallopeptidase
+WP_209387501.1	WP_033155109.1	gene-ACSAL1_RS13535	1.402899029947788	gene-ACZ0AN_RS15615	-1.1245484424872636	opposite	mbcS	acyl-CoA synthetase MbcS	mbcS	acyl-CoA synthetase MbcS
+WP_209387320.1	WP_463315703.1	gene-ACSAL1_RS09500	-6.189223140113429	gene-ACZ0AN_RS10650	-6.349762743757935	conserved_down		non-ribosomal peptide synthetase		amino acid adenylation domain-containing protein
+WP_209387324.1	WP_326250815.1	gene-ACSAL1_RS09575	-1.6949909249833006	gene-ACZ0AN_RS10745	1.867299186070413	opposite	gltB	glutamate synthase large subunit	gltB	glutamate synthase large subunit
+WP_209387371.1	WP_212110765.1	gene-ACSAL1_RS10140	-1.6950813982752506	gene-ACZ0AN_RS11590	2.227831602679029	opposite		sigma 54-interacting transcriptional regulator		sigma 54-interacting transcriptional regulator
+WP_209387431.1	WP_026579312.1	gene-ACSAL1_RS11730	2.675474075409988	gene-ACZ0AN_RS13285	6.386369695107744	conserved_up	comGD	competence type IV pilus minor pilin ComGD	comGD	competence type IV pilus minor pilin ComGD
+WP_209387491.1	WP_195257984.1	gene-ACSAL1_RS13205	-2.1655852733208247	gene-ACZ0AN_RS15290	-1.865553482935156	conserved_down		M42 family metallopeptidase		M42 family metallopeptidase
+WP_209388049.1	WP_031305082.1	gene-ACSAL1_RS04820	-2.0122231610055774	gene-ACZ0AN_RS05220	1.9624323865136275	opposite		response regulator		response regulator
+WP_209388095.1	WP_463315661.1	gene-ACSAL1_RS05750	-3.2319212688384127	gene-ACZ0AN_RS06405	-2.006509938426184	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_209388139.1	WP_249726574.1	gene-ACSAL1_RS06405	4.46438175792318	gene-ACZ0AN_RS06930	1.3816842745232878	conserved_up		PBSX family phage terminase large subunit		PBSX family phage terminase large subunit
+WP_003155043.1	WP_020450932.1	gene-ACSAL1_RS05790	-3.1790385771956355	gene-ACZ0AN_RS06450	-1.6429227442146102	conserved_down		ABC transporter permease		ABC transporter permease
+WP_014417345.1	WP_048350511.1	gene-ACSAL1_RS05265	2.0044553150348823	gene-ACZ0AN_RS05735	-2.087888930422932	opposite		MBL fold metallo-hydrolase		MBL fold metallo-hydrolase
+WP_014417776.1	WP_023857204.1	gene-ACSAL1_RS08350	4.216521341479544	gene-ACZ0AN_RS09050	1.854858466088772	conserved_up	flhB	flagellar biosynthesis protein FlhB	flhB	flagellar biosynthesis protein FlhB
+WP_209387802.1	WP_023856701.1	gene-ACSAL1_RS19350	-3.1497592516775472	gene-ACZ0AN_RS06835	-1.6044438092341922	conserved_down		VOC family protein		VOC family protein
+WP_209388152.1	WP_003180955.1	gene-ACSAL1_RS06635	-7.206458364625488	gene-ACZ0AN_RS07275	-1.6569289285964044	conserved_down		mandelate racemase/muconate lactonizing enzyme family protein		mandelate racemase/muconate lactonizing enzyme family protein
+WP_209388218.1	WP_023857229.1	gene-ACSAL1_RS07985	1.772735121131241	gene-ACZ0AN_RS08690	1.5728418430975124	conserved_up		YicC/YloC family endoribonuclease		YicC/YloC family endoribonuclease
+WP_007410230.1	WP_164468292.1	gene-ACSAL1_RS02480	1.1037986106559712	gene-ACZ0AN_RS02810	-1.3311185939424754	opposite		LolA family protein		LolA family protein
+WP_007610590.1	WP_035339430.1	gene-ACSAL1_RS05755	-4.793345432953291	gene-ACZ0AN_RS06410	-2.116962588425447	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_014418250.1	WP_026579386.1	gene-ACSAL1_RS10570	1.2038766514439316	gene-ACZ0AN_RS12010	1.0818059581614043	conserved_up		tetratricopeptide repeat protein		tetratricopeptide repeat protein
+WP_014419005.1	WP_020453106.1	gene-ACSAL1_RS16615	3.312279031044928	gene-ACZ0AN_RS18715	-2.047227156495792	opposite		flagellin N-terminal helical domain-containing protein	hag	flagellin Hag
+WP_021495204.1	WP_128823493.1	gene-ACSAL1_RS03220	-2.322320349915837	gene-ACZ0AN_RS03350	-3.1342363408400256	conserved_down		PspA/IM30 family protein		PspA/IM30 family protein
+WP_022553228.1	WP_020451809.1	gene-ACSAL1_RS09785	-1.04841924228341	gene-ACZ0AN_RS11250	1.7805460226527714	opposite		DUF6501 family protein		DUF6501 family protein
+WP_025649399.1	WP_020450006.1	gene-ACSAL1_RS17850	-2.098315925124401	gene-ACZ0AN_RS01545	-2.127580401155758	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_029972995.1	WP_026580420.1	gene-ACSAL1_RS18835	-1.5809562554891476	gene-ACZ0AN_RS01000	1.3329910502058508	opposite		DUF5391 family protein		DUF5391 family protein
+WP_209387609.1	WP_095292169.1	gene-ACSAL1_RS16100	-5.599860927765386	gene-ACZ0AN_RS18255	-6.897300896724677	conserved_down		glycosyltransferase		glycosyltransferase
+WP_209387647.1	WP_035337789.1	gene-ACSAL1_RS16715	2.6740028291465605	gene-ACZ0AN_RS18820	-1.537274038259388	opposite	tuaF	teichuronic acid biosynthesis protein TuaF	tuaF	teichuronic acid biosynthesis protein TuaF
+WP_003151042.1	WP_025810627.1	gene-ACSAL1_RS17665	1.67050618562691	gene-ACZ0AN_RS19785	-1.3492842629015342	opposite		2-hydroxymuconate tautomerase		2-hydroxymuconate tautomerase
+WP_003151173.1	WP_020453255.1	gene-ACSAL1_RS17325	-2.0263806384706347	gene-ACZ0AN_RS19510	-3.0600091153813995	conserved_down	atpD	F0F1 ATP synthase subunit beta	atpD	F0F1 ATP synthase subunit beta
+WP_003151318.1	WP_023857150.1	gene-ACSAL1_RS16940	3.073265333862325	gene-ACZ0AN_RS19095	1.8412168704304648	conserved_up	budA	acetolactate decarboxylase	budA	acetolactate decarboxylase
+WP_003153227.1	WP_020452110.1	gene-ACSAL1_RS11350	-1.222779099641015	gene-ACZ0AN_RS12940	-4.487047495418778	conserved_down	artQ	arginine ABC transporter permease ArtQ		amino acid ABC transporter permease
+WP_012117893.1	WP_020452022.1	gene-ACSAL1_RS10940	-2.0065814986268204	gene-ACZ0AN_RS12430	1.1134925088903038	opposite	lysA	diaminopimelate decarboxylase	lysA	diaminopimelate decarboxylase
+WP_012118002.1	WP_023855214.1	gene-ACSAL1_RS11875	4.114923266158914	gene-ACZ0AN_RS13485	1.84851839890521	conserved_up		MFS transporter		MFS transporter
+WP_162495990.1	WP_105981297.1	gene-ACSAL1_RS11420	-3.533648271669795	gene-ACZ0AN_RS20350	-1.5751666468722072	conserved_down		bifunctional 2-methylcitrate dehydratase/aconitate hydratase		bifunctional 2-methylcitrate dehydratase/aconitate hydratase
+WP_202729492.1	WP_095289976.1	gene-ACSAL1_RS05505	-1.986183835304019	gene-ACZ0AN_RS06090	-1.8899253144776464	conserved_down		fumarylacetoacetate hydrolase family protein		fumarylacetoacetate hydrolase family protein
+WP_204283013.1	WP_009328935.1	gene-ACSAL1_RS05250	-2.9966219168817227	gene-ACZ0AN_RS05715	-2.2172549542624767	conserved_down		M42 family metallopeptidase		M42 family metallopeptidase
+WP_209387991.1	WP_023857813.1	gene-ACSAL1_RS03845	1.0987673248915013	gene-ACZ0AN_RS03130	-1.3759518814303409	opposite		response regulator		response regulator
+WP_209387997.1	WP_020450546.1	gene-ACSAL1_RS03965	3.1876059468712565	gene-ACZ0AN_RS04205	2.513111713379423	conserved_up	treR	trehalose operon repressor	treR	trehalose operon repressor
+WP_209388036.1	WP_023856470.1	gene-ACSAL1_RS04595	6.002845814897035	gene-ACZ0AN_RS04960	1.4812951197635589	conserved_up	rpsN	30S ribosomal protein S14	rpsN	30S ribosomal protein S14
+WP_003154369.1	WP_023857233.1	gene-ACSAL1_RS07935	1.4049814681740505	gene-ACZ0AN_RS08645	-4.711078155594909	opposite		phosphoadenylyl-sulfate reductase		phosphoadenylyl-sulfate reductase
+WP_007407424.1	WP_023857797.1	gene-ACSAL1_RS16360	-1.050658517630043	gene-ACZ0AN_RS01810	-2.2205687103401	conserved_down	cwlO	peptidoglycan DL-endopeptidase CwlO		C40 family peptidase
+WP_007407726.1	WP_023856983.1	gene-ACSAL1_RS18110	3.579597604692053	gene-ACZ0AN_RS20160	1.5513816645830212	conserved_up		CidB/LrgB family autolysis modulator		CidB/LrgB family autolysis modulator
+WP_007407816.1	WP_095291318.1	gene-ACSAL1_RS18620	-1.8790341241684283	gene-ACZ0AN_RS20970	1.001355292731206	opposite		pyrimidine-nucleoside phosphorylase		pyrimidine-nucleoside phosphorylase
+WP_014419099.1	WP_023857083.1	gene-ACSAL1_RS17355	1.548535632176003	gene-ACZ0AN_RS19540	-2.0845830819213256	opposite	atpB	F0F1 ATP synthase subunit A	atpB	F0F1 ATP synthase subunit A
+WP_014469850.1	WP_370510518.1	gene-ACSAL1_RS03375	-1.9532679498473229	gene-ACZ0AN_RS03600	2.149252787360799	opposite		DUF2179 domain-containing protein		DUF2179 domain-containing protein
+WP_209387781.1	WP_035338110.1	gene-ACSAL1_RS18980	-4.417101689427855	gene-ACZ0AN_RS21435	-3.868319402304567	conserved_down		GNAT family N-acetyltransferase		GNAT family N-acetyltransferase
+WP_209387873.1	WP_003178866.1	gene-ACSAL1_RS01820	1.775706955335577	gene-ACZ0AN_RS02135	-3.700070754023856	opposite	tcyC	cystine ABC transporter ATP-binding protein TcyC		amino acid ABC transporter ATP-binding protein
+WP_003154622.1	WP_020451191.1	gene-ACSAL1_RS07140	2.297764119328831	gene-ACZ0AN_RS07845	2.144250704278043	conserved_up		YkyB family protein		YkyB family protein
+WP_007409783.1	WP_035338767.1	gene-ACSAL1_RS08300	2.486360653411608	gene-ACZ0AN_RS09000	1.5636326585770095	conserved_up	flgG	flagellar basal body rod protein FlgG	flgG	flagellar basal body rod protein FlgG
+WP_007410085.1	WP_020452875.1	gene-ACSAL1_RS15260	-2.182925013662896	gene-ACZ0AN_RS17360	-1.0522602511216932	conserved_down		SCP2 sterol-binding domain-containing protein		SCP2 sterol-binding domain-containing protein
+WP_007611262.1	WP_095290421.1	gene-ACSAL1_RS07715	-3.284057699936869	gene-ACZ0AN_RS08400	1.71287448427022	opposite		N-acetyltransferase		N-acetyltransferase
+WP_014418922.1	WP_023856328.1	gene-ACSAL1_RS16055	-1.479830873793273	gene-ACZ0AN_RS18210	-1.627988018289776	conserved_down	lutR	L-lactate utilization/bacilysin biosynthesis transcriptional regulator LutR	lutR	L-lactate utilization/bacilysin biosynthesis transcriptional regulator LutR
+WP_014419228.1	WP_095291253.1	gene-ACSAL1_RS18305	-1.3108942523250051	gene-ACZ0AN_RS20925	2.938786486055298	opposite		choloylglycine hydrolase family protein		choloylglycine hydrolase family protein
+WP_021495256.1	WP_096748337.1	gene-ACSAL1_RS16385	1.4867931242498489	gene-ACZ0AN_RS18485	2.6155660585679508	conserved_up	hisIE	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	hisIE	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE
+WP_021495283.1	WP_023855223.1	gene-ACSAL1_RS01520	2.199679859629698	gene-ACZ0AN_RS13535	2.18935534696902	conserved_up		metal ABC transporter ATP-binding protein		metal ABC transporter ATP-binding protein
+WP_088056325.1	WP_146874100.1	gene-ACSAL1_RS02325	-2.2863352466123152	gene-ACZ0AN_RS02680	1.342102422356278	opposite		Nramp family divalent metal transporter		Nramp family divalent metal transporter
+WP_007409122.1	WP_003180588.1	gene-ACSAL1_RS05735	2.206260333439909	gene-ACZ0AN_RS06385	-2.432494628538149	opposite		beta-ketoacyl-ACP synthase III		beta-ketoacyl-ACP synthase III
+WP_014417202.1	WP_463315712.1	gene-ACSAL1_RS04065	2.711193570607283	gene-ACZ0AN_RS04355	1.9758955228131805	conserved_up	pdaA	delta-lactam-biosynthetic de-N-acetylase	pdaA	delta-lactam-biosynthetic de-N-acetylase
+WP_014417415.1	WP_011197767.1	gene-ACSAL1_RS05780	-1.061755020577034	gene-ACZ0AN_RS06440	-1.8800238125430555	conserved_down	trpS	tryptophan--tRNA ligase	trpS	tryptophan--tRNA ligase
+WP_014418166.1	WP_020451893.1	gene-ACSAL1_RS10235	1.8512568977719857	gene-ACZ0AN_RS11690	1.2296057200241162	conserved_up		ribonuclease H family protein		reverse transcriptase-like protein
+WP_209387484.1	WP_023855455.1	gene-ACSAL1_RS13100	1.9498626415611708	gene-ACZ0AN_RS15175	2.596368165318119	conserved_up		CvpA family protein		CvpA family protein
+WP_209387488.1	WP_463315577.1	gene-ACSAL1_RS13175	-3.889860148769353	gene-ACZ0AN_RS15265	-1.0796208323761691	conserved_down		sn-glycerol-1-phosphate dehydrogenase		sn-glycerol-1-phosphate dehydrogenase
+WP_209387580.1	WP_065643738.1	gene-ACSAL1_RS15570	1.6156225148072505	gene-ACZ0AN_RS17705	2.0899830690234773	conserved_up		LTA synthase family protein		LTA synthase family protein
+WP_209387608.1	WP_231005573.1	gene-ACSAL1_RS16095	-4.579344827486073	gene-ACZ0AN_RS18250	-7.399652832451961	conserved_down		MATE family efflux transporter		MATE family efflux transporter
+WP_209387612.1	WP_249726811.1	gene-ACSAL1_RS16120	-5.247347115945321	gene-ACZ0AN_RS18275	-6.471095816487367	conserved_down		glycosyltransferase family 1 protein		glycosyltransferase family 1 protein
+WP_014418595.1	WP_106070691.1	gene-ACSAL1_RS13170	-3.0662253823892667	gene-ACZ0AN_RS15260	-1.1466878572919523	conserved_down	araN	arabinooligosaccharides ABC transporter substrate-binding protein AraN		ABC transporter substrate-binding protein
+WP_022553582.1	WP_041817178.1	gene-ACSAL1_RS05420	2.227516292779151	gene-ACZ0AN_RS05955	2.41684663796931	conserved_up		AbrB family transcriptional regulator		AbrB family transcriptional regulator
+WP_024085288.1	WP_026579746.1	gene-ACSAL1_RS07925	-3.447153631116682	gene-ACZ0AN_RS08630	1.1529578287187965	opposite	pyrF	orotidine-5'-phosphate decarboxylase	pyrF	orotidine-5'-phosphate decarboxylase
+WP_029325912.1	WP_020451461.1	gene-ACSAL1_RS08660	-4.192395751441157	gene-ACZ0AN_RS09370	-3.5032950341963054	conserved_down		glycine C-acetyltransferase		glycine C-acetyltransferase
+WP_209387524.1	WP_020452677.1	gene-ACSAL1_RS14110	1.4663673715680965	gene-ACZ0AN_RS16130	1.242992703694136	conserved_up	ytkD	RNA deprotection pyrophosphohydrolase	ytkD	RNA deprotection pyrophosphohydrolase
+WP_209387563.1	WP_020452856.1	gene-ACSAL1_RS15105	-4.922949378293058	gene-ACZ0AN_RS17260	-2.6828607320238125	conserved_down		MFS transporter		MFS transporter
+WP_007610253.1	WP_020450670.1	gene-ACSAL1_RS04630	3.7993588891036048	gene-ACZ0AN_RS04985	1.00210732658545	conserved_up	trmL	tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL	trmL	tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL
+WP_007610911.1	WP_020451117.1	gene-ACSAL1_RS06800	-3.741726111267821	gene-ACZ0AN_RS07435	-1.0309016715157504	conserved_down		MarR family winged helix-turn-helix transcriptional regulator		MarR family winged helix-turn-helix transcriptional regulator
+WP_017418904.1	WP_020450028.1	gene-ACSAL1_RS15800	1.0970166929722152	gene-ACZ0AN_RS01655	-1.789942965631553	opposite		sensor histidine kinase		sensor histidine kinase
+WP_021494986.1	WP_020450948.1	gene-ACSAL1_RS05865	3.035769199656682	gene-ACZ0AN_RS06555	1.517636526202966	conserved_up		CYTH domain-containing protein		CYTH domain-containing protein
+WP_022553816.1	WP_095292176.1	gene-ACSAL1_RS16080	-5.543662278803894	gene-ACZ0AN_RS18235	-7.456290888915862	conserved_down		aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme		DegT/DnrJ/EryC1/StrS family aminotransferase
+WP_095284152.1	WP_020452454.1	gene-ACSAL1_RS12825	1.335810872961464	gene-ACZ0AN_RS14895	1.6563008954581724	conserved_up		prepilin peptidase		prepilin peptidase
+WP_100261812.1	WP_023857575.1	gene-ACSAL1_RS09245	4.412620343984075	gene-ACZ0AN_RS10235	1.2055488663977123	conserved_up		alanine/glycine:cation symporter family protein		alanine/glycine:cation symporter family protein
+WP_209388338.1	WP_095292205.1	gene-ACSAL1_RS09345	-7.154397350758142	gene-ACZ0AN_RS17985	-6.381306972840374	conserved_down		glycoside hydrolase family 43 protein		glycoside hydrolase family 43 protein
+WP_003156443.1	WP_023855916.1	gene-ACSAL1_RS00695	3.4516099693130493	gene-ACZ0AN_RS00710	1.401058393525895	conserved_up		50S ribosomal protein L7ae-like protein		50S ribosomal protein L7ae-like protein
+WP_003156549.1	WP_020449875.1	gene-ACSAL1_RS00870	1.655201871707182	gene-ACZ0AN_RS00880	-1.2828903367666364	opposite		DNA-directed RNA polymerase subunit alpha		DNA-directed RNA polymerase subunit alpha
+WP_004264646.1	WP_020449813.1	gene-ACSAL1_RS00345	3.1742556993769653	gene-ACZ0AN_RS00360	-1.0985710140897882	opposite	spoVT	stage V sporulation protein T	spoVT	stage V sporulation protein T
+WP_007613085.1	WP_020452575.1	gene-ACSAL1_RS13475	-4.791725317142916	gene-ACZ0AN_RS15550	-3.021110785785228	conserved_down	argH	argininosuccinate lyase	argH	argininosuccinate lyase
+WP_007615141.1	WP_145654501.1	gene-ACSAL1_RS00125	2.5631805393951006	gene-ACZ0AN_RS00140	1.237577700920519	conserved_up	tadA	tRNA adenosine(34) deaminase TadA	tadA	tRNA adenosine(34) deaminase TadA
+WP_012117440.1	WP_020451202.1	gene-ACSAL1_RS07200	4.053704886681892	gene-ACZ0AN_RS07910	-2.792417802221575	opposite		flavodoxin		flavodoxin
+WP_012118311.1	WP_003184842.1	gene-ACSAL1_RS14695	1.9934462975446865	gene-ACZ0AN_RS16845	1.806800171857626	conserved_up		Na(+)/H(+) antiporter subunit F1		Na(+)/H(+) antiporter subunit F1
+WP_017418355.1	WP_023855495.1	gene-ACSAL1_RS13465	1.874264042566167	gene-ACZ0AN_RS15540	4.425972838893833	conserved_up		SDR family oxidoreductase		SDR family oxidoreductase
+WP_021495233.1	WP_025810731.1	gene-ACSAL1_RS16135	-4.530910339759023	gene-ACZ0AN_RS18290	-6.877538643895273	conserved_down		polysaccharide biosynthesis protein		polysaccharide biosynthesis protein
+WP_159353548.1	WP_020451629.1	gene-ACSAL1_RS17555	3.588000856490259	gene-ACZ0AN_RS10255	1.3632716721045643	conserved_up	narH	nitrate reductase subunit beta	narH	nitrate reductase subunit beta
+WP_174747328.1	WP_020453026.1	gene-ACSAL1_RS16115	-2.4848991690101414	gene-ACZ0AN_RS18270	-6.613513258975818	conserved_down	epsG	biofilm exopolysaccharide biosynthesis protein EpsG		EpsG family protein
+WP_209387380.1	WP_023857407.1	gene-ACSAL1_RS10325	-3.406958818072628	gene-ACZ0AN_RS11760	-1.7362151346932289	conserved_down		carboxypeptidase M32		carboxypeptidase M32
+WP_209387383.1	WP_026579397.1	gene-ACSAL1_RS10430	-1.5270002486600045	gene-ACZ0AN_RS11870	-1.0102582551069388	conserved_down		PBP1A family penicillin-binding protein		penicillin-binding protein 1A
+WP_209388290.1	WP_463315550.1	gene-ACSAL1_RS09285	-2.0088940245736726	gene-ACZ0AN_RS10905	1.7768975193488254	opposite		hypothetical protein		DoxX-like family protein
+WP_245207593.1	WP_249726717.1	gene-ACSAL1_RS18490	-1.097027773499125	gene-ACZ0AN_RS20885	-3.756722247588632	conserved_down		Imm26 family immunity protein		hypothetical protein
+WP_245207605.1	WP_463315643.1	gene-ACSAL1_RS03830	-4.011225191514354	gene-ACZ0AN_RS04225	-4.277904762537642	conserved_down		exosporium glycoprotein BclB-related protein		NTTRR-F1 domain
+WP_370531149.1	WP_370510587.1	gene-ACSAL1_RS03750	2.846047285789184	gene-ACZ0AN_RS03975	-3.1590659986220486	opposite		methyl-accepting chemotaxis protein		methyl-accepting chemotaxis protein
+WP_007407824.1	WP_020453473.1	gene-ACSAL1_RS18665	3.1931341051696744	gene-ACZ0AN_RS20665	-1.1867571033072293	opposite		hypothetical protein		hypothetical protein
+WP_007407911.1	WP_020453634.1	gene-ACSAL1_RS19185	1.0851338061206952	gene-ACZ0AN_RS21570	1.250710084059118	conserved_up		DHH family phosphoesterase		DHH family phosphoesterase
+WP_007408149.1	WP_145654320.1	gene-ACSAL1_RS12905	-1.012895952655308	gene-ACZ0AN_RS14975	1.0193684353889885	opposite	clpX	ATP-dependent protease ATP-binding subunit ClpX	clpX	ATP-dependent protease ATP-binding subunit ClpX
+WP_007408313.1	WP_020452188.1	gene-ACSAL1_RS11810	-1.7255847022463031	gene-ACZ0AN_RS13365	4.932105244649415	opposite		YqgQ family protein		YqgQ family protein
+WP_007408338.1	WP_020452154.1	gene-ACSAL1_RS11640	1.4275707177502726	gene-ACZ0AN_RS13180	1.0638931998373171	conserved_up	mntR	transcriptional regulator MntR	mntR	transcriptional regulator MntR
+WP_014416828.1	WP_026579874.1	gene-ACSAL1_RS01450	6.58147508676219	gene-ACZ0AN_RS06855	1.7905927468398657	conserved_up	lmrA	transcriptional regulator LmrA		TetR/AcrR family transcriptional regulator
+WP_014417077.1	WP_145645282.1	gene-ACSAL1_RS03230	-1.212728211239778	gene-ACZ0AN_RS03360	-3.100822010514174	conserved_down		TPM domain-containing protein		TPM domain-containing protein
+WP_021495102.1	WP_023857901.1	gene-ACSAL1_RS02195	1.3980793149702586	gene-ACZ0AN_RS02595	12.077316490850572	conserved_up		SDR family oxidoreductase		SDR family oxidoreductase
+WP_115941165.1	WP_023857018.1	gene-ACSAL1_RS17985	-6.931690911383481	gene-ACZ0AN_RS19975	-4.547894564310743	conserved_down		S8 family peptidase		S8 family peptidase
+WP_159354085.1	WP_020451177.1	gene-ACSAL1_RS07070	1.3386446429607166	gene-ACZ0AN_RS07765	-1.4778634173615612	opposite	ptsP	phosphoenolpyruvate--protein phosphotransferase	ptsP	phosphoenolpyruvate--protein phosphotransferase
+WP_007407375.1	WP_095292181.1	gene-ACSAL1_RS16040	2.054659155024426	gene-ACZ0AN_RS18200	2.912645839967647	conserved_up		LutB/LldF family L-lactate oxidation iron-sulfur protein		LutB/LldF family L-lactate oxidation iron-sulfur protein
+WP_012117078.1	WP_025810251.1	gene-ACSAL1_RS04020	2.0181894072396385	gene-ACZ0AN_RS04310	4.14082595443248	conserved_up		low molecular weight protein-tyrosine-phosphatase		low molecular weight protein-tyrosine-phosphatase
+WP_015240581.1	WP_020452955.1	gene-ACSAL1_RS15675	2.36943280962548	gene-ACZ0AN_RS17855	-1.3550290740305426	opposite	copZ	copper chaperone CopZ	copZ	copper chaperone CopZ
+WP_017418047.1	WP_020451782.1	gene-ACSAL1_RS10730	2.1905783632621225	gene-ACZ0AN_RS11100	1.1931458953031242	conserved_up		flagellar brake protein		flagellar brake protein
+WP_021493808.1	WP_023856769.1	gene-ACSAL1_RS06660	1.779541477189328	gene-ACZ0AN_RS07295	-1.2050578660260236	opposite		acyl-CoA thioesterase		acyl-CoA thioesterase
+WP_209387697.1	WP_145654199.1	gene-ACSAL1_RS17745	1.5201554344966997	gene-ACZ0AN_RS06810	-2.544930644889519	opposite	cysL	cysJI operon transcriptional regulator CysL		LysR family transcriptional regulator
+WP_209387728.1	WP_025811184.1	gene-ACSAL1_RS18275	2.881290532553628	gene-ACZ0AN_RS12870	1.3839404846776984	conserved_up	celB	PTS cellobiose transporter subunit IIC	celB	PTS cellobiose transporter subunit IIC
+WP_209387732.1	WP_020450470.1	gene-ACSAL1_RS18295	-2.1436874604686795	gene-ACZ0AN_RS03815	-2.3468186338859405	conserved_down		glycosyl hydrolase		glycoside hydrolase family 26 protein
+WP_209387790.1	WP_463315585.1	gene-ACSAL1_RS19225	7.241561841560755	gene-ACZ0AN_RS18365	1.092917446324435	conserved_up		glycoside hydrolase family 32 protein		glycoside hydrolase family 32 protein
+WP_209388311.1	WP_031305057.1	gene-ACSAL1_RS00115	1.2439568592394572	gene-ACZ0AN_RS00130	1.451888254526169	conserved_up		glycoside hydrolase family 18 protein		glycoside hydrolase family 18 protein
+WP_007408511.1	WP_020450572.1	gene-ACSAL1_RS04040	1.5621962991962208	gene-ACZ0AN_RS04335	4.221194628906001	conserved_up	cax	calcium/proton exchanger	cax	calcium/proton exchanger
+WP_007408877.1	WP_043054555.1	gene-ACSAL1_RS03260	2.084538075393253	gene-ACZ0AN_RS03495	-4.802351007364711	opposite		RlpA-like double-psi beta-barrel domain-containing protein		RlpA-like double-psi beta-barrel domain-containing protein
+WP_007409622.1	WP_020451204.1	gene-ACSAL1_RS07210	3.481282891986012	gene-ACZ0AN_RS07920	-4.577602539496137	opposite		flavodoxin		flavodoxin
+WP_007409644.1	WP_020451233.1	gene-ACSAL1_RS07335	-1.5155506402994214	gene-ACZ0AN_RS08070	-1.4030987339116316	conserved_down		aminopeptidase		aminopeptidase
+WP_007409668.1	WP_023857270.1	gene-ACSAL1_RS07495	2.034279976791655	gene-ACZ0AN_RS08175	1.2717001183944705	conserved_up		DUF1054 domain-containing protein		YktB family protein
+WP_014304905.1	WP_371268714.1	gene-ACSAL1_RS07015	1.2981923650871057	gene-ACZ0AN_RS07705	1.8845475853504992	conserved_up		hypothetical protein		hypothetical protein
+WP_014417297.1	WP_043054059.1	gene-ACSAL1_RS04885	2.8475721498146105	gene-ACZ0AN_RS02430	3.9548439060205247	conserved_up	bcaP	branched-chain amino acid transporter BcaP		APC family permease
+WP_014417627.1	WP_020451225.1	gene-ACSAL1_RS07300	3.505726323103006	gene-ACZ0AN_RS08030	1.1100978492429143	conserved_up		DeoR/GlpR family DNA-binding transcription regulator		DeoR/GlpR family DNA-binding transcription regulator
+WP_014418918.1	WP_065643474.1	gene-ACSAL1_RS16020	2.458452532097712	gene-ACZ0AN_RS21290	2.559744906951197	conserved_up		GntP family permease		GntP family permease
+WP_014419101.1	WP_025810647.1	gene-ACSAL1_RS17370	-3.034831962723532	gene-ACZ0AN_RS19555	-1.2177431012426263	conserved_down	glyA	serine hydroxymethyltransferase	glyA	serine hydroxymethyltransferase
+WP_015239156.1	WP_026580546.1	gene-ACSAL1_RS01965	3.676109461208915	gene-ACZ0AN_RS02370	-1.952788493149446	opposite		ABC transporter permease		ABC transporter permease
+WP_072177127.1	WP_003180601.1	gene-ACSAL1_RS05770	-6.248678981085014	gene-ACZ0AN_RS06425	-3.6244983938427335	conserved_down	opp4C	oligopeptide ABC transporter permease	opp4C	oligopeptide ABC transporter permease
+WP_099722005.1	WP_021837601.1	gene-ACSAL1_RS18815	-2.55876392020155	gene-ACZ0AN_RS14200	-5.1753798930889126	conserved_down	desA	Delta(5) desaturase DesA	desA	Delta(5) desaturase DesA
+WP_209387925.1	WP_023856211.1	gene-ACSAL1_RS02770	-1.092789276934534	gene-ACZ0AN_RS17335	2.568189736411496	opposite		cation diffusion facilitator family transporter		cation diffusion facilitator family transporter
+WP_003155039.1	WP_020450934.1	gene-ACSAL1_RS05800	-5.055819567047458	gene-ACZ0AN_RS06460	-1.6545414497964204	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_007409786.1	WP_020451403.1	gene-ACSAL1_RS08335	3.130381515915663	gene-ACZ0AN_RS09035	2.5445732391343325	conserved_up	fliP	flagellar type III secretion system pore protein FliP	fliP	flagellar type III secretion system pore protein FliP
+WP_007410057.1	WP_023856235.1	gene-ACSAL1_RS15450	-3.983602052563433	gene-ACZ0AN_RS17550	-1.2440527918364246	conserved_down	liaH	stress responsive protein LiaH	liaH	stress responsive protein LiaH
+WP_007609051.1	WP_020453237.1	gene-ACSAL1_RS01045	1.33983242682005	gene-ACZ0AN_RS19405	-4.61141002900477	opposite		FecCD family ABC transporter permease		FecCD family ABC transporter permease
+WP_021494235.1	WP_026579388.1	gene-ACSAL1_RS10540	-1.436176868048966	gene-ACZ0AN_RS11975	1.0223574106162967	opposite	lhaT	lipoprotein heptaprenylglyceryl N-acetyltransferase LhaT	lhaT	lipoprotein heptaprenylglyceryl N-acetyltransferase LhaT
+WP_021494261.1	WP_020453440.1	gene-ACSAL1_RS11045	1.2529857526054409	gene-ACZ0AN_RS20500	2.081894459021268	conserved_up	nhaC	Na+/H+ antiporter NhaC	nhaC	Na+/H+ antiporter NhaC
+WP_021494311.1	WP_229078638.1	gene-ACSAL1_RS11720	2.706660024215494	gene-ACZ0AN_RS13275	5.721775366675209	conserved_up	comGF	competence type IV pilus minor pilin ComGF	comGF	competence type IV pilus minor pilin ComGF
+WP_021495277.1	WP_048350469.1	gene-ACSAL1_RS01605	2.34114631589952	gene-ACZ0AN_RS01900	-2.356892514311136	opposite		L-lactate dehydrogenase		L-lactate dehydrogenase
+WP_061862428.1	WP_016885536.1	gene-ACSAL1_RS12565	2.444186567714832	gene-ACZ0AN_RS14595	1.150840620159041	conserved_up		cysteine desulfurase family protein		cysteine desulfurase family protein
+WP_061862522.1	WP_020452750.1	gene-ACSAL1_RS14495	-3.596187968140944	gene-ACZ0AN_RS16625	-2.051487939885206	conserved_down		secondary thiamine-phosphate synthase enzyme YjbQ		secondary thiamine-phosphate synthase enzyme YjbQ
+WP_070082058.1	WP_020453439.1	gene-ACSAL1_RS11040	-1.5951811027343397	gene-ACZ0AN_RS20495	1.915262806810876	opposite		NAD-dependent malic enzyme		NAD-dependent malic enzyme
+WP_209387347.1	WP_261794644.1	gene-ACSAL1_RS09850	-1.6055589681287308	gene-ACZ0AN_RS02695	-1.6592535988056765	conserved_down		macrolide family glycosyltransferase		macrolide family glycosyltransferase
+WP_209387387.1	WP_023857433.1	gene-ACSAL1_RS10525	1.3653232423063832	gene-ACZ0AN_RS11965	-1.0908880674175765	opposite		YitT family protein		YitT family protein
+WP_209387714.1	WP_463315608.1	gene-ACSAL1_RS18075	2.2291589738329782	gene-ACZ0AN_RS01170	-3.265963004798707	opposite		DsbA family oxidoreductase		DsbA family oxidoreductase
+WP_003154256.1	WP_020451391.1	gene-ACSAL1_RS08265	2.800364198316868	gene-ACZ0AN_RS08965	3.3077978853449346	conserved_up	fliG	flagellar motor switch protein FliG	fliG	flagellar motor switch protein FliG
+WP_003154813.1	WP_026579849.1	gene-ACSAL1_RS06535	2.654590525131063	gene-ACZ0AN_RS07050	-3.3189288425597177	opposite		phage holin		phage holin
+WP_012118670.1	WP_094777382.1	gene-ACSAL1_RS17490	1.2934524338336115	gene-ACZ0AN_RS19690	-3.159543353964161	opposite	spo0F	sporulation initiation phosphotransferase Spo0F		response regulator
+WP_012118762.1	WP_023856957.1	gene-ACSAL1_RS18185	-1.32798715998512	gene-ACZ0AN_RS20285	-2.272010136569734	conserved_down	dltB	D-alanyl-lipoteichoic acid biosynthesis protein DltB	dltB	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+WP_014417049.1	WP_229129461.1	gene-ACSAL1_RS02975	-4.989698091990646	gene-ACZ0AN_RS04560	-1.1472407121227914	conserved_down		NUDIX hydrolase		NUDIX hydrolase
+WP_072177665.1	WP_096748019.1	gene-ACSAL1_RS09280	-3.4148839884875617	gene-ACZ0AN_RS07085	-1.3241911366511074	conserved_down		MFS transporter		MFS transporter
+WP_095060814.1	WP_023857403.1	gene-ACSAL1_RS10265	-1.0233882040207214	gene-ACZ0AN_RS11720	1.2873527445537212	opposite		YpbS family protein		YpbS family protein
+WP_115941249.1	WP_463315605.1	gene-ACSAL1_RS00455	1.279205898789943	gene-ACZ0AN_RS00470	1.0720781501968235	conserved_up	pabC	aminodeoxychorismate lyase	pabC	aminodeoxychorismate lyase
+WP_209387606.1	WP_035337735.1	gene-ACSAL1_RS16075	-5.304053247834244	gene-ACZ0AN_RS18230	-7.372771665535743	conserved_down		polysaccharide pyruvyl transferase family protein		polysaccharide pyruvyl transferase family protein
+WP_209387610.1	WP_020453024.1	gene-ACSAL1_RS16105	-4.627131284848838	gene-ACZ0AN_RS18260	-7.2261011820334815	conserved_down		polysaccharide pyruvyl transferase family protein		polysaccharide pyruvyl transferase family protein
+WP_209387645.1	WP_026580178.1	gene-ACSAL1_RS16705	1.964022544178414	gene-ACZ0AN_RS18810	-1.6095770253041737	opposite	tuaH	teichuronic acid biosynthesis protein TuaH	tuaH	teichuronic acid biosynthesis protein TuaH
+WP_209388186.1	WP_026579780.1	gene-ACSAL1_RS07290	-1.9584188577027124	gene-ACZ0AN_RS08015	-1.4100612002764974	conserved_down		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_003151043.1	WP_035400430.1	gene-ACSAL1_RS17660	1.7040206343822075	gene-ACZ0AN_RS19780	1.828967395659849	conserved_up		site-2 protease family protein		site-2 protease family protein
+WP_003151098.1	WP_145608064.1	gene-ACSAL1_RS17500	-1.4558620707375989	gene-ACZ0AN_RS19700	-1.1019484703010642	conserved_down	pyrG	glutamine hydrolyzing CTP synthase		CTP synthase
+WP_003151172.1	WP_020453256.1	gene-ACSAL1_RS17330	-1.139982933092224	gene-ACZ0AN_RS19515	-3.070994633229761	conserved_down	atpG	ATP synthase F1 subunit gamma	atpG	ATP synthase F1 subunit gamma
+WP_003152530.1	WP_003184229.1	gene-ACSAL1_RS13120	1.5248048833480463	gene-ACZ0AN_RS15205	-1.3879552511349222	opposite	pheS	phenylalanine--tRNA ligase subunit alpha	pheS	phenylalanine--tRNA ligase subunit alpha
+WP_003152598.1	WP_020452477.1	gene-ACSAL1_RS12945	-1.3049235218505837	gene-ACZ0AN_RS15015	1.5589519592355838	opposite	ilvN	acetolactate synthase small subunit	ilvN	acetolactate synthase small subunit
+WP_003152606.1	WP_079289277.1	gene-ACSAL1_RS12925	-2.6354942105560446	gene-ACZ0AN_RS14995	1.7586351782831176	opposite	leuC	3-isopropylmalate dehydratase large subunit	leuC	3-isopropylmalate dehydratase large subunit
+WP_007407329.1	WP_020452967.1	gene-ACSAL1_RS06150	1.4858098818293932	gene-ACZ0AN_RS17920	-1.7708413937463243	opposite		MarR family transcriptional regulator		MarR family transcriptional regulator
+WP_007407355.1	WP_026585626.1	gene-ACSAL1_RS09550	-2.016355438723119	gene-ACZ0AN_RS01125	1.3602468061327335	opposite		ArsR/SmtB family transcription factor		ArsR/SmtB family transcription factor
+WP_012118473.1	WP_020452989.1	gene-ACSAL1_RS15850	4.497788556616006	gene-ACZ0AN_RS18065	-1.012236443237037	opposite	opuCD	glycine betaine/carnitine/choline/choline sulfate ABC transporter permease OpuCD		ABC transporter permease
+WP_014416724.1	WP_145645983.1	gene-ACSAL1_RS00325	-2.0192254673011587	gene-ACZ0AN_RS00340	3.4240345525107294	opposite		50S ribosomal protein L25/general stress protein Ctc		50S ribosomal protein L25/general stress protein Ctc
+WP_015240174.1	WP_023855152.1	gene-ACSAL1_RS11355	-1.6246858234659882	gene-ACZ0AN_RS12945	-4.894316630369594	conserved_down	artP	arginine ABC transporter substrate-binding protein ArtP		transporter substrate-binding domain-containing protein
+WP_017418085.1	WP_463315566.1	gene-ACSAL1_RS11160	-2.5713019657575265	gene-ACZ0AN_RS12800	-1.2802637223680269	conserved_down		SDR family NAD(P)-dependent oxidoreductase		SDR family NAD(P)-dependent oxidoreductase
+WP_103527241.1	WP_023856662.1	gene-ACSAL1_RS05840	-1.3084654951068946	gene-ACZ0AN_RS06530	-1.577733947177928	conserved_down	pepF	oligoendopeptidase F	pepF	oligoendopeptidase F
+WP_160216588.1	WP_033155028.1	gene-ACSAL1_RS15665	1.0547244517973966	gene-ACZ0AN_RS17770	1.449109313955821	conserved_up		heavy metal translocating P-type ATPase		heavy metal translocating P-type ATPase
+WP_191389576.1	WP_020450596.1	gene-ACSAL1_RS04150	-11.195098894813908	gene-ACZ0AN_RS04475	3.605080464548224	opposite		dihydrolipoamide acetyltransferase family protein		dihydrolipoamide acetyltransferase family protein
+WP_209388161.1	WP_463315675.1	gene-ACSAL1_RS06740	-3.2494489643743685	gene-ACZ0AN_RS07395	-2.4993873269668105	conserved_down	metE	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	metE	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+WP_209388236.1	WP_020451390.1	gene-ACSAL1_RS08260	3.4725054313654105	gene-ACZ0AN_RS08960	3.6796911097163822	conserved_up	fliF	flagellar basal-body MS-ring/collar protein FliF	fliF	flagellar basal-body MS-ring/collar protein FliF
+WP_003156482.1	WP_003178343.1	gene-ACSAL1_RS00770	-1.3113869044712791	gene-ACZ0AN_RS00780	-1.0759711215952286	conserved_down	rpmC	50S ribosomal protein L29	rpmC	50S ribosomal protein L29
+WP_003156732.1	WP_039073125.1	gene-ACSAL1_RS01245	-1.2127075755551286	gene-ACZ0AN_RS01240	7.017517169470331	opposite		hypothetical protein		hypothetical protein
+WP_007407393.1	WP_020453031.1	gene-ACSAL1_RS16140	-6.158932079809196	gene-ACZ0AN_RS18295	-6.6385789092564265	conserved_down	epsB	protein tyrosine kinase EpsB		CpsD/CapB family tyrosine-protein kinase
+WP_007614574.1	WP_020453353.1	gene-ACSAL1_RS18010	-2.658091998307382	gene-ACZ0AN_RS20020	1.9397287825662768	opposite	ywcE	spore morphogenesis/germination protein YwcE	ywcE	spore morphogenesis/germination protein YwcE
+WP_012117400.1	WP_020451112.1	gene-ACSAL1_RS06780	1.4707027424431158	gene-ACZ0AN_RS07410	1.1640622727591128	conserved_up	mgtE	magnesium transporter	mgtE	magnesium transporter
+WP_014418018.1	WP_463315692.1	gene-ACSAL1_RS09120	-1.3566104852423757	gene-ACZ0AN_RS10070	-1.128110370932544	conserved_down	tkt	transketolase	tkt	transketolase
+WP_014418276.1	WP_023857476.1	gene-ACSAL1_RS10815	-4.085763274900326	gene-ACZ0AN_RS12270	-1.9669826673443105	conserved_down	sigX	RNA polymerase sigma factor SigX	sigX	RNA polymerase sigma factor SigX
+WP_017417565.1	WP_026580390.1	gene-ACSAL1_RS06155	-4.056581530462951	gene-ACZ0AN_RS21215	-3.237853218681953	conserved_down		glycoside hydrolase family 53 protein		arabinogalactan endo-1%2C4-beta-galactosidase
+WP_017417934.1	WP_023856702.1	gene-ACSAL1_RS09520	-2.77387548914099	gene-ACZ0AN_RS06840	2.6638082172339512	opposite		IseA DL-endopeptidase inhibitor family protein		IseA DL-endopeptidase inhibitor family protein
+WP_017418880.1	WP_020453586.1	gene-ACSAL1_RS16015	4.534655238283672	gene-ACZ0AN_RS21285	3.4380819760066843	conserved_up	gntK	gluconokinase	gntK	gluconokinase
+WP_053285216.1	WP_026580633.1	gene-ACSAL1_RS04170	-5.641895983965248	gene-ACZ0AN_RS04495	1.7002237989663442	opposite	glvA	maltose-6'-phosphate glucosidase	glvA	maltose-6'-phosphate glucosidase
+WP_072177123.1	WP_011197760.1	gene-ACSAL1_RS05720	1.8716559730511635	gene-ACZ0AN_RS06370	1.1596396710157753	conserved_up		BMP family ABC transporter substrate-binding protein		BMP family ABC transporter substrate-binding protein
+WP_072177268.1	WP_020450979.1	gene-ACSAL1_RS13200	-2.863511195125348	gene-ACZ0AN_RS06780	-3.5605575553959428	conserved_down	abnA	arabinan endo-1%2C5-alpha-L-arabinosidase AbnA		glycoside hydrolase family 43 protein
+WP_072177466.1	WP_219192392.1	gene-ACSAL1_RS15740	4.0107574628736655	gene-ACZ0AN_RS01660	1.6877375266949672	conserved_up		LysR family transcriptional regulator		LysR family transcriptional regulator
+WP_209387737.1	WP_095291296.1	gene-ACSAL1_RS18400	3.067544482103943	gene-ACZ0AN_RS20755	3.599884255488605	conserved_up		NupC/NupG family nucleoside CNT transporter		nucleoside transporter C-terminal domain-containing protein
+WP_209388331.1	WP_025812022.1	gene-ACSAL1_RS06685	1.3726065950478916	gene-ACZ0AN_RS07345	-1.3375279001679892	opposite	proB	glutamate 5-kinase	proB	glutamate 5-kinase
+WP_481748176.1	WP_223254842.1	gene-ACSAL1_RS06630	-6.915074070503004	gene-ACZ0AN_RS07270	-2.080417057175623	conserved_down		S66 peptidase family protein		S66 peptidase family protein
+WP_004264624.1	WP_023855976.1	gene-ACSAL1_RS00400	-1.153786424088945	gene-ACZ0AN_RS00415	-1.5508668999540294	conserved_down		vWA domain-containing protein		vWA domain-containing protein
+WP_004264660.1	WP_003178198.1	gene-ACSAL1_RS00310	-3.525556558158748	gene-ACZ0AN_RS00325	-2.134580376447448	conserved_down	spoVG	septation regulator SpoVG	spoVG	septation regulator SpoVG
+WP_007407236.1	WP_073425569.1	gene-ACSAL1_RS06670	-1.1033540941970057	gene-ACZ0AN_RS07330	1.5441111958094058	opposite		DMT family transporter		DMT family transporter
+WP_007611430.1	WP_020451393.1	gene-ACSAL1_RS08275	3.9940696941530094	gene-ACZ0AN_RS08975	3.2624271727740424	conserved_up	fliI	flagellar protein export ATPase FliI	fliI	flagellar protein export ATPase FliI
+WP_007613424.1	WP_003184834.1	gene-ACSAL1_RS14675	1.705470435359267	gene-ACZ0AN_RS16825	2.1793719584024784	conserved_up		Na(+)/H(+) antiporter subunit B		Na(+)/H(+) antiporter subunit B
+WP_209387474.1	WP_026579135.1	gene-ACSAL1_RS12820	-2.56843051063462	gene-ACZ0AN_RS14890	-1.1149064392155257	conserved_down		SPOR domain-containing protein		SPOR domain-containing protein
+WP_209387477.1	WP_023855435.1	gene-ACSAL1_RS12930	-2.085965205896803	gene-ACZ0AN_RS15000	1.6794544053024325	opposite	leuB	3-isopropylmalate dehydrogenase	leuB	3-isopropylmalate dehydrogenase
+WP_209388004.1	WP_309539798.1	gene-ACSAL1_RS04055	2.088500777645496	gene-ACZ0AN_RS04345	1.5046820075525442	conserved_up	yfkAB	radical SAM/CxCxxxxC motif protein YfkAB	yfkAB	radical SAM/CxCxxxxC motif protein YfkAB
+WP_003155121.1	WP_023856619.1	gene-ACSAL1_RS05530	-1.5086547851029737	gene-ACZ0AN_RS06130	5.532628383760056	opposite		MATE family efflux transporter		MATE family efflux transporter
+WP_003155168.1	WP_020453458.1	gene-ACSAL1_RS05375	-3.5908020030237653	gene-ACZ0AN_RS20590	-4.843089826321791	conserved_down		excalibur calcium-binding domain-containing protein		excalibur calcium-binding domain-containing protein
+WP_003155205.1	WP_020450815.1	gene-ACSAL1_RS05270	1.392111982212684	gene-ACZ0AN_RS05740	-1.6220079813126158	opposite	lplA	lipoate--protein ligase	lplJ	lipoate--protein ligase LplJ
+WP_003156187.1	WP_003179128.1	gene-ACSAL1_RS02495	1.8202667120863905	gene-ACZ0AN_RS02825	1.104202234761822	conserved_up	ndoA	type II toxin-antitoxin system endoribonuclease NdoA	ndoA	type II toxin-antitoxin system endoribonuclease NdoA
+WP_007408340.1	WP_020452152.1	gene-ACSAL1_RS11630	-1.8898012507950912	gene-ACZ0AN_RS13170	1.045650708927464	opposite		SA1362 family protein		SA1362 family protein
+WP_007408346.1	WP_025811169.1	gene-ACSAL1_RS11565	-1.1732899667639745	gene-ACZ0AN_RS13100	-1.96515987120526	conserved_down		SpoIIIAH-like family protein		SpoIIIAH-like family protein
+WP_007409532.1	WP_020451873.1	gene-ACSAL1_RS10130	-1.1780858496444555	gene-ACZ0AN_RS11580	2.421375478564936	opposite		DUF2535 family protein		YpmP family protein
+WP_014417243.1	WP_020450630.1	gene-ACSAL1_RS04380	1.0693866116782105	gene-ACZ0AN_RS04680	1.042321883053299	conserved_up		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_014418006.1	WP_224067360.1	gene-ACSAL1_RS09020	-5.938738416701198	gene-ACZ0AN_RS09915	-1.5090883583088348	conserved_down		DUF4944 domain-containing protein		DUF4944 domain-containing protein
+WP_029973137.1	WP_023856670.1	gene-ACSAL1_RS05895	2.250454818324115	gene-ACZ0AN_RS06585	1.6151865424036524	conserved_up		monovalent cation:proton antiporter family protein		monovalent cation:proton antiporter family protein
+WP_029974790.1	WP_105980644.1	gene-ACSAL1_RS01235	-4.325198573947126	gene-ACZ0AN_RS01230	3.6719838094077417	opposite		sigma-G-dependent sporulation-specific acid-soluble spore protein CsgA		sporulation protein
+WP_029974845.1	WP_020449778.1	gene-ACSAL1_RS00105	2.194139027547008	gene-ACZ0AN_RS00120	-1.2956409439331436	opposite	dck	deoxyadenosine/deoxycytidine kinase		deoxynucleoside kinase
+WP_191389150.1	WP_144498830.1	gene-ACSAL1_RS14445	4.679494986978738	gene-ACZ0AN_RS16605	2.9078278432493185	conserved_up		methyl-accepting chemotaxis protein	tlpB	methyl-accepting chemotaxis protein TlpB
+WP_209387363.1	WP_341045444.1	gene-ACSAL1_RS19500	-3.4477764211995146	gene-ACZ0AN_RS09965	-1.505989903339306	conserved_down		hypothetical protein		hypothetical protein
+WP_209387952.1	WP_095292983.1	gene-ACSAL1_RS03265	1.761633347001195	gene-ACZ0AN_RS03500	-4.309510473591397	opposite		TolB family protein		PD40 domain-containing protein
+WP_003152509.1	WP_101561172.1	gene-ACSAL1_RS13185	-2.9576292793111807	gene-ACZ0AN_RS15270	-1.0706485468721765	conserved_down	araD	L-ribulose-5-phosphate 4-epimerase	araD	L-ribulose-5-phosphate 4-epimerase
+WP_003153553.1	WP_020451903.1	gene-ACSAL1_RS10320	1.8105102411149507	gene-ACZ0AN_RS11755	1.1355684857703972	conserved_up	xpt	xanthine phosphoribosyltransferase	xpt	xanthine phosphoribosyltransferase
+WP_014417163.1	WP_095292898.1	gene-ACSAL1_RS03795	-1.258578527454299	gene-ACZ0AN_RS04080	3.105758366015483	opposite		NADP-dependent oxidoreductase		NADP-dependent oxidoreductase
+WP_017418119.1	WP_020452123.1	gene-ACSAL1_RS11450	3.372993806845316	gene-ACZ0AN_RS13010	5.0403480012767234	conserved_up		N-acetylmuramoyl-L-alanine amidase family protein		N-acetylmuramoyl-L-alanine amidase family protein
+WP_079891065.1	WP_023856206.1	gene-ACSAL1_RS07100	2.11477180350883	gene-ACZ0AN_RS17295	-2.214427526677781	opposite		hypothetical protein		hypothetical protein
+WP_209387696.1	WP_025810622.1	gene-ACSAL1_RS17740	1.779168758728631	gene-ACZ0AN_RS19820	-1.8521797307436456	opposite	lipL	octanoyl-[GcvH]:protein N-octanoyltransferase	lipL	octanoyl-[GcvH]:protein N-octanoyltransferase
+WP_209388308.1	WP_463315699.1	gene-ACSAL1_RS09480	-5.3843961651292	gene-ACZ0AN_RS10630	-3.901893420772362	conserved_down		non-ribosomal peptide synthetase		non-ribosomal peptide synthetase
+WP_209388365.1	WP_026580174.1	gene-ACSAL1_RS16660	-1.593682893912475	gene-ACZ0AN_RS18760	-1.619776173495816	conserved_down		phosphoribosyltransferase family protein		ComF family protein
+WP_348633730.1	WP_020451333.1	gene-ACSAL1_RS07930	-3.2047663766583256	gene-ACZ0AN_RS08635	1.4716358934713072	opposite	pyrE	orotate phosphoribosyltransferase	pyrE	orotate phosphoribosyltransferase
+WP_003153123.1	WP_020452147.1	gene-ACSAL1_RS11610	-1.143420179507702	gene-ACZ0AN_RS13145	-2.1926173041155104	conserved_down	efp	elongation factor P	efp	elongation factor P
+WP_003155211.1	WP_065643331.1	gene-ACSAL1_RS05255	-1.6948389488596585	gene-ACZ0AN_RS05725	2.641215162549824	opposite	gltT	glutamate/proton symporter GltT		cation:dicarboxylate symporter family transporter
+WP_003155609.1	WP_003179731.1	gene-ACSAL1_RS03900	4.082429677204219	gene-ACZ0AN_RS04165	6.181953440595755	conserved_up		YflJ family protein		DUF2639 domain-containing protein
+WP_003155658.1	WP_003179703.1	gene-ACSAL1_RS03770	1.1579135192629872	gene-ACZ0AN_RS04060	-1.5438088138819006	opposite		MerR family transcriptional regulator		MerR family transcriptional regulator
+WP_029973644.1	WP_020451957.1	gene-ACSAL1_RS10630	-1.5875557494646364	gene-ACZ0AN_RS12070	1.1529435444944471	opposite	aroC	chorismate synthase	aroC	chorismate synthase
+WP_032875437.1	WP_020450536.1	gene-ACSAL1_RS19015	5.85197212620206	gene-ACZ0AN_RS04150	2.6438586654010647	conserved_up		autorepressor SdpR family transcription factor		autorepressor SdpR family transcription factor
+WP_209387430.1	WP_145645271.1	gene-ACSAL1_RS11700	-5.414827015524714	gene-ACZ0AN_RS13255	-5.237453988355179	conserved_down	tapA	amyloid fiber anchoring/assembly protein TapA	tapA	amyloid fiber anchoring/assembly protein TapA
+WP_209387434.1	WP_035338373.1	gene-ACSAL1_RS11760	3.463128435122114	gene-ACZ0AN_RS13305	8.246250521331486	conserved_up		STAS domain-containing protein		STAS domain-containing protein
+WP_209387490.1	WP_463315718.1	gene-ACSAL1_RS13190	-2.191569416121548	gene-ACZ0AN_RS15275	-1.2012489340832528	conserved_down	araB	ribulokinase	araB	ribulokinase
+WP_209387532.1	WP_249726888.1	gene-ACSAL1_RS14375	8.191428088473684	gene-ACZ0AN_RS16455	1.077519362569429	conserved_up	gbsB	choline dehydrogenase		iron-containing alcohol dehydrogenase
+WP_209388250.1	WP_096748459.1	gene-ACSAL1_RS08655	-3.463643358243816	gene-ACZ0AN_RS09365	-3.558855755879634	conserved_down	tdh	L-threonine 3-dehydrogenase	tdh	L-threonine 3-dehydrogenase
+WP_007408038.1	WP_020452593.1	gene-ACSAL1_RS13570	-3.145248356799367	gene-ACZ0AN_RS15650	-1.9154880386468256	conserved_down	refZ	forespore capture DNA-binding protein RefZ	refZ	forespore capture DNA-binding protein RefZ
+WP_007408068.1	WP_020452561.1	gene-ACSAL1_RS13405	1.383310739401985	gene-ACZ0AN_RS15475	1.4866514556053834	conserved_up	pfkA	6-phosphofructokinase	pfkA	6-phosphofructokinase
+WP_007409411.1	WP_020452033.1	gene-ACSAL1_RS10990	-5.384291681209092	gene-ACZ0AN_RS12485	-2.259187962918794	conserved_down	spoIIAA	anti-sigma F factor antagonist	spoIIAA	anti-sigma F factor antagonist
+WP_007409428.1	WP_023857488.1	gene-ACSAL1_RS10870	1.816814898319964	gene-ACZ0AN_RS12350	1.1234897424884465	conserved_up	scpB	SMC-Scp complex subunit ScpB	scpB	SMC-Scp complex subunit ScpB
+WP_014417774.1	WP_020451401.1	gene-ACSAL1_RS08320	2.3046912605908334	gene-ACZ0AN_RS09020	2.2565644540039576	conserved_up	fliY	flagellar motor switch phosphatase FliY	fliY	flagellar motor switch phosphatase FliY
+WP_014418737.1	WP_101561528.1	gene-ACSAL1_RS14490	-2.793533390842305	gene-ACZ0AN_RS16620	-1.3029383433019188	conserved_down		nitronate monooxygenase		nitronate monooxygenase
+WP_017418586.1	WP_023855487.1	gene-ACSAL1_RS18425	-7.831193880278129	gene-ACZ0AN_RS15450	-2.0062871553606927	conserved_down	bglS	beta-glucanase	bglS	beta-glucanase
+WP_017419343.1	WP_145645580.1	gene-ACSAL1_RS01460	-7.353782609972714	gene-ACZ0AN_RS12620	-2.780709877820229	conserved_down	estA	lipase EstA		esterase/lipase family protein
+WP_017419440.1	WP_023856175.1	gene-ACSAL1_RS14895	2.005635010301212	gene-ACZ0AN_RS17030	-1.529987250548871	opposite		3D domain-containing protein		3D domain-containing protein
+WP_209387349.1	WP_095291970.1	gene-ACSAL1_RS09860	1.1535796363686803	gene-ACZ0AN_RS11330	2.154910736439455	conserved_up		MATE family efflux transporter		MATE family efflux transporter
+WP_007410316.1	WP_075754574.1	gene-ACSAL1_RS09220	-3.086565898205176	gene-ACZ0AN_RS10180	1.3276077696606854	opposite		CoA-binding protein		CoA-binding protein
+WP_007611631.1	WP_003182143.1	gene-ACSAL1_RS08880	-1.1102491184189558	gene-ACZ0AN_RS09845	1.3127426231337245	opposite	glnR	transcriptional repressor GlnR		MerR family transcriptional regulator
+WP_209387950.1	WP_026578964.1	gene-ACSAL1_RS03225	-1.4296846066505933	gene-ACZ0AN_RS03355	-3.299031562865056	conserved_down		TFIIB-type zinc ribbon-containing protein		TFIIB-type zinc ribbon-containing protein
+WP_209388319.1	WP_023855607.1	gene-ACSAL1_RS03525	1.4358813523689604	gene-ACZ0AN_RS03825	-1.63659087644803	opposite		efflux RND transporter permease subunit		efflux RND transporter permease subunit
+WP_003151176.1	WP_020453254.1	gene-ACSAL1_RS17320	2.235286187813312	gene-ACZ0AN_RS19505	-3.2480737421173886	opposite		F0F1 ATP synthase subunit epsilon		F0F1 ATP synthase subunit epsilon
+WP_003152221.1	WP_020452693.1	gene-ACSAL1_RS14200	-1.1329378444448417	gene-ACZ0AN_RS16220	-1.1359840513715325	conserved_down	menB	1%2C4-dihydroxy-2-naphthoyl-CoA synthase	menB	1%2C4-dihydroxy-2-naphthoyl-CoA synthase
+WP_003152276.1	WP_023855837.1	gene-ACSAL1_RS14005	-2.5283029410378783	gene-ACZ0AN_RS16025	-2.118491656725669	conserved_down		ABC transporter ATP-binding protein		ATP-binding cassette domain-containing protein
+WP_003152355.1	WP_095290805.1	gene-ACSAL1_RS13825	1.0248470662609626	gene-ACZ0AN_RS15815	1.1432461597378771	conserved_up		phosphotransferase family protein		phosphotransferase family protein
+WP_003152366.1	WP_020452616.1	gene-ACSAL1_RS13800	-2.666758789491138	gene-ACZ0AN_RS15790	2.929892324451709	opposite		PepSY domain-containing protein		PepSY domain-containing protein
+WP_007408653.1	WP_020452765.1	gene-ACSAL1_RS14570	4.312788476026074	gene-ACZ0AN_RS16710	1.1976237374573375	conserved_up	yugI	S1 domain-containing post-transcriptional regulator GSP13	yugI	S1 domain-containing post-transcriptional regulator GSP13
+WP_007408889.1	WP_035338016.1	gene-ACSAL1_RS03350	5.105124616391608	gene-ACZ0AN_RS20660	2.244147704505921	conserved_up		sigma-70 family RNA polymerase sigma factor		sigma-70 family RNA polymerase sigma factor
+WP_007408914.1	WP_197407002.1	gene-ACSAL1_RS03500	5.365230475091405	gene-ACZ0AN_RS03785	3.515375190125015	conserved_up	putP	sodium/proline symporter PutP	putP	sodium/proline symporter PutP
+WP_012118534.1	WP_020453057.1	gene-ACSAL1_RS16330	-2.0460311637522515	gene-ACZ0AN_RS18445	-2.600183299210165	conserved_down		HPr family phosphocarrier protein		HPr family phosphocarrier protein
+WP_014306172.1	WP_020453626.1	gene-ACSAL1_RS19140	-1.112984493148536	gene-ACZ0AN_RS21530	1.18223088972519	opposite		YycC family protein		YycC family protein
+WP_014419065.1	WP_023855236.1	gene-ACSAL1_RS17045	-1.3428362111623129	gene-ACZ0AN_RS13625	-1.9496417070316203	conserved_down		coiled-coil domain-containing protein		YwqH-like family protein
+WP_015240188.1	WP_025811173.1	gene-ACSAL1_RS11445	1.1250715666314033	gene-ACZ0AN_RS13005	1.3861192515848193	conserved_up		glycerophosphodiester phosphodiesterase		glycerophosphodiester phosphodiesterase
+WP_032871062.1	WP_026580001.1	gene-ACSAL1_RS04755	-2.3881775566403385	gene-ACZ0AN_RS05125	-1.413771278443312	conserved_down		class D sortase		class D sortase
+WP_209387390.1	WP_020451953.1	gene-ACSAL1_RS10610	-2.151173644438969	gene-ACZ0AN_RS12050	1.5016645760331169	opposite	trpD	anthranilate phosphoribosyltransferase	trpD	anthranilate phosphoribosyltransferase
+WP_209387396.1	WP_023857473.1	gene-ACSAL1_RS10805	1.3315193576760782	gene-ACZ0AN_RS12255	1.1465950839630534	conserved_up	serA	phosphoglycerate dehydrogenase	serA	phosphoglycerate dehydrogenase
+WP_209387420.1	WP_020453408.1	gene-ACSAL1_RS11425	-3.495373878299682	gene-ACZ0AN_RS20345	-1.4137248123216564	conserved_down	mmgD	citrate synthase	mmgD	citrate synthase
+WP_209388282.1	WP_249726465.1	gene-ACSAL1_RS09175	-2.4861835909166703	gene-ACZ0AN_RS10125	1.0441283942162447	opposite	acnA	aconitate hydratase AcnA	acnA	aconitate hydratase AcnA
+WP_209388309.1	WP_463315700.1	gene-ACSAL1_RS09485	-6.366259052420619	gene-ACZ0AN_RS10635	-3.352403291410545	conserved_down		non-ribosomal peptide synthetase		non-ribosomal peptide synthetase
+WP_003153484.1	WP_003182954.1	gene-ACSAL1_RS10555	-4.725948944265332	gene-ACZ0AN_RS11995	1.750229514902141	opposite		Rieske (2Fe-2S) protein		QcrA and Rieske domain-containing protein
+WP_014418920.1	WP_020453014.1	gene-ACSAL1_RS16045	4.560901559848377	gene-ACZ0AN_RS18205	3.1969279971088773	conserved_up		(Fe-S)-binding protein		(Fe-S)-binding protein
+WP_029973489.1	WP_020451337.1	gene-ACSAL1_RS07950	1.2778710164094236	gene-ACZ0AN_RS08660	-5.471663299667839	opposite	cysC	adenylyl-sulfate kinase	cysC	adenylyl-sulfate kinase
+WP_032876691.1	WP_020452859.1	gene-ACSAL1_RS15120	-6.386203629300206	gene-ACZ0AN_RS17275	-1.656091246306207	conserved_down		endonuclease I family protein		endonuclease I family protein
+WP_129092165.1	WP_020451407.1	gene-ACSAL1_RS08355	3.879006538568614	gene-ACZ0AN_RS09055	1.3366366049902911	conserved_up	flhA	flagellar biosynthesis protein FlhA	flhA	flagellar biosynthesis protein FlhA
+WP_003154591.1	WP_020451209.1	gene-ACSAL1_RS07240	-2.025868183887637	gene-ACZ0AN_RS07950	-2.919646456464864	conserved_down	rok	transcriptional regulator Rok	rok	transcriptional regulator Rok
+WP_007409759.1	WP_065644115.1	gene-ACSAL1_RS08105	1.8792132559483523	gene-ACZ0AN_RS08810	-1.8305464798431896	opposite	fabD	ACP S-malonyltransferase	fabD	ACP S-malonyltransferase
+WP_014417349.1	WP_023856571.1	gene-ACSAL1_RS05295	-9.320798621267242	gene-ACZ0AN_RS05775	-2.04276053453538	conserved_down		S8 family peptidase		S8 family peptidase
+WP_014417775.1	WP_020451405.1	gene-ACSAL1_RS08345	3.656310504987644	gene-ACZ0AN_RS09045	2.3705487754016388	conserved_up	fliR	flagellar biosynthetic protein FliR	fliR	flagellar biosynthetic protein FliR
+WP_017419351.1	WP_039073164.1	gene-ACSAL1_RS01500	1.8156798797031728	gene-ACZ0AN_RS01780	8.815510035328394	conserved_up		glucose 1-dehydrogenase		glucose 1-dehydrogenase
+WP_021494259.1	WP_020452034.1	gene-ACSAL1_RS10995	-1.1265293007578996	gene-ACZ0AN_RS12490	-2.1015680993980057	conserved_down		D-alanyl-D-alanine carboxypeptidase family protein		D-alanyl-D-alanine carboxypeptidase family protein
+WP_072177025.1	WP_026580205.1	gene-ACSAL1_RS16850	1.4490098873404655	gene-ACZ0AN_RS19020	1.5619671080812212	conserved_up		Cof-type HAD-IIB family hydrolase		Cof-type HAD-IIB family hydrolase
+WP_209387625.1	WP_249726791.1	gene-ACSAL1_RS16420	3.210608356380664	gene-ACZ0AN_RS18520	3.590385817725823	conserved_up		ATP phosphoribosyltransferase regulatory subunit		ATP phosphoribosyltransferase regulatory subunit
+WP_209387999.1	WP_033155041.1	gene-ACSAL1_RS03985	-4.212611520205599	gene-ACZ0AN_RS04290	-1.6323673048408187	conserved_down		multifunctional 2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase/5'-nucleotidase		multifunctional 2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase/5'-nucleotidase
+WP_003154238.1	WP_003181796.1	gene-ACSAL1_RS08325	1.185366317199953	gene-ACZ0AN_RS09025	2.016815612741874	conserved_up	cheY	chemotaxis protein CheY		response regulator
+WP_003154253.1	WP_020451394.1	gene-ACSAL1_RS08280	5.466398898808754	gene-ACZ0AN_RS08980	3.809036764196883	conserved_up	fliJ	flagellar export protein FliJ	fliJ	flagellar export protein FliJ
+WP_007408816.1	WP_025810970.1	gene-ACSAL1_RS13985	1.4773183323332617	gene-ACZ0AN_RS16015	-2.6464088711482483	opposite		ABC transporter ATP-binding protein		ABC transporter ATP-binding protein
+WP_007409116.1	WP_003180605.1	gene-ACSAL1_RS05775	-2.337801543766957	gene-ACZ0AN_RS06435	-2.135173868105693	conserved_down		YjbA family protein		YjbA family protein
+WP_007409599.1	WP_020451176.1	gene-ACSAL1_RS07060	3.7861387443992327	gene-ACZ0AN_RS07755	2.21209471102187	conserved_up	ptsG	glucose-specific PTS transporter subunit IIBC	ptsG	glucose-specific PTS transporter subunit IIBC
+WP_014418691.1	WP_003184565.1	gene-ACSAL1_RS14010	-2.208048855647418	gene-ACZ0AN_RS16030	-1.2215094438834206	conserved_down	ytrA	GntR family transcriptional regulator YtrA		GntR family transcriptional regulator
+WP_072177850.1	WP_059230941.1	gene-ACSAL1_RS15765	1.1830450438078244	gene-ACZ0AN_RS18030	2.354095359953736	conserved_up	rnr	ribonuclease R	rnr	ribonuclease R
+WP_209387755.1	WP_154059144.1	gene-ACSAL1_RS18670	3.834205055219856	gene-ACZ0AN_RS21140	-2.1778166778646613	opposite		iron-hydroxamate ABC transporter substrate-binding protein		iron-hydroxamate ABC transporter substrate-binding protein
+WP_209388112.1	WP_025811895.1	gene-ACSAL1_RS06090	1.6445567661712472	gene-ACZ0AN_RS04850	-1.4634069937670842	opposite		contact-dependent growth inhibition system immunity protein		contact-dependent growth inhibition system immunity protein
+WP_209388143.1	WP_026579857.1	gene-ACSAL1_RS06480	2.96362666569164	gene-ACZ0AN_RS07005	1.2086146716069857	conserved_up		XkdQ/YqbQ family protein		XkdQ/YqbQ family protein

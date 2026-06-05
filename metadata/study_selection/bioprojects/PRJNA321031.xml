@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="321031">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA321031" archive="NCBI" id="321031"/>
+        <CenterID center="GEO" id="0">GSE81238</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Bacillus subtilis subsp. subtilis str. 168</Name>
+        <Title>Analysis of differential gene expression during Bacillus subtilis spore outgrowth in high-salinity environments using RNA sequencing</Title>
+        <Description>Overall, salt stress seemed to slow down the complex molecular reorganization processes (‘ripening’) of outgrowing spores by exerting detrimental effects on vegetative functions such as amino acid metabolism. Overall design: 3 conditions 4 time points</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE81238</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2016-10-22T00:00:00Z" id="27766092" status="ePublished">
+          <Reference>27766092</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Environmental>Yes</Environmental>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="224308">
+              <OrganismName>Bacillus subtilis subsp. subtilis str. 168</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2016-10-24" submission_id="SUB2034256" submitted="2016-05-09">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Molecular Genetics, university of Groningen</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB2034256-gse81238"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

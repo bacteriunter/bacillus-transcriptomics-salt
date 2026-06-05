@@ -1,0 +1,6 @@
+Bacillus RNA-Seq salt stress
+Bacillus transcriptome NaCl
+Bacillus osmotic stress RNA-seq
+Bacillus salinity transcriptome
+Bacillus salt response RNA-seq
+Bacillus sodium chloride transcriptome

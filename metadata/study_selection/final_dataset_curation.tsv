@@ -1,0 +1,6 @@
+BioProject	Species	Strain	Design	Control	Treatment	NaCl	Replicates	Timepoints	Platform	Role	Status	Notes
+PRJNA1402157	Bacillus velezensis	HR6-1	control_vs_salt	TSB	TSB_plus_NaCl	800_mM	3_vs_3	1	Illumina	core	include	clear control vs salt design
+PRJNA1109437	Bacillus paralicheniformis	BL-1	control_vs_salt	SPSM_0.5_percent_NaCl	SPSM_10_percent_NaCl	10_percent	3_vs_3	1	Illumina	core	include	confirmed from associated article
+PRJNA252753	Bacillus licheniformis	WX-02	control_vs_salt	normal_condition	NaCl_6_percent	6_percent	1_vs_1	1	Illumina	core_limited	include_with_caution	no biological replicates detected from SRA
+PRJNA321031	Bacillus subtilis	168	timecourse_salt	no_salt	salt	pending	pending	30_60_90_min	Ion_Torrent	complementary	include_secondary	spore outgrowth time-course
+PRJNA854068	Bacillus subtilis	168	osmotic_plus_antibiotic	pending	pending	pending	3_conditions	1	Illumina	excluded	exclude	confounded by antibiotic and VBNC state

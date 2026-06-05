@@ -1,0 +1,6 @@
+BioProject	Species	Design	Control	Treatment	Replicates	Timepoints	NaCl	Platform	Status	Notes
+PRJNA1402157	Bacillus velezensis	control_vs_salt	TSB	800mM_NaCl	3_vs_3	1	pending	Illumina	include	clear_design
+PRJNA252753	Bacillus licheniformis	control_vs_salt	pending	pending	pending	1	6_percent	Illumina	review	verify_replicates
+PRJNA321031	Bacillus subtilis	timecourse_salt	no_salt	salt	pending	30_60_90	pending	IonTorrent	review	spore_outgrowth
+PRJNA1109437	Bacillus paralicheniformis	unknown	NS	S	pending	1	pending	Illumina	review	verify_conditions
+PRJNA854068	Bacillus subtilis	osmotic_plus_antibiotic	osmotic	VBNC	pending	1	pending	Illumina	exclude	confounded

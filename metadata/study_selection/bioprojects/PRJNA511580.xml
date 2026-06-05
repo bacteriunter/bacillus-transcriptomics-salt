@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="511580">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA511580" archive="NCBI" id="511580"/>
+        <CenterID center="GEO" id="0">GSE124307</CenterID>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Dual functionality of the TasA amyloid protein in Bacillus physiology and fitness on the phylloplane</Name>
+        <Title>Dual functionality of the TasA amyloid protein in Bacillus physiology and fitness on the phylloplane</Title>
+        <Description>We report the application of a high-throughput technique, RNA-seq, to study the transcriptomic response of a Bacillus subtilis mutant for the tasA gene growing in biofilm-inducing solid medium (MSgg). Overall design: B. subtilis NCIB 3610 tasA mutant and WT mRNA profiles comparing their growth in solid MSgg medium at 24 and 48 h of growth to complement the data obtained at 72 h of growth.</Description>
+        <ExternalLink label="">
+          <dbXREF db="GEO">
+            <ID>GSE124307</ID>
+          </dbXREF>
+        </ExternalLink>
+        <Publication date="2020-04-22T00:00:00Z" id="32313019" status="ePublished">
+          <Reference>32313019</Reference>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Relevance>
+          <Other>Unknown</Other>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eMultiisolate">
+            <Organism species="1423" taxID="535026">
+              <OrganismName>Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10</OrganismName>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eExpression"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Transcriptome or Gene expression</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2020-04-27" submission_id="SUB7335785" submitted="2018-12-23">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>University of Malaga</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB7335785-gse124307"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

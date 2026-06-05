@@ -1,0 +1,5 @@
+species	selected_accession	genome_fna	gff	protein_faa	cds_fasta
+Bacillus_paralicheniformis	GCF_979930925.1	references/genomes/GCF_979930925.1/GCF_979930925.1_SRL656_genomic.fna	references/gff/GCF_979930925.1/genomic.gff	references/proteins/GCF_979930925.1/protein.faa	references/transcripts/GCF_979930925.1_cds.fasta
+Bacillus_velezensis	GCF_057365115.1	references/genomes/GCF_057365115.1/GCF_057365115.1_ASM5736511v1_genomic.fna	references/gff/GCF_057365115.1/genomic.gff	references/proteins/GCF_057365115.1/protein.faa	references/transcripts/GCF_057365115.1_cds.fasta
+Bacillus_licheniformis	GCF_000258125.2	references/genomes/GCF_000258125.2/GCF_000258125.2_ASM25812v2_genomic.fna	references/gff/GCF_000258125.2/genomic.gff	references/proteins/GCF_000258125.2/protein.faa	references/transcripts/GCF_000258125.2_cds.fasta
+Bacillus_subtilis	GCF_000009045.1	references/genomes/GCF_000009045.1/GCF_000009045.1_ASM904v1_genomic.fna	references/gff/GCF_000009045.1/genomic.gff	references/proteins/GCF_000009045.1/protein.faa	references/transcripts/GCF_000009045.1_cds.fasta

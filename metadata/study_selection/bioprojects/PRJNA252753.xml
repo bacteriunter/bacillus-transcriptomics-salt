@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="252753">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA252753" archive="NCBI" id="252753"/>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Bacillus licheniformis WX-02</Name>
+        <Title>Bacillus licheniformis WX-02 Transcriptome or Gene expression</Title>
+        <Description>The goal of this project is to explore the trancriptome profiles of B. licheniformis WX-02 under normal condition and high salt treatment (NaCl 6%) using specific-strand RNA- sequencing</Description>
+        <Relevance>
+          <Industrial>yes</Industrial>
+        </Relevance>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eTranscriptome" sample_scope="eOther">
+            <Organism species="1402" taxID="1126218">
+              <OrganismName>Bacillus licheniformis WX-02</OrganismName>
+              <Strain>WX-02</Strain>
+              <Supergroup>eBacteria</Supergroup>
+            </Organism>
+            <Description>Bacillus licheniformis WX-02 reads</Description>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>transcriptome</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>transcriptome</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2014-06-13" submitted="2014-06-13" submission_id="SUB567705">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Huazhong Agricultural University</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB567705-1"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>

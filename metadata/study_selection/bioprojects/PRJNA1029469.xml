@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RecordSet>
+<RecordSet>
+  <DocumentSummary uid="1029469">
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA1029469" archive="NCBI" id="1029469"/>
+        <LocalID>bp0</LocalID>
+        <LocalID>bp0</LocalID>
+      </ProjectID>
+      <ProjectDescr>
+        <Title>Chromosome Bacillus 05-5402 sequencing</Title>
+        <Description>Bacillus pumilus05-5402, which is a TSNAs-degrading bacterium, was placed in TSNAs medium until the logarithmic phase of growth, and the organisms were collected and transcriptome sequencing was performed using illuminate to elucidate the degradation mechanism.</Description>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultispecies"/>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eRawSequenceReads"/>
+          </Objectives>
+          <IntendedDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </IntendedDataTypeSet>
+          <ProjectDataTypeSet>
+            <DataType>raw sequence reads</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission last_update="2023-10-18" submission_id="SUB13909791" submitted="2023-10-18">
+      <Description>
+        <Organization role="owner" type="institute">
+          <Name>Kunming University of Science and Technology</Name>
+        </Organization>
+        <Access>public</Access>
+      </Description>
+      <Action action_id="SUB13909791-bp0"/>
+    </Submission>
+  </DocumentSummary>
+</RecordSet>
