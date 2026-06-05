@@ -16,3 +16,10 @@ project_audit/
 *.bt2
 *.idx
 *.tar.gz
+results/tables/main_results/
+references/reference_genomes.zip
+results/enrichment/kofam/background_rbh_kofam.tsv
+results/enrichment/kofam/conserved_up.tsv
+results/enrichment/kofam/conserved_down.tsv
+results/enrichment/kofam/opposite.tsv
+.snakemake/
