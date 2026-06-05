@@ -1,0 +1,20 @@
+name: bacillus_transcriptomics_salt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - snakemake
+  - r-base
+  - r-tidyverse
+  - r-ggplot2
+  - r-ggrepel
+  - r-pheatmap
+  - bioconductor-deseq2
+  - bioconductor-tximport
+  - salmon
+  - mmseqs2
+  - hmmer
+  - parallel
