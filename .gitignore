@@ -23,3 +23,5 @@ results/enrichment/kofam/conserved_up.tsv
 results/enrichment/kofam/conserved_down.tsv
 results/enrichment/kofam/opposite.tsv
 .snakemake/
+legacy/
+Rplots.pdf

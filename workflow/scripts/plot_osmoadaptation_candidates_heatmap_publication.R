@@ -5,47 +5,46 @@ suppressPackageStartupMessages({
   library(pheatmap)
 })
 
-dir.create("figures/heatmap", recursive = TRUE, showWarnings = FALSE)
-dir.create("results/heatmap", recursive = TRUE, showWarnings = FALSE)
+dir.create("figures/osmoadaptation", recursive = TRUE, showWarnings = FALSE)
+dir.create("results/osmoadaptation", recursive = TRUE, showWarnings = FALSE)
 dir.create("manuscript/figures", recursive = TRUE, showWarnings = FALSE)
 
-df <- read_tsv(
-  "results/tables/master_conserved_ortholog_deg_table.tsv",
-  show_col_types = FALSE
-)
+infile <- "results/tables/Table3_Osmoadaptation_Candidates.tsv"
 
-df_unique <- df %>%
-  distinct(ve_protein, .keep_all = TRUE) %>%
+df <- read_tsv(infile, show_col_types = FALSE)
+
+df <- df %>%
   mutate(
-    combined_abs_log2FC = abs(ve_log2FC) + abs(pa_log2FC),
     raw_label = case_when(
       !is.na(ve_symbol) & ve_symbol != "" ~ ve_symbol,
       !is.na(pa_symbol) & pa_symbol != "" ~ pa_symbol,
       TRUE ~ ve_gene
     ),
-    label = gsub("_", " ", raw_label)
-  )
-
-top50 <- df_unique %>%
-  filter(response_class %in% c("conserved_up", "conserved_down")) %>%
+    label = gsub("_", " ", raw_label),
+    label = make.unique(label),
+    combined_abs_log2FC = abs(as.numeric(ve_log2FC)) + abs(as.numeric(pa_log2FC))
+  ) %>%
   arrange(desc(combined_abs_log2FC)) %>%
-  slice_head(n = 50)
+  slice_head(n = 30)
 
-top50$label <- make.unique(top50$label)
-
-mat <- top50 %>%
+mat <- df %>%
   select(label, ve_log2FC, pa_log2FC) %>%
+  mutate(
+    ve_log2FC = as.numeric(ve_log2FC),
+    pa_log2FC = as.numeric(pa_log2FC)
+  ) %>%
   column_to_rownames("label") %>%
   as.matrix()
 
 colnames(mat) <- c("Bvelezensis", "Bparalicheniformis")
 
-ann_row <- top50 %>%
+ann_row <- df %>%
   select(label, response_class, functional_category) %>%
   mutate(
     `Response class` = case_when(
       response_class == "conserved_up" ~ "Conserved up",
       response_class == "conserved_down" ~ "Conserved down",
+      response_class == "opposite" ~ "Opposite",
       TRUE ~ response_class
     ),
     `Functional category` = case_when(
@@ -66,7 +65,8 @@ ann_row <- top50 %>%
 ann_colors <- list(
   `Response class` = c(
     "Conserved up" = "#4DAF4A",
-    "Conserved down" = "#377EB8"
+    "Conserved down" = "#377EB8",
+    "Opposite" = "#E41A1C"
   ),
   `Functional category` = c(
     "Glycine betaine / choline" = "#CC79A7",
@@ -82,13 +82,13 @@ ann_colors <- list(
 )
 
 write_tsv(
-  top50,
-  "results/heatmap/top50_conserved_orthologs_selected.tsv"
+  df,
+  "results/osmoadaptation/osmoadaptation_top30_selected.tsv"
 )
 
 write_tsv(
   as.data.frame(mat) %>% rownames_to_column("gene_label"),
-  "results/heatmap/top50_conserved_orthologs_heatmap_matrix.tsv"
+  "results/osmoadaptation/osmoadaptation_top30_heatmap_matrix.tsv"
 )
 
 col_labels <- as.expression(c(
@@ -100,9 +100,9 @@ draw_heatmap <- function(filename, type = c("png", "pdf")) {
   type <- match.arg(type)
 
   if (type == "png") {
-    png(filename, width = 3400, height = 4300, res = 300)
+    png(filename, width = 3000, height = 3800, res = 300)
   } else {
-    pdf(filename, width = 9.5, height = 11.5)
+    pdf(filename, width = 8.8, height = 10.5)
   }
 
   pheatmap(
@@ -114,9 +114,9 @@ draw_heatmap <- function(filename, type = c("png", "pdf")) {
     cluster_cols = FALSE,
     scale = "none",
     fontsize = 10,
-    fontsize_row = 7,
+    fontsize_row = 8,
     fontsize_col = 13,
-    main = "Top 50 conserved salt-responsive orthologs",
+    main = "Conserved osmoadaptation-associated orthologs",
     border_color = NA,
     angle_col = "0",
     annotation_names_row = FALSE,
@@ -127,29 +127,29 @@ draw_heatmap <- function(filename, type = c("png", "pdf")) {
 }
 
 draw_heatmap(
-  "figures/heatmap/top50_conserved_orthologs_heatmap.png",
+  "figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.png",
   "png"
 )
 
 draw_heatmap(
-  "figures/heatmap/top50_conserved_orthologs_heatmap.pdf",
+  "figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.pdf",
   "pdf"
 )
 
 file.copy(
-  "figures/heatmap/top50_conserved_orthologs_heatmap.png",
-  "manuscript/figures/Figure4_Top50ConservedOrthologsHeatmap.png",
+  "figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.png",
+  "manuscript/figures/Figure5_OsmoadaptationHeatmapTop30.png",
   overwrite = TRUE
 )
 
 file.copy(
-  "figures/heatmap/top50_conserved_orthologs_heatmap.pdf",
-  "manuscript/figures/Figure4_Top50ConservedOrthologsHeatmap.pdf",
+  "figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.pdf",
+  "manuscript/figures/Figure5_OsmoadaptationHeatmapTop30.pdf",
   overwrite = TRUE
 )
 
 cat("\nHeatmap generated:\n")
-cat("figures/heatmap/top50_conserved_orthologs_heatmap.png\n")
-cat("figures/heatmap/top50_conserved_orthologs_heatmap.pdf\n")
-cat("manuscript/figures/Figure4_Top50ConservedOrthologsHeatmap.png\n")
-cat("manuscript/figures/Figure4_Top50ConservedOrthologsHeatmap.pdf\n")
+cat("figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.png\n")
+cat("figures/osmoadaptation/Osmoadaptation_Heatmap_Top30.pdf\n")
+cat("manuscript/figures/Figure5_OsmoadaptationHeatmapTop30.png\n")
+cat("manuscript/figures/Figure5_OsmoadaptationHeatmapTop30.pdf\n")

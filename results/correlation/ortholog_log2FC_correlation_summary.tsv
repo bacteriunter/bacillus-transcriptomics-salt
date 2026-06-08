@@ -1,0 +1,2 @@
+n_orthologs	pearson_r	pearson_pvalue	spearman_rho	spearman_pvalue	conserved_up_n	conserved_down_n	opposite_n
+725	0.3465746147921481	6.891187704163085e-22	0.33830355723010597	7.178806016853549e-21	234	230	261

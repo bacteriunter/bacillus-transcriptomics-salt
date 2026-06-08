@@ -1,0 +1,5 @@
+assembly	fna	gff	faa
+GCF_000009045.1	GCF_000009045.1_ASM904v1_genomic.fna	genomic.gff	protein.faa
+GCF_000258125.2	GCF_000258125.2_ASM25812v2_genomic.fna	genomic.gff	protein.faa
+GCF_057365115.1	GCF_057365115.1_ASM5736511v1_genomic.fna	genomic.gff	protein.faa
+GCF_979930925.1	GCF_979930925.1_SRL656_genomic.fna	genomic.gff	protein.faa

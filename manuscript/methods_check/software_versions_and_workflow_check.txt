@@ -1,0 +1,122 @@
+===== SYSTEM =====
+Fri Jun  5 16:21:20 CST 2026
+Linux GWCC51416 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+===== CONDA ENV =====
+CONDA_DEFAULT_ENV=rnaseq_salt
+conda 26.1.1
+bioconductor-tximport                      1.38.2           r45hdfd78af_0          bioconda
+r-base                                     4.5.2            h835929b_3             conda-forge
+salmon                                     1.10.3           haf24da9_3             bioconda
+
+===== COMMAND LINE TOOLS =====
+/home/bacte/miniconda3/envs/rnaseq_salt/bin/salmon
+salmon 1.10.3
+
+/usr/bin/mmseqs
+15-6f452+ds-2
+
+/home/bacte/miniconda3/bin/hmmsearch
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+/home/bacte/miniconda3/bin/parallel
+GNU parallel 20260422
+Copyright (C) 2007-2026 Ole Tange, http://ole.tange.dk and Free Software
+Foundation, Inc.
+
+Command 'snakemake' not found, but can be installed with:
+sudo apt install snakemake
+
+/home/bacte/miniconda3/envs/rnaseq_salt/bin/fastq-dump
+fastq-dump : 3.4.1
+
+
+/home/bacte/miniconda3/envs/rnaseq_salt/bin/fasterq-dump
+fasterq-dump : 3.4.1
+
+
+/usr/local/bin/datasets
+datasets version: 18.8.0
+
+/usr/local/bin/dataformat
+Error: unknown flag: --version
+
+  dataformat [command]
+
+Formatting Commands
+  tsv         Convert data into TSV format
+  excel       Convert data into an Excel workbook
+
+Data extraction Commands
+  catalog     Print the package catalog
+
+Miscellaneous Commands
+  completion  Generate autocompletion scripts
+  version     Print the version of this client and exit
+  help        Help about any command
+Use dataformat <command> --help for detailed help about a command.
+
+
+/home/bacte/miniconda3/envs/docking/bin/python
+Python 3.10.18
+
+/home/bacte/miniconda3/envs/rnaseq_salt/bin/Rscript
+Rscript (R) version 4.5.2 (2025-10-31)
+
+===== R PACKAGES =====
+DESeq2 : NOT INSTALLED
+tximport : 1.38.2 
+ggplot2 : NOT INSTALLED
+ggrepel : NOT INSTALLED
+pheatmap : NOT INSTALLED
+tidyverse : NOT INSTALLED
+dplyr : NOT INSTALLED
+readr : NOT INSTALLED
+
+===== PYTHON PACKAGES =====
+python: 3.10.18 | packaged by conda-forge | (main, Jun  4 2025, 14:45:41) [GCC 13.3.0]
+pandas: 2.3.2
+numpy: 2.2.6
+scipy: 1.15.2
+statsmodels: 0.14.5
+matplotlib: 3.10.6
+
+===== KOFAMSCAN =====
+-rwxr-xr-x 1 bacte bacte 136 May  2 16:46 /home/bacte/kofam_scan/exec_annotation
+Usage: exec_annotation [options] <query>
+  <query>                    FASTA formatted query sequence file
+  -o <file>                  File to output the result  [stdout]
+  -p, --profile <path>       Profile HMM database
+  -k, --ko-list <file>       KO information file
+  --cpu <num>                Number of CPU to use  [1]
+  -c, --config <file>        Config file
+  --tmp-dir <dir>            Temporary directory  [./tmp]
+  -E, --e-value <e_value>    Largest E-value required of the hits
+  -T, --threshold-scale <scale>
+                             The score thresholds will be multiplied by this value
+  -f, --format <format>      Format of the output [detail]
+      detail:          Detail for each hits (including hits below threshold)
+      detail-tsv:      Tab separeted values for detail format
+      mapper:          KEGG Mapper compatible format
+      mapper-one-line: Similar to mapper, but all hit KOs are listed in one line
+  --[no-]report-unannotated  Sequence name will be shown even if no KOs are assigned
+                             Default is true when format=mapper or mapper-all,
+                             false when format=detail
+  --create-alignment         Create domain annotation files for each sequence
+
+-rw-r--r-- 1 bacte bacte 2.8M May 28 01:54 /home/bacte/kofam_scan/ko_list
+27694
+
+===== PROJECT GIT =====
+9b41b21
+?? manuscript/methods_check/
+origin	https://github.com/bacteriunter/bacillus-transcriptomics-salt.git (fetch)
+origin	https://github.com/bacteriunter/bacillus-transcriptomics-salt.git (push)
+
+===== SNAKEMAKE CHECK =====
+Command 'snakemake' not found, but can be installed with:
+sudo apt install snakemake
